@@ -1,0 +1,52 @@
+@base <http://www.arida.ufc.br/mapeamentos/spotify/> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<#AlbumMapping>
+    rml:logicalSource [
+        rml:source "musicas_novas_brasileiras_filtradas.csv" ;
+        rml:referenceFormulation ql:CSV
+    ] ;
+
+    rr:subjectMap [
+        rr:template "http://www.arida.ufc.br/resource/Spotify/Album/{album_id}" ;
+        rr:class mo:Record ;
+        rr:class svm:Record_Spotify ;
+        rr:graph <https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Albums_Spotify>
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate dc:title ;
+        rr:objectMap [ rml:reference "album_name" ; rr:language "pt" ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:url ;
+        rr:objectMap [ rml:reference "album_url" ; rr:datatype xsd:anyURI ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:datePublished ;
+        rr:objectMap [ rml:reference "album_release_date" ; rr:datatype xsd:date ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate svm:numberOfTracks ;
+        rr:objectMap [ rml:reference "album_total_tracks" ; rr:datatype xsd:integer ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate svm:label ;
+        rr:objectMap [ rml:reference "album_label" ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:image ;
+        rr:objectMap [ rml:reference "album_image" ; rr:datatype xsd:anyURI ]
+    ] .

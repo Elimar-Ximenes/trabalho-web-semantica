@@ -1,0 +1,43 @@
+@base <http://www.arida.ufc.br/mapeamentos/spotify/> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<#ArtistMapping>
+    rml:logicalSource [
+        rml:source "musicas_novas_brasileiras_filtradas.csv" ;
+        rml:referenceFormulation ql:CSV
+    ] ;
+
+    rr:subjectMap [
+        rr:template "http://www.arida.ufc.br/resource/Spotify/Artist/{artist_id}" ;
+        rr:class mo:MusicArtist ;
+        rr:class svm:MusicArtist_Spotify ;
+        rr:graph <https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Artists_Spotify>
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate foaf:name ;
+        rr:objectMap [ rml:reference "artist_name_spotify" ; rr:language "pt" ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:image ;
+        rr:objectMap [ rml:reference "artist_image" ; rr:datatype xsd:anyURI ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate svm:followers ;
+        rr:objectMap [ rml:reference "artist_followers" ; rr:datatype xsd:integer ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate svm:popularity ;
+        rr:objectMap [ rml:reference "artist_popularity" ; rr:datatype xsd:integer ]
+    ] .
