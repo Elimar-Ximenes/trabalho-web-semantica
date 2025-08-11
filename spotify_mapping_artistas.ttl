@@ -40,4 +40,12 @@
     rr:predicateObjectMap [
         rr:predicate svm:popularity ;
         rr:objectMap [ rml:reference "artist_popularity" ; rr:datatype xsd:integer ]
+    ] ;
+
+    ## Ligação do artista aos álbuns que ele fez
+    rr:predicateObjectMap [
+        rr:predicate foaf:made ;
+        rr:objectMap [
+            rr:template "http://www.arida.ufc.br/resource/Spotify/Album/{album_id}"
+        ]
     ] .

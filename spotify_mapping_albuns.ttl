@@ -6,6 +6,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix schema: <http://schema.org/> .
 @prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <#AlbumMapping>
@@ -49,4 +50,20 @@
     rr:predicateObjectMap [
         rr:predicate schema:image ;
         rr:objectMap [ rml:reference "album_image" ; rr:datatype xsd:anyURI ]
+    ] ;
+
+    ## Ligação do álbum ao artista (foaf:maker)
+    rr:predicateObjectMap [
+        rr:predicate foaf:maker ;
+        rr:objectMap [
+            rr:template "http://www.arida.ufc.br/resource/Spotify/Artist/{artist_id}"
+        ]
+    ] ;
+
+    ## Ligação do álbum às faixas (mo:track)
+    rr:predicateObjectMap [
+        rr:predicate mo:track ;
+        rr:objectMap [
+            rr:template "http://www.arida.ufc.br/resource/Spotify/Track/{track_id}"
+        ]
     ] .
