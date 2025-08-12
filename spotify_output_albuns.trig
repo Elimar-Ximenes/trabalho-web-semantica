@@ -6,9 +6,10 @@
 @prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Albums_Spotify> {
-  <http://www.arida.ufc.br/resource/Spotify/Album/0DPsEpVRLlu8yZ0hFRIxxw> a mo:Record,
+<https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Records_Spotify> {
+  <http://www.arida.ufc.br/resource/Spotify/Record/0DPsEpVRLlu8yZ0hFRIxxw> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0DPsEpVRLlu8yZ0hFRIxxw";
     dc:title "Última Noite (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7EHlDvAa7gncwcAlfclZiX>;
     schema:datePublished "2023-10-27"^^xsd:date;
@@ -18,8 +19,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/47uyFQHOD02S0lj9ptRpoB> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/0EprvIKwgELetTgmauNnyp> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/0EprvIKwgELetTgmauNnyp> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0EprvIKwgELetTgmauNnyp";
     dc:title "Querendo Mais (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/6962LFd5bjJJ8gxL4wz6WG>;
     schema:datePublished "2023-08-02"^^xsd:date;
@@ -29,8 +31,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/0IvpAd8VMNzoPfKp0SUL5F> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/0IvpAd8VMNzoPfKp0SUL5F> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0IvpAd8VMNzoPfKp0SUL5F";
     dc:title "My Boo"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/57XMBBf2cBh4H6bp1aHdmL>;
     schema:datePublished "2024-01-19"^^xsd:date;
@@ -40,8 +43,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7tojcuXcZ7eBlQjbAc65Ee> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/0JAqOMw3Sngw7ZbnQvHdwM> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/0JAqOMw3Sngw7ZbnQvHdwM> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0JAqOMw3Sngw7ZbnQvHdwM";
     dc:title "Volta Baby"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/11fGxRFG3ke4QDsxsSuOVr>;
     schema:datePublished "2023-09-06"^^xsd:date;
@@ -51,8 +55,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5gz3bqZRtcp0ywe0VvfFAb> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/0Ze1e8yP0nQBmJpgr1DPrT> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/0Ze1e8yP0nQBmJpgr1DPrT> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0Ze1e8yP0nQBmJpgr1DPrT";
     dc:title "Freedom"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1900JESfRMYU1a35cFlqEm>;
     schema:datePublished "2023-10-25"^^xsd:date;
@@ -62,8 +67,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/42nEiwAAE2ypWbygM9iyJi> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/0aabe3MkHEfOH89G3AA7rX> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/0aabe3MkHEfOH89G3AA7rX> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0aabe3MkHEfOH89G3AA7rX";
     dc:title "Copy"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3Q6P44efSOTR4O52255KmX>;
     schema:datePublished "2023-10-26"^^xsd:date;
@@ -73,8 +79,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1mohmQWtxDNZcBGkfxG4eW> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/0iyqDsb8sbXxhhvMdn4YB2> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/0iyqDsb8sbXxhhvMdn4YB2> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0iyqDsb8sbXxhhvMdn4YB2";
     dc:title "Sem Compaixão"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7KDDrAqNSOdEUeNvAOEExR>;
     schema:datePublished "2023-07-18"^^xsd:date;
@@ -84,8 +91,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0xEdwBYYjxw6wk179Tq2sJ> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/0ti8lliLpOI44j6GF4OuIn> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/0ti8lliLpOI44j6GF4OuIn> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0ti8lliLpOI44j6GF4OuIn";
     dc:title "Lasca o Bocão no Litro"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3WDJ97Cc4xT9Un2bkukLBr>;
     schema:datePublished "2023-10-13"^^xsd:date;
@@ -95,8 +103,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7yPoxj2lXWy7J4ixQHVubk> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/0zw9UknsZjgphgTPyzL4rs> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/0zw9UknsZjgphgTPyzL4rs> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "0zw9UknsZjgphgTPyzL4rs";
     dc:title "Origens (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0wutcyWV7kSTMj4kT3nqkc>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1dvjaN8ZOHeJgk4xxqEAip>, <http://www.arida.ufc.br/resource/Spotify/Track/2ZWHVavQM4d2vpxjFBXfhu>,
@@ -114,8 +123,9 @@
     svm:numberOfTracks 16;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/14LmGIr2aU8m2UA4cQhdvu> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/14LmGIr2aU8m2UA4cQhdvu> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "14LmGIr2aU8m2UA4cQhdvu";
     dc:title "NEM AÍ"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7CHfDDYWBiRH609GKdWgif>;
     schema:datePublished "2023-10-26"^^xsd:date;
@@ -125,8 +135,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5wbf52LA6kcaboHSN6NEF1> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1G2fGIdi1ckC5yjCu4QCOm> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1G2fGIdi1ckC5yjCu4QCOm> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1G2fGIdi1ckC5yjCu4QCOm";
     dc:title "Vivência de Morro"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/65MVkxrTJIjKtla2e5oJoe>;
     schema:datePublished "2023-10-26"^^xsd:date;
@@ -136,8 +147,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6yZKPB8eRoJesHjtxPxSLs> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1MVOG9MC3OaC4Mli2NPsQX> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1MVOG9MC3OaC4Mli2NPsQX> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1MVOG9MC3OaC4Mli2NPsQX";
     dc:title "Luz Acesa"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2GNXsFAXEdPDxHxN4NSDSE>;
     schema:datePublished "2024-01-19"^^xsd:date;
@@ -147,8 +159,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4wh03gpwWgB5koOyZr8XxB> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1VqFCDs5i27SB11y6aPs8Y> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1VqFCDs5i27SB11y6aPs8Y> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1VqFCDs5i27SB11y6aPs8Y";
     dc:title "LABIRINTO"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0LJGq2TQMW5WwnD9AuPRuV>;
     schema:datePublished "2024-01-19"^^xsd:date;
@@ -158,8 +171,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7H3XEvrS2PsNzM76MczgHJ> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1WaIfoHKHix2M25FBZqiSW> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1WaIfoHKHix2M25FBZqiSW> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1WaIfoHKHix2M25FBZqiSW";
     dc:title "10 Anos (Ao Vivo / Vol.4)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0TiZY256MYgAIqQ6fSfk4z>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1rFW1CLGtIn5rqbccMu75x>, <http://www.arida.ufc.br/resource/Spotify/Track/3iqyrDLv03v9AevbIFmjCy>,
@@ -171,8 +185,9 @@
     svm:numberOfTracks 5;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1fg0TEYbq89Jmirue5wXai> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1fg0TEYbq89Jmirue5wXai> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1fg0TEYbq89Jmirue5wXai";
     dc:title "Boiadeira Internacional: Vol. 2 (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2avj6OdDYT5Ttd7vd8UhgP>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2w8RH8GsjNE9S68Wk1W698>, <http://www.arida.ufc.br/resource/Spotify/Track/5GTGT1c9yCZhQmxbPYCEwq>,
@@ -184,8 +199,9 @@
     svm:numberOfTracks 5;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2CKOmarVWvWqkNWUatHCex> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1jElzLi27vaY1p5JPyeVQU> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1jElzLi27vaY1p5JPyeVQU> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1jElzLi27vaY1p5JPyeVQU";
     dc:title "5 Da Manhã (Ao Vivo Em Goiânia)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0ZVWliWjMmYFxQe9U63Y5W>;
     schema:datePublished "2023-09-07"^^xsd:date;
@@ -195,8 +211,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1r4ULdTciiU79dFkXWhMJO> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1r4ULdTciiU79dFkXWhMJO> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1r4ULdTciiU79dFkXWhMJO";
     dc:title "LIA CLARK"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0hNRZwRsrEh0c7meEjv7ET>,
       <http://www.arida.ufc.br/resource/Spotify/Track/14XrWBBGmj4VxGHkXjiBBt>, <http://www.arida.ufc.br/resource/Spotify/Track/15ymHWBgATY5l1I8mwVOGF>,
@@ -211,8 +228,9 @@
     svm:numberOfTracks 11;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1scxBLyeF8CmbdErwhZgHj> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1scxBLyeF8CmbdErwhZgHj> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1scxBLyeF8CmbdErwhZgHj";
     dc:title "Meu Tom"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0BEOzEznvVREbSFqzuzkUl>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0bC1DqniOhLMJAq3adhGXj>, <http://www.arida.ufc.br/resource/Spotify/Track/0oXrEbGegE7ImJ7uvQY8Sa>,
@@ -226,8 +244,9 @@
     svm:numberOfTracks 9;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/1vqKzMezhZxuMhVTy2T2Vr> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/1vqKzMezhZxuMhVTy2T2Vr> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "1vqKzMezhZxuMhVTy2T2Vr";
     dc:title "Meu Fake Viu (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3pHhPKwbl9febQFidwyyu7>;
     schema:datePublished "2023-08-04"^^xsd:date;
@@ -237,8 +256,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0SPHfj49UeOgHKwSYcn8xZ> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/23xCMjuFXyFuQ2k1Q4EXyx> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/23xCMjuFXyFuQ2k1Q4EXyx> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "23xCMjuFXyFuQ2k1Q4EXyx";
     dc:title "Dói"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5qjwjBzWAxXjjqinjENzIF>;
     schema:datePublished "2023-08-03"^^xsd:date;
@@ -248,8 +268,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1elUiq4X7pxej6FRlrEzjM> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/247PIq5nGyhV0Yb4ooRpfv> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/247PIq5nGyhV0Yb4ooRpfv> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "247PIq5nGyhV0Yb4ooRpfv";
     dc:title "Coisas Banais (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4I9d62g05fUkjRPBqiWnPO>;
     schema:datePublished "2023-09-05"^^xsd:date;
@@ -259,8 +280,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/27ZKtXmfYS7OXGb1aKoI7U> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/27ZKtXmfYS7OXGb1aKoI7U> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "27ZKtXmfYS7OXGb1aKoI7U";
     dc:title "Mais Um Voo"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/39uMV1Ix79vlMNssVxACuU>;
     schema:datePublished "2023-10-10"^^xsd:date;
@@ -270,8 +292,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/68YeXpLt3jB7JHQS5ZjMGo> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/28FxczQCIQtBEn0FGqWtxE> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/28FxczQCIQtBEn0FGqWtxE> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "28FxczQCIQtBEn0FGqWtxE";
     dc:title "Ofício de Cantante"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0NNeK4HYMAGjWwX0SJMv4v>;
     schema:datePublished "2023-09-05"^^xsd:date;
@@ -281,8 +304,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0kc1BjcLHaXhZVzCp0HeAl> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2CNMWzDgeaGkEv9bMMxZnN> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2CNMWzDgeaGkEv9bMMxZnN> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2CNMWzDgeaGkEv9bMMxZnN";
     dc:title "Além - Vol. 3 (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/034yaQTjFYlcpAbuNWtZCZ>,
       <http://www.arida.ufc.br/resource/Spotify/Track/04KdSKGWarqNLxk0XTxS2q>, <http://www.arida.ufc.br/resource/Spotify/Track/0MDXwBpQCUCc8J2lURQwME>,
@@ -300,8 +324,9 @@
     svm:numberOfTracks 16;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2DOO1JYlNyuZddB7NIwp4t> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2DOO1JYlNyuZddB7NIwp4t> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2DOO1JYlNyuZddB7NIwp4t";
     dc:title "Perfume Diferente"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1bD0gGRUPUJZ9YDhffHkvK>;
     schema:datePublished "2023-10-13"^^xsd:date;
@@ -311,8 +336,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2UMj7NCbuqy1yUZmiSYGjJ> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2DVMqhsqQQ4832MzpOdElN> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2DVMqhsqQQ4832MzpOdElN> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2DVMqhsqQQ4832MzpOdElN";
     dc:title "O Que Eu Ganho"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1CNGqfIa5JyUj1cWfvGqAi>;
     schema:datePublished "2023-10-26"^^xsd:date;
@@ -322,8 +348,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/70HOdlw2Ud3B4A7W4CI1V6> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2EgIkuV76R6XfAefSNOkWX> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2EgIkuV76R6XfAefSNOkWX> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2EgIkuV76R6XfAefSNOkWX";
     dc:title "On Fire"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0CR7WsAcmzM6COhGr4ScR9>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0qB5kbLJ67RemlkYNqfHYX>, <http://www.arida.ufc.br/resource/Spotify/Track/1RH1dYFDLYXhXoQ1wpvw5L>,
@@ -341,8 +368,9 @@
     svm:numberOfTracks 16;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2Zzd18NtVk7zDX8oqg6bNh> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2Zzd18NtVk7zDX8oqg6bNh> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2Zzd18NtVk7zDX8oqg6bNh";
     dc:title "Egípcia"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2t6Nwm6LBgtkjyKgPF4eEJ>;
     schema:datePublished "2023-09-08"^^xsd:date;
@@ -352,8 +380,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7EyzyrMNgqiK8bMrbkOT9l> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2n8bS3ZKsmWBoCxxzqcWNv> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2n8bS3ZKsmWBoCxxzqcWNv> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2n8bS3ZKsmWBoCxxzqcWNv";
     dc:title "Na Minha Pele"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7hYJrBeVLB2tVgSQuRd0Mg>;
     schema:datePublished "2023-09-08"^^xsd:date;
@@ -363,8 +392,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6gEzJZrbm0F4ihvE9iXR9z> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2of77xllwOV4R21J3v4t20> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2of77xllwOV4R21J3v4t20> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2of77xllwOV4R21J3v4t20";
     dc:title "Dia de Operação"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0g3giA9of1DgXUYjqrNhgQ>;
     schema:datePublished "2024-01-15"^^xsd:date;
@@ -374,8 +404,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1WQBwwssN6r8DSjUlkyUGW> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2xReweSuwmZbdogHMILeek> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2xReweSuwmZbdogHMILeek> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2xReweSuwmZbdogHMILeek";
     dc:title "Baile do Papato"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0kNj5ZtOagfK7JkFo5xUmA>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2eP3XUWwWkSXOOnshg95CP>, <http://www.arida.ufc.br/resource/Spotify/Track/3Q0LWpLuhEcCCWjpfBRnzH>,
@@ -387,8 +418,9 @@
     svm:numberOfTracks 5;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0iZz25uH5PLaShpqq84uYv> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/2yg5pbW47YD4HVQ34cgfkC> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/2yg5pbW47YD4HVQ34cgfkC> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "2yg5pbW47YD4HVQ34cgfkC";
     dc:title "Quase Não Namoro"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/6eWx9pOK1JkIhUjeVmGYJr>;
     schema:datePublished "2023-08-04"^^xsd:date;
@@ -398,8 +430,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5coW9ioCpvEYGx4v1nvWec> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/31sonubmJGHeNaAUPrcHj5> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/31sonubmJGHeNaAUPrcHj5> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "31sonubmJGHeNaAUPrcHj5";
     dc:title "AFRODHIT"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/00RjxE32FXWZHnbpw3M0IT>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0Vt1AvV4EcZmGogB5yoHwl>, <http://www.arida.ufc.br/resource/Spotify/Track/19fy7EiY7vCLVpQOMl4yeq>,
@@ -415,8 +448,9 @@
     svm:numberOfTracks 13;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3DPHyHGCkEj3aJWX6U6my6> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3DPHyHGCkEj3aJWX6U6my6> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3DPHyHGCkEj3aJWX6U6my6";
     dc:title "Vaqueira Testada"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5Wsa3OK529e2y5WVbPDHw5>;
     schema:datePublished "2023-07-28"^^xsd:date;
@@ -426,8 +460,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3K8TfEOgyNmNpiJdYCW1wS> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3K8TfEOgyNmNpiJdYCW1wS> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3K8TfEOgyNmNpiJdYCW1wS";
     dc:title "Sejam Bem-Vindos ao Baile da Selva"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4roBWBenY4fe2frEAhXoKQ>;
     schema:datePublished "2023-07-15"^^xsd:date;
@@ -437,8 +472,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7ecRwFks8F2vYad383BkKf> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3KFcPPHqFd0BhuLCl95zGX> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3KFcPPHqFd0BhuLCl95zGX> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3KFcPPHqFd0BhuLCl95zGX";
     dc:title "De Lala - Spotify Singles"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7xLxkTNVdoe7MMO7DduPed>;
     schema:datePublished "2023-10-27"^^xsd:date;
@@ -448,8 +484,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/21ELc2P2rA3Cu6xw3VWqvv> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3LGfldmuHwAf1YxcagQjK1> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3LGfldmuHwAf1YxcagQjK1> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3LGfldmuHwAf1YxcagQjK1";
     dc:title "Baile Da DZ7 / Baile De Ladrão"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/16klDR1NJZ74qbkSO4yr6F>;
     schema:datePublished "2023-10-27"^^xsd:date;
@@ -459,8 +496,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4d175LvxCzxt5vHbJyv49q> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3Rr9SrIZvXGp1BxyrzdNRR> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3Rr9SrIZvXGp1BxyrzdNRR> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3Rr9SrIZvXGp1BxyrzdNRR";
     dc:title "Assume"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1Pbfj8p5E54sqiKb8hHLnp>;
     schema:datePublished "2023-10-13"^^xsd:date;
@@ -470,8 +508,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/66aYJzbeqXd9LyYc1qppzy> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3T8pak58PgFxme2Iu3mHet> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3T8pak58PgFxme2Iu3mHet> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3T8pak58PgFxme2Iu3mHet";
     dc:title "e se for pra ser sincera:"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1b0xzVRr8fIGa8dftdW3S8>;
     schema:datePublished "2023-10-26"^^xsd:date;
@@ -481,8 +520,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2TqXAXuNUnnzzCTuAs5DX5> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3UoWqSV4Ut6qIz4Hq6xBG3> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3UoWqSV4Ut6qIz4Hq6xBG3> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3UoWqSV4Ut6qIz4Hq6xBG3";
     dc:title "Foragido"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5lzozMoomZNhvKRoqNVg3t>;
     schema:datePublished "2024-01-18"^^xsd:date;
@@ -492,8 +532,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/42TGK7zUYHdMcKOPRg8g61> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3eGzFoARBUyPBPe5rOP9La> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3eGzFoARBUyPBPe5rOP9La> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3eGzFoARBUyPBPe5rOP9La";
     dc:title "Ritmo Do Crime"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5yjd0lAp6zahxFdqWeI8qM>;
     schema:datePublished "2023-07-20"^^xsd:date;
@@ -503,8 +544,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7gJN8W0589FisSYJS17K54> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/3l4DYm57I1ZUPyoA3HItMY> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/3l4DYm57I1ZUPyoA3HItMY> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "3l4DYm57I1ZUPyoA3HItMY";
     dc:title "Fica do Meu Lado"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/07s5sEJxDX9IZq5T6ox6BT>;
     schema:datePublished "2023-10-13"^^xsd:date;
@@ -514,8 +556,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4QXf68owEt4pbGAUeDaIfp> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/441tRqXneOV36nUgXFIi2N> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/441tRqXneOV36nUgXFIi2N> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "441tRqXneOV36nUgXFIi2N";
     dc:title "Roça no Topo (Deluxe) [Ao Vivo]"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/02AzgwJ9xwDqu0GESfRWgF>,
       <http://www.arida.ufc.br/resource/Spotify/Track/06UM8begYzZvMRLWap94R6>, <http://www.arida.ufc.br/resource/Spotify/Track/1U3vAG9fGyKNyVPjNp5QqV>,
@@ -534,8 +577,9 @@
     svm:numberOfTracks 19;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4E62XM9QVdCFVUuTcVFMPa> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4E62XM9QVdCFVUuTcVFMPa> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4E62XM9QVdCFVUuTcVFMPa";
     dc:title "Platinado"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2zZWxrqEjaEBJwUzyEX01S>;
     schema:datePublished "2023-10-27"^^xsd:date;
@@ -545,8 +589,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1ZcIMjx9kP46pUdFOdjWKQ> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4HPTBpBwOsQl8nyagVIgrl> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4HPTBpBwOsQl8nyagVIgrl> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4HPTBpBwOsQl8nyagVIgrl";
     dc:title "Amor Não Dá Em Copo (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0GTUqRzwAacEI5Pll8YlBA>;
     schema:datePublished "2023-10-25"^^xsd:date;
@@ -556,8 +601,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/41QLxRXlc2NwfJZkHGHKid> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4ICjzaL3faeqoOPda7Yz7h> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4ICjzaL3faeqoOPda7Yz7h> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4ICjzaL3faeqoOPda7Yz7h";
     dc:title "Tchau Pros Esquemas (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7p9J0aMGpmFbeIfwMXWL26>;
     schema:datePublished "2023-10-27"^^xsd:date;
@@ -567,8 +613,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1sDVuztNhGcetCLChkleDA> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4VLUQTD9p8yXgqnS8oBqN3> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4VLUQTD9p8yXgqnS8oBqN3> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4VLUQTD9p8yXgqnS8oBqN3";
     dc:title "Não Deixa Eu Saber"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4C1zrTdEYE55CfWuYlYZ28>;
     schema:datePublished "2023-07-20"^^xsd:date;
@@ -578,8 +625,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5Lv2GUVwqmQBPwrTrxucE5> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4a2jzuO8E9vXmcBnbiF3PU> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4a2jzuO8E9vXmcBnbiF3PU> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4a2jzuO8E9vXmcBnbiF3PU";
     dc:title "Catira do Brava Vol. 1 (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/6cirJZ3swqzyrTXPnVJfjg>,
       <http://www.arida.ufc.br/resource/Spotify/Track/70GasiiY8Nr4qAliK66kEx>;
@@ -590,8 +638,9 @@
     svm:numberOfTracks 2;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1LGh5vyaoQP9bgTwLSMTyW> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4dSYs3xICrNR4Mob4nn3Sa> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4dSYs3xICrNR4Mob4nn3Sa> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4dSYs3xICrNR4Mob4nn3Sa";
     dc:title "BRUXARIA 3000"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4WerFN1IRbgy8RGqpe08SH>;
     schema:datePublished "2023-10-26"^^xsd:date;
@@ -601,8 +650,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7rXMvXRnWHaSwnVvPeUUfw> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4g0LAPd9UDGIX2zgeHQXnY> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4g0LAPd9UDGIX2zgeHQXnY> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4g0LAPd9UDGIX2zgeHQXnY";
     dc:title "Estrela do Mar"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0rULs7B1JjYnnaooUbZwy5>;
     schema:datePublished "2023-07-20"^^xsd:date;
@@ -612,8 +662,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5YwzDz4RJfTiMHS4tdR5Lf> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4y2B0NZZ9FRdtHSKu4qAwH> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4y2B0NZZ9FRdtHSKu4qAwH> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4y2B0NZZ9FRdtHSKu4qAwH";
     dc:title "Tropical"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2qo8wunTxcySvz1oG5Y7az>;
     schema:datePublished "2024-01-19"^^xsd:date;
@@ -623,8 +674,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1mXAhKnZEdF6rotyyd4GBi> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/4zYjj0oRteBn9X6QdCmU57> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/4zYjj0oRteBn9X6QdCmU57> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "4zYjj0oRteBn9X6QdCmU57";
     dc:title "Abismo"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/56JVZMurnXPoy1HbB4dcNV>;
     schema:datePublished "2023-10-27"^^xsd:date;
@@ -634,8 +686,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0CdnnCbbKD4oIzBmxi2o7r> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/51W9VxFae3lbK4AhwLzB0L> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/51W9VxFae3lbK4AhwLzB0L> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "51W9VxFae3lbK4AhwLzB0L";
     dc:title "Lili"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/50xFGBuVecb9LQ6a5evQJg>;
     schema:datePublished "2023-09-07"^^xsd:date;
@@ -645,8 +698,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6U98XWjrUPnPtPBjEprDmu> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/59qldBzRiQutEYO1hqxw7H> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/59qldBzRiQutEYO1hqxw7H> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "59qldBzRiQutEYO1hqxw7H";
     dc:title "Faz um Vuk Vuk (Teto Espelhado)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/64CovjRwInpOJW4PiGMprY>;
     schema:datePublished "2023-07-20"^^xsd:date;
@@ -656,8 +710,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2UMj7NCbuqy1yUZmiSYGjJ> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5BO7ZG3qAxr6y7O7ft7SC8> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5BO7ZG3qAxr6y7O7ft7SC8> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5BO7ZG3qAxr6y7O7ft7SC8";
     dc:title "Encontro das Vozes: Favela Canta"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2gaPah5WD38Llyf7k9jCa4>;
     schema:datePublished "2023-10-13"^^xsd:date;
@@ -667,8 +722,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4IQKOXNGjuRRe0WgOm5YfB> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5G2XQuKhvrG0syKNtYhrav> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5G2XQuKhvrG0syKNtYhrav> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5G2XQuKhvrG0syKNtYhrav";
     dc:title "Bonde do Pedrinho"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1XnEVSM8F1Uuh0nQBX79m3>;
     schema:datePublished "2023-08-03"^^xsd:date;
@@ -678,8 +734,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1etNnR2SdlelBQAICa2Q5m> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5LW3YErz7ouSWNxbm6q3BQ> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5LW3YErz7ouSWNxbm6q3BQ> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5LW3YErz7ouSWNxbm6q3BQ";
     dc:title "Fuga (Ao Vivo Em Salvador)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2gThep1T9XV3CNWCVWWbHM>;
     schema:datePublished "2023-10-27"^^xsd:date;
@@ -689,8 +746,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4FUMTycjZlEY6ZxMgqNjC8> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5OyqoxpsEn7XEilamuZcXU> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5OyqoxpsEn7XEilamuZcXU> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5OyqoxpsEn7XEilamuZcXU";
     dc:title "AMBIENTE ERRADO (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2nfnhFDhwMet9yZodpGfn3>;
     schema:datePublished "2023-08-03"^^xsd:date;
@@ -700,8 +758,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3qvcCP2J0fWi0m0uQDUf6r> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5P0q5p1O6G4aC6RvtqZL9U> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5P0q5p1O6G4aC6RvtqZL9U> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5P0q5p1O6G4aC6RvtqZL9U";
     dc:title "Enquadro"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7nwZ3GQDbAyT6oecSiNrKK>;
     schema:datePublished "2024-01-19"^^xsd:date;
@@ -711,8 +770,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1cYhx7ZOhYoVmnDPb9KMwo> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5SOcG7pOSSipVv3QhRE3jg> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5SOcG7pOSSipVv3QhRE3jg> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5SOcG7pOSSipVv3QhRE3jg";
     dc:title "Rabisca"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/64NO1NaDBfju3wZDUXSS0a>;
     schema:datePublished "2023-09-06"^^xsd:date;
@@ -722,8 +782,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0jTDeBJQr3unrK29LklnAv> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5U1XbsQaSTr84Tyy1R36GV> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5U1XbsQaSTr84Tyy1R36GV> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5U1XbsQaSTr84Tyy1R36GV";
     dc:title "A Bolha Ao Vivo em São Paulo, Pt. 2"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4lP8bLXyZwr24ZuSLZDaAP>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6K9F9L5FqmdU8xGKVVyx4T>, <http://www.arida.ufc.br/resource/Spotify/Track/6gIpxm6CKCPrqq2jB3RaMg>,
@@ -736,8 +797,9 @@
     svm:numberOfTracks 7;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5dE5HmPgFPuPZFgGcOQr6u> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5dE5HmPgFPuPZFgGcOQr6u> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5dE5HmPgFPuPZFgGcOQr6u";
     dc:title "Deslizes"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/32hEA1vlWtYS6j5VgXk6j9>;
     schema:datePublished "2023-07-21"^^xsd:date;
@@ -747,8 +809,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/57VQCKnZ9nhS7bvoviXuZK> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5md8rYv1JhgQEsBMS5WREE> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5md8rYv1JhgQEsBMS5WREE> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5md8rYv1JhgQEsBMS5WREE";
     dc:title "Anota Aí (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5a2CIQaMW3Keqtx4BdXbEY>;
     schema:datePublished "2023-08-03"^^xsd:date;
@@ -758,8 +821,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5o0csE58lgjhza8ry0lNXA> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5o0csE58lgjhza8ry0lNXA> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5o0csE58lgjhza8ry0lNXA";
     dc:title "Atmosfera"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5Otfi0cla77BKiOp2BvtMx>;
     schema:datePublished "2023-09-08"^^xsd:date;
@@ -769,8 +833,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0vLuOi2k62sHujIfplInlK> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/5xESkjCLWsw4bN5HsOXPgo> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/5xESkjCLWsw4bN5HsOXPgo> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "5xESkjCLWsw4bN5HsOXPgo";
     dc:title "Se Solta"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/03qlAYKt8pzZfDDS52dNDz>;
     schema:datePublished "2023-07-21"^^xsd:date;
@@ -780,8 +845,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6qrqAYlS6lUj2BVXax7SZW> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6E9KXABonOSuK2moEnEsCn> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6E9KXABonOSuK2moEnEsCn> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6E9KXABonOSuK2moEnEsCn";
     dc:title "Rústico - EP 1 (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0APNYJODGOJC8mLK9hOzNs>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1dU5USXuWubXV5Gcm1G4VT>, <http://www.arida.ufc.br/resource/Spotify/Track/4oPrWblqwPrP7bSZCe3MfO>,
@@ -793,8 +859,9 @@
     svm:numberOfTracks 5;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1wT33JDD3YLC0fqFnsWo9F> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6KnyqyMBNCckwCsO21sDPU> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6KnyqyMBNCckwCsO21sDPU> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6KnyqyMBNCckwCsO21sDPU";
     dc:title "Essência 3 (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3LHdJqTcRejrr4yJUF6GxX>,
       <http://www.arida.ufc.br/resource/Spotify/Track/45lk23QySnqa8GYj3mn4To>, <http://www.arida.ufc.br/resource/Spotify/Track/50kDsSOgSS3YgvETW9qZJk>;
@@ -805,8 +872,9 @@
     svm:numberOfTracks 3;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0CrGLmfVKzk9rAyiNb91ft> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6ObK2QGCtSFaDxDYnKyKyZ> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6ObK2QGCtSFaDxDYnKyKyZ> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6ObK2QGCtSFaDxDYnKyKyZ";
     dc:title "Drop da Santa"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4m4ZQv1aPfi4jDpl8Kt5hK>;
     schema:datePublished "2024-01-15"^^xsd:date;
@@ -816,8 +884,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5Gv1C1LY8pWiYcfcdjSNMT> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6bUVIZIeTsNvW9QyWsaqYj> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6bUVIZIeTsNvW9QyWsaqYj> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6bUVIZIeTsNvW9QyWsaqYj";
     dc:title "O Mais Novo Romântico"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/07MA122PzVpwOLuVsyHBfR>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0IugBW2da8cfIZIVjlZ31C>, <http://www.arida.ufc.br/resource/Spotify/Track/0y7tbpW4aLlwV5PFvNbkL3>,
@@ -831,8 +900,9 @@
     svm:numberOfTracks 8;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6fOBk2fXnKaOQLSc3BIJcp> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6fOBk2fXnKaOQLSc3BIJcp> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6fOBk2fXnKaOQLSc3BIJcp";
     dc:title "Chuva de Mec"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2vocrbYbrwshHuv43eXNx3>,
       <http://www.arida.ufc.br/resource/Spotify/Track/4dbOFpvVb1QcVjv89ZKzOt>, <http://www.arida.ufc.br/resource/Spotify/Track/5Mqh0CWXHGZSofveWJro9P>,
@@ -844,8 +914,9 @@
     svm:numberOfTracks 5;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/65tpb4BwAnD3HOUs8MC6TB> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6faKhHj1VAsiLCNqU5JoKo> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6faKhHj1VAsiLCNqU5JoKo> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6faKhHj1VAsiLCNqU5JoKo";
     dc:title "Singular, Vol. 3 (Ao Vivo Em Goiânia)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0HMgpa0QsJC02KZZU3HtwY>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0ZOMv2yGWNPq0UhcTplNIr>, <http://www.arida.ufc.br/resource/Spotify/Track/1NpV8pR50KqqfAQNs9ZVHO>,
@@ -859,8 +930,9 @@
     svm:numberOfTracks 9;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6hjM8I6Oys64kviiVFpfj9> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6hjM8I6Oys64kviiVFpfj9> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6hjM8I6Oys64kviiVFpfj9";
     dc:title "Campo de Batalha Vol. 03 (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0l5EvqF7YL1a186MPB31fL>,
       <http://www.arida.ufc.br/resource/Spotify/Track/24vg8rpj4dz9IAnG6S02ez>, <http://www.arida.ufc.br/resource/Spotify/Track/2RVeTR9kTKGg1MT0TiGNgf>,
@@ -874,8 +946,9 @@
     svm:numberOfTracks 8;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6ijC1S3LFTvQlrQWkQko3E> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6ijC1S3LFTvQlrQWkQko3E> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6ijC1S3LFTvQlrQWkQko3E";
     dc:title "Maliciosa (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3vCH7bgO37Cx4dOIUlX9sv>;
     schema:datePublished "2024-01-18"^^xsd:date;
@@ -885,8 +958,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3CDoRporvSjdzTrm99a3gi> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/6ruTaJyyvcDhUJCMChPfuW> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/6ruTaJyyvcDhUJCMChPfuW> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "6ruTaJyyvcDhUJCMChPfuW";
     dc:title "Pede Pra Eu Ficar (Listen To Your Heart)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5niYBuEDe07PWTkAWC1HnZ>;
     schema:datePublished "2024-01-16"^^xsd:date;
@@ -896,8 +970,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6tzRZ39aZlNqlUzQlkuhDV> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/71WPmaIdErmdczERbxFDRp> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/71WPmaIdErmdczERbxFDRp> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "71WPmaIdErmdczERbxFDRp";
     dc:title "Cafézin de Vó (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1BCn0dTxjdd4IWDLBFIX6V>;
     schema:datePublished "2023-10-10"^^xsd:date;
@@ -907,8 +982,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/7B0EpsE17BgPH8zVUjjpNx> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/7B0EpsE17BgPH8zVUjjpNx> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "7B0EpsE17BgPH8zVUjjpNx";
     dc:title "Deu Rolo de Novo, Vol. 2 (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/16CuYdcg5Y713boIjAOU7O>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1tCZbkrxFfRV4Nf9CLpScs>, <http://www.arida.ufc.br/resource/Spotify/Track/4K2X6I83gKXvnDJRKxUIxZ>,
@@ -920,8 +996,9 @@
     svm:numberOfTracks 5;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6m6e7D2TnV0aYMllFFwMxu> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/7G7KssIGmmCFxf57ry7Hi1> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/7G7KssIGmmCFxf57ry7Hi1> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "7G7KssIGmmCFxf57ry7Hi1";
     dc:title "A Bolha Ao Vivo em São Paulo, Pt. 3"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1A7RuYYxiE8LooXjxC8s8w>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1bpVWd9jq6Sf5ujTXeAapi>, <http://www.arida.ufc.br/resource/Spotify/Track/1eF5hP8VtqdAeF9fuunAWF>,
@@ -934,8 +1011,9 @@
     svm:numberOfTracks 6;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/7JW0HSvdI2LB4nDNmHNzlN> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/7JW0HSvdI2LB4nDNmHNzlN> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "7JW0HSvdI2LB4nDNmHNzlN";
     dc:title "1% de Fé"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5JZhNLbNpEBJmFZ8V3ptiA>;
     schema:datePublished "2023-08-01"^^xsd:date;
@@ -945,8 +1023,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5Dz2FizMLqV0Cr3c8uhEcF> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/7M457yfuVeLaiYrtiKTvqn> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/7M457yfuVeLaiYrtiKTvqn> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "7M457yfuVeLaiYrtiKTvqn";
     dc:title "Weak"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3B9WYpcMBXyCWDm7K1KSLt>,
       <http://www.arida.ufc.br/resource/Spotify/Track/62gzfhHi2supfHWfi6iHbA>;
@@ -957,8 +1036,9 @@
     svm:numberOfTracks 2;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/28uJnu5EsrGml2tBd7y8ts> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/7aUiXiYY2C9IVblYLYJZ8T> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/7aUiXiYY2C9IVblYLYJZ8T> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "7aUiXiYY2C9IVblYLYJZ8T";
     dc:title "Peguei, Pegava e Pegaria"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5qW8SMKPM2NsluO2JZzAU2>;
     schema:datePublished "2024-01-18"^^xsd:date;
@@ -968,8 +1048,9 @@
     svm:numberOfTracks 1;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5exy2LREZrJ6aRzj1SwXQX> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/7kWXLVohywfzc5HzbKoS9f> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/7kWXLVohywfzc5HzbKoS9f> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "7kWXLVohywfzc5HzbKoS9f";
     dc:title "Além - Vol. 2 (Ao Vivo)"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2CNGOv15E0ps7zaoUPQldo>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2jNmJ0TZexLlCI6T3QLU4t>, <http://www.arida.ufc.br/resource/Spotify/Track/4PnxuU11fVtQubVqoPi08p>,
@@ -982,8 +1063,9 @@
     svm:numberOfTracks 6;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7> .
   
-  <http://www.arida.ufc.br/resource/Spotify/Album/7mgy4Q1DHnkEbLHXaN4Epv> a mo:Record,
+  <http://www.arida.ufc.br/resource/Spotify/Record/7mgy4Q1DHnkEbLHXaN4Epv> a mo:Record,
       svm:Record_Spotify;
+    dc:identifier "7mgy4Q1DHnkEbLHXaN4Epv";
     dc:title "SET DO PEDRINHO"@pt;
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4OL89YnOX1tdh6zlDRW8fb>;
     schema:datePublished "2023-10-27"^^xsd:date;

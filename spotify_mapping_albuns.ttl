@@ -16,10 +16,10 @@
     ] ;
 
     rr:subjectMap [
-        rr:template "http://www.arida.ufc.br/resource/Spotify/Album/{album_id}" ;
+        rr:template "http://www.arida.ufc.br/resource/Spotify/Record/{album_id}" ;
         rr:class mo:Record ;
         rr:class svm:Record_Spotify ;
-        rr:graph <https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Albums_Spotify>
+        rr:graph <https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Records_Spotify>
     ] ;
 
     rr:predicateObjectMap [
@@ -66,4 +66,9 @@
         rr:objectMap [
             rr:template "http://www.arida.ufc.br/resource/Spotify/Track/{track_id}"
         ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate dc:identifier ;
+        rr:objectMap [ rml:reference "album_id" ]
     ] .

@@ -7,6 +7,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix schema: <http://schema.org/> .
 @prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <#TrackMapping>
     rml:logicalSource [
@@ -28,27 +29,27 @@
 
     rr:predicateObjectMap [
         rr:predicate foaf:homepage ;
-        rr:objectMap [ rml:reference "track_url" ]
+        rr:objectMap [ rml:reference "track_url" ; rr:datatype xsd:anyURI ]
     ] ;
 
     rr:predicateObjectMap [
         rr:predicate mo:track_number ;
-        rr:objectMap [ rml:reference "track_number" ]
+        rr:objectMap [ rml:reference "track_number" ; rr:datatype xsd:integer ]
     ] ;
 
     rr:predicateObjectMap [
         rr:predicate mo:duration ;
-        rr:objectMap [ rml:reference "track_duration_ms" ]
+        rr:objectMap [ rml:reference "track_duration_ms" ; rr:datatype xsd:integer ]
     ] ;
 
     rr:predicateObjectMap [
         rr:predicate schema:audio ;
-        rr:objectMap [ rml:reference "track_preview_url" ]
+        rr:objectMap [ rml:reference "track_preview_url" ; rr:datatype xsd:anyURI ]
     ] ;
 
     rr:predicateObjectMap [
         rr:predicate svm:isExplicit ;
-        rr:objectMap [ rml:reference "track_explicit" ]
+        rr:objectMap [ rml:reference "track_explicit" ; rr:datatype xsd:boolean ]
     ] ;
 
     rr:predicateObjectMap [
@@ -64,8 +65,7 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate mo:record ;
-        rr:objectMap [
-            rr:template "http://www.arida.ufc.br/resource/Spotify/Album/{album_id}"
-        ]
+        rr:predicate dc:identifier ;
+        rr:objectMap [ rml:reference "track_id" ]
     ] .
+
