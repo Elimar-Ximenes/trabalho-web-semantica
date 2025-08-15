@@ -8,6 +8,7 @@
 @prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <#AlbumMapping>
     rml:logicalSource [
@@ -33,7 +34,7 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate schema:datePublished ;
+        rr:predicate dc:date ;
         rr:objectMap [ rml:reference "album_release_date" ; rr:datatype xsd:date ]
     ] ;
 
@@ -43,7 +44,12 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate svm:label ;
+        rr:predicate rdfs:label ;
+        rr:objectMap [ rml:reference "album_name" ; rr:language "pt" ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mo:label ;
         rr:objectMap [ rml:reference "album_label" ]
     ] ;
 

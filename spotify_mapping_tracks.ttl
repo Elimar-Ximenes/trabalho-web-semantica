@@ -8,6 +8,7 @@
 @prefix schema: <http://schema.org/> .
 @prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <#TrackMapping>
     rml:logicalSource [
@@ -38,7 +39,7 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate mo:duration ;
+        rr:predicate svm:duration ;
         rr:objectMap [ rml:reference "track_duration_ms" ; rr:datatype xsd:integer ]
     ] ;
 
@@ -58,10 +59,8 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate mo:performer ;
-        rr:objectMap [
-            rr:template "http://www.arida.ufc.br/resource/Spotify/Artist/{artist_id}"
-        ]
+        rr:predicate rdfs:label ;
+        rr:objectMap [ rml:reference "track_name_spotify" ; rr:language "pt" ]
     ] ;
 
     rr:predicateObjectMap [

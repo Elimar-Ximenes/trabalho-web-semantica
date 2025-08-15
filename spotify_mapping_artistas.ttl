@@ -8,6 +8,7 @@
 @prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <#ArtistMapping>
     rml:logicalSource [
@@ -48,6 +49,28 @@
         rr:objectMap [
             rr:template "http://www.arida.ufc.br/resource/Spotify/Record/{album_id}"
         ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label ;
+        rr:objectMap [ rml:reference "artist_name_spotify" ; rr:language "pt" ]
+    ] ;
+
+    # ## Gêneros do artista como triplas RDF
+    # rr:predicateObjectMap [
+    #     rr:predicate svm:genre ;
+    #     rr:objectMap [
+    #         rml:reference "artist_genres" ;
+    #         rr:termType rr:Literal
+    #     ]
+    # ] ;
+
+    ## Gêneros do artista como comentário
+
+    # Por enquanto vou deixar os generos como comment
+    rr:predicateObjectMap [
+        rr:predicate rdfs:comment ;
+        rr:objectMap [ rml:reference "artist_genres" ; rr:language "pt" ]
     ] ;
 
     rr:predicateObjectMap [

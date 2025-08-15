@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix rml: <http://w3id.org/rml/> .
 @prefix schema: <http://schema.org/> .
 @prefix svm: <http://www.arida.ufc.br/ontologies/music#> .
@@ -12,9 +13,9 @@
     dc:identifier "00RjxE32FXWZHnbpw3M0IT";
     dc:title "Boombasstic"@pt;
     mo:ISRC "BRWMB2301097";
-    mo:duration 207915;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 207915;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Boombasstic"@pt;
     foaf:homepage "https://open.spotify.com/track/00RjxE32FXWZHnbpw3M0IT"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/02AzgwJ9xwDqu0GESfRWgF> a mo:Track,
@@ -22,9 +23,9 @@
     dc:identifier "02AzgwJ9xwDqu0GESfRWgF";
     dc:title "Rei do Mato - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300011";
-    mo:duration 175065;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 175065;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Rei do Mato - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/02AzgwJ9xwDqu0GESfRWgF"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/034yaQTjFYlcpAbuNWtZCZ> a mo:Track,
@@ -32,9 +33,9 @@
     dc:identifier "034yaQTjFYlcpAbuNWtZCZ";
     dc:title "Tudo Tem Você - Ao Vivo"@pt;
     mo:ISRC "BRSME2301009";
-    mo:duration 195921;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 195921;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tudo Tem Você - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/034yaQTjFYlcpAbuNWtZCZ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/03qlAYKt8pzZfDDS52dNDz> a mo:Track,
@@ -42,9 +43,9 @@
     dc:identifier "03qlAYKt8pzZfDDS52dNDz";
     dc:title "Se Solta"@pt;
     mo:ISRC "BCAPW2300152";
-    mo:duration 106182;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6qrqAYlS6lUj2BVXax7SZW>;
+    svm:duration 106182;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Se Solta"@pt;
     foaf:homepage "https://open.spotify.com/track/03qlAYKt8pzZfDDS52dNDz"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/04KdSKGWarqNLxk0XTxS2q> a mo:Track,
@@ -52,9 +53,9 @@
     dc:identifier "04KdSKGWarqNLxk0XTxS2q";
     dc:title "Namora Eu Aí - Ao Vivo"@pt;
     mo:ISRC "BRSME2301005";
-    mo:duration 145507;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 145507;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Namora Eu Aí - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/04KdSKGWarqNLxk0XTxS2q"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/06UM8begYzZvMRLWap94R6> a mo:Track,
@@ -62,9 +63,9 @@
     dc:identifier "06UM8begYzZvMRLWap94R6";
     dc:title "US Agroboy da Roça - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300035";
-    mo:duration 157421;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 157421;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "US Agroboy da Roça - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/06UM8begYzZvMRLWap94R6"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/07MA122PzVpwOLuVsyHBfR> a mo:Track,
@@ -72,9 +73,9 @@
     dc:identifier "07MA122PzVpwOLuVsyHBfR";
     dc:title "Lembrança"@pt;
     mo:ISRC "BCM9A2300072";
-    mo:duration 135211;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB>;
+    svm:duration 135211;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Lembrança"@pt;
     foaf:homepage "https://open.spotify.com/track/07MA122PzVpwOLuVsyHBfR"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/07s5sEJxDX9IZq5T6ox6BT> a mo:Track,
@@ -82,9 +83,9 @@
     dc:identifier "07s5sEJxDX9IZq5T6ox6BT";
     dc:title "Fica do Meu Lado"@pt;
     mo:ISRC "BKDP52300038";
-    mo:duration 162228;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4QXf68owEt4pbGAUeDaIfp>;
+    svm:duration 162228;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Fica do Meu Lado"@pt;
     foaf:homepage "https://open.spotify.com/track/07s5sEJxDX9IZq5T6ox6BT"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0APNYJODGOJC8mLK9hOzNs> a mo:Track,
@@ -92,9 +93,9 @@
     dc:identifier "0APNYJODGOJC8mLK9hOzNs";
     dc:title "Frente Fria - Ao Vivo"@pt;
     mo:ISRC "BXZZC2200010";
-    mo:duration 202103;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1wT33JDD3YLC0fqFnsWo9F>;
+    svm:duration 202103;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Frente Fria - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0APNYJODGOJC8mLK9hOzNs"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0BEOzEznvVREbSFqzuzkUl> a mo:Track,
@@ -102,9 +103,9 @@
     dc:identifier "0BEOzEznvVREbSFqzuzkUl";
     dc:title "Chega Mais"@pt;
     mo:ISRC "BXV6U2300007";
-    mo:duration 191724;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 191724;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Chega Mais"@pt;
     foaf:homepage "https://open.spotify.com/track/0BEOzEznvVREbSFqzuzkUl"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0CR7WsAcmzM6COhGr4ScR9> a mo:Track,
@@ -112,9 +113,9 @@
     dc:identifier "0CR7WsAcmzM6COhGr4ScR9";
     dc:title "Cancelado"@pt;
     mo:ISRC "BRJ8K2300001";
-    mo:duration 170636;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 170636;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Cancelado"@pt;
     foaf:homepage "https://open.spotify.com/track/0CR7WsAcmzM6COhGr4ScR9"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0GTUqRzwAacEI5Pll8YlBA> a mo:Track,
@@ -122,9 +123,9 @@
     dc:identifier "0GTUqRzwAacEI5Pll8YlBA";
     dc:title "Amor Não Dá Em Copo - Ao Vivo"@pt;
     mo:ISRC "BRRGE2300187";
-    mo:duration 169297;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/41QLxRXlc2NwfJZkHGHKid>;
+    svm:duration 169297;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Amor Não Dá Em Copo - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0GTUqRzwAacEI5Pll8YlBA"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0HMgpa0QsJC02KZZU3HtwY> a mo:Track,
@@ -132,9 +133,9 @@
     dc:identifier "0HMgpa0QsJC02KZZU3HtwY";
     dc:title "Galopada De Saudade - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300073";
-    mo:duration 152118;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 152118;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Galopada De Saudade - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0HMgpa0QsJC02KZZU3HtwY"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0IugBW2da8cfIZIVjlZ31C> a mo:Track,
@@ -142,9 +143,9 @@
     dc:identifier "0IugBW2da8cfIZIVjlZ31C";
     dc:title "Um Pouco Mais"@pt;
     mo:ISRC "BCM9A2300075";
-    mo:duration 268387;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB>;
+    svm:duration 268387;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Um Pouco Mais"@pt;
     foaf:homepage "https://open.spotify.com/track/0IugBW2da8cfIZIVjlZ31C"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0LJGq2TQMW5WwnD9AuPRuV> a mo:Track,
@@ -152,9 +153,9 @@
     dc:identifier "0LJGq2TQMW5WwnD9AuPRuV";
     dc:title "LABIRINTO"@pt;
     mo:ISRC "BRWMB2301733";
-    mo:duration 184405;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7H3XEvrS2PsNzM76MczgHJ>;
+    svm:duration 184405;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "LABIRINTO"@pt;
     foaf:homepage "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0MDXwBpQCUCc8J2lURQwME> a mo:Track,
@@ -162,9 +163,9 @@
     dc:identifier "0MDXwBpQCUCc8J2lURQwME";
     dc:title "Me Deixa em Paz - Ao Vivo"@pt;
     mo:ISRC "BRSME2300998";
-    mo:duration 208831;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 208831;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Me Deixa em Paz - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0MDXwBpQCUCc8J2lURQwME"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0NNeK4HYMAGjWwX0SJMv4v> a mo:Track,
@@ -172,9 +173,9 @@
     dc:identifier "0NNeK4HYMAGjWwX0SJMv4v";
     dc:title "Ofício de Cantante"@pt;
     mo:ISRC "BXX6G2300001";
-    mo:duration 278837;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0kc1BjcLHaXhZVzCp0HeAl>;
+    svm:duration 278837;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Ofício de Cantante"@pt;
     foaf:homepage "https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0TiZY256MYgAIqQ6fSfk4z> a mo:Track,
@@ -182,9 +183,9 @@
     dc:identifier "0TiZY256MYgAIqQ6fSfk4z";
     dc:title "Fake News / Despedida De Casal - Ao Vivo"@pt;
     mo:ISRC "BRUM72202306";
-    mo:duration 116170;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP>;
+    svm:duration 116170;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Fake News / Despedida De Casal - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0TiZY256MYgAIqQ6fSfk4z"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0Vt1AvV4EcZmGogB5yoHwl> a mo:Track,
@@ -192,9 +193,9 @@
     dc:identifier "0Vt1AvV4EcZmGogB5yoHwl";
     dc:title "Nunca Mais"@pt;
     mo:ISRC "BRWMB2300889";
-    mo:duration 245000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 245000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Nunca Mais"@pt;
     foaf:homepage "https://open.spotify.com/track/0Vt1AvV4EcZmGogB5yoHwl"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0ZOMv2yGWNPq0UhcTplNIr> a mo:Track,
@@ -202,9 +203,9 @@
     dc:identifier "0ZOMv2yGWNPq0UhcTplNIr";
     dc:title "Colega De Quarto - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300079";
-    mo:duration 171525;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 171525;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Colega De Quarto - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0ZOMv2yGWNPq0UhcTplNIr"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0ZVWliWjMmYFxQe9U63Y5W> a mo:Track,
@@ -212,9 +213,9 @@
     dc:identifier "0ZVWliWjMmYFxQe9U63Y5W";
     dc:title "5 Da Manhã - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300083";
-    mo:duration 147116;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 147116;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "5 Da Manhã - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0bC1DqniOhLMJAq3adhGXj> a mo:Track,
@@ -222,9 +223,9 @@
     dc:identifier "0bC1DqniOhLMJAq3adhGXj";
     dc:title "Bom Dia"@pt;
     mo:ISRC "BXV6U2300003";
-    mo:duration 195000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 195000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Bom Dia"@pt;
     foaf:homepage "https://open.spotify.com/track/0bC1DqniOhLMJAq3adhGXj"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0g3giA9of1DgXUYjqrNhgQ> a mo:Track,
@@ -232,9 +233,9 @@
     dc:identifier "0g3giA9of1DgXUYjqrNhgQ";
     dc:title "Dia de Operação"@pt;
     mo:ISRC "BKLVW2400001";
-    mo:duration 232014;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1WQBwwssN6r8DSjUlkyUGW>;
+    svm:duration 232014;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Dia de Operação"@pt;
     foaf:homepage "https://open.spotify.com/track/0g3giA9of1DgXUYjqrNhgQ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0hNRZwRsrEh0c7meEjv7ET> a mo:Track,
@@ -242,9 +243,9 @@
     dc:identifier "0hNRZwRsrEh0c7meEjv7ET";
     dc:title "Sentadinha Macia"@pt;
     mo:ISRC "BCHMR2100003";
-    mo:duration 137538;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 137538;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Sentadinha Macia"@pt;
     foaf:homepage "https://open.spotify.com/track/0hNRZwRsrEh0c7meEjv7ET"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0kNj5ZtOagfK7JkFo5xUmA> a mo:Track,
@@ -252,9 +253,9 @@
     dc:identifier "0kNj5ZtOagfK7JkFo5xUmA";
     dc:title "5 Estrelas"@pt;
     mo:ISRC "BRWMB2000651";
-    mo:duration 175135;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0iZz25uH5PLaShpqq84uYv>;
+    svm:duration 175135;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "5 Estrelas"@pt;
     foaf:homepage "https://open.spotify.com/track/0kNj5ZtOagfK7JkFo5xUmA"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0l5EvqF7YL1a186MPB31fL> a mo:Track,
@@ -262,9 +263,9 @@
     dc:identifier "0l5EvqF7YL1a186MPB31fL";
     dc:title "Acabei de Terminar - Ao Vivo"@pt;
     mo:ISRC "BRWNV2300055";
-    mo:duration 173927;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv>;
+    svm:duration 173927;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Acabei de Terminar - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0l5EvqF7YL1a186MPB31fL"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0oXrEbGegE7ImJ7uvQY8Sa> a mo:Track,
@@ -272,9 +273,9 @@
     dc:identifier "0oXrEbGegE7ImJ7uvQY8Sa";
     dc:title "A Descarada"@pt;
     mo:ISRC "BXV6U2300013";
-    mo:duration 138461;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 138461;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "A Descarada"@pt;
     foaf:homepage "https://open.spotify.com/track/0oXrEbGegE7ImJ7uvQY8Sa"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0qB5kbLJ67RemlkYNqfHYX> a mo:Track,
@@ -282,9 +283,9 @@
     dc:identifier "0qB5kbLJ67RemlkYNqfHYX";
     dc:title "Tudo Errado"@pt;
     mo:ISRC "BRJ8K2300005";
-    mo:duration 165184;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 165184;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tudo Errado"@pt;
     foaf:homepage "https://open.spotify.com/track/0qB5kbLJ67RemlkYNqfHYX"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0rJvi7IQP6JLO5djPLvaZx> a mo:Track,
@@ -292,9 +293,9 @@
     dc:identifier "0rJvi7IQP6JLO5djPLvaZx";
     dc:title "Massagem"@pt;
     mo:ISRC "BXV6U2300005";
-    mo:duration 203896;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 203896;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Massagem"@pt;
     foaf:homepage "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0rULs7B1JjYnnaooUbZwy5> a mo:Track,
@@ -302,9 +303,9 @@
     dc:identifier "0rULs7B1JjYnnaooUbZwy5";
     dc:title "Estrela do Mar"@pt;
     mo:ISRC "BX9ZT2300205";
-    mo:duration 195033;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/5YwzDz4RJfTiMHS4tdR5Lf>;
+    svm:duration 195033;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Estrela do Mar"@pt;
     foaf:homepage "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0wutcyWV7kSTMj4kT3nqkc> a mo:Track,
@@ -312,9 +313,9 @@
     dc:identifier "0wutcyWV7kSTMj4kT3nqkc";
     dc:title "Capota - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300149";
-    mo:duration 144507;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 144507;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Capota - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/0wutcyWV7kSTMj4kT3nqkc"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/0y7tbpW4aLlwV5PFvNbkL3> a mo:Track,
@@ -322,9 +323,9 @@
     dc:identifier "0y7tbpW4aLlwV5PFvNbkL3";
     dc:title "Conexão"@pt;
     mo:ISRC "BCM9A2300073";
-    mo:duration 168000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB>;
+    svm:duration 168000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Conexão"@pt;
     foaf:homepage "https://open.spotify.com/track/0y7tbpW4aLlwV5PFvNbkL3"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/11fGxRFG3ke4QDsxsSuOVr> a mo:Track,
@@ -332,9 +333,9 @@
     dc:identifier "11fGxRFG3ke4QDsxsSuOVr";
     dc:title "Volta Baby"@pt;
     mo:ISRC "BCZ962300003";
-    mo:duration 166802;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/5gz3bqZRtcp0ywe0VvfFAb>;
+    svm:duration 166802;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Volta Baby"@pt;
     foaf:homepage "https://open.spotify.com/track/11fGxRFG3ke4QDsxsSuOVr"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/14XrWBBGmj4VxGHkXjiBBt> a mo:Track,
@@ -342,9 +343,9 @@
     dc:identifier "14XrWBBGmj4VxGHkXjiBBt";
     dc:title "M&V - Interlude"@pt;
     mo:ISRC "BCHMR2300007";
-    mo:duration 70693;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 70693;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "M&V - Interlude"@pt;
     foaf:homepage "https://open.spotify.com/track/14XrWBBGmj4VxGHkXjiBBt"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/15ymHWBgATY5l1I8mwVOGF> a mo:Track,
@@ -352,9 +353,9 @@
     dc:identifier "15ymHWBgATY5l1I8mwVOGF";
     dc:title "MATCH"@pt;
     mo:ISRC "BCHMR2300006";
-    mo:duration 130255;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 130255;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "MATCH"@pt;
     foaf:homepage "https://open.spotify.com/track/15ymHWBgATY5l1I8mwVOGF"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/16CuYdcg5Y713boIjAOU7O> a mo:Track,
@@ -362,9 +363,9 @@
     dc:identifier "16CuYdcg5Y713boIjAOU7O";
     dc:title "Milionário - Ao Vivo"@pt;
     mo:ISRC "BCVV82300080";
-    mo:duration 154698;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6m6e7D2TnV0aYMllFFwMxu>;
+    svm:duration 154698;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Milionário - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/16CuYdcg5Y713boIjAOU7O"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/16klDR1NJZ74qbkSO4yr6F> a mo:Track,
@@ -372,9 +373,9 @@
     dc:identifier "16klDR1NJZ74qbkSO4yr6F";
     dc:title "Baile Da DZ7 / Baile De Ladrão"@pt;
     mo:ISRC "BRRGE2300827";
-    mo:duration 188999;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4d175LvxCzxt5vHbJyv49q>;
+    svm:duration 188999;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Baile Da DZ7 / Baile De Ladrão"@pt;
     foaf:homepage "https://open.spotify.com/track/16klDR1NJZ74qbkSO4yr6F"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1900JESfRMYU1a35cFlqEm> a mo:Track,
@@ -382,9 +383,9 @@
     dc:identifier "1900JESfRMYU1a35cFlqEm";
     dc:title "Freedom"@pt;
     mo:ISRC "BX75Y2300113";
-    mo:duration 218048;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/42nEiwAAE2ypWbygM9iyJi>;
+    svm:duration 218048;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Freedom"@pt;
     foaf:homepage "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/19fy7EiY7vCLVpQOMl4yeq> a mo:Track,
@@ -392,9 +393,9 @@
     dc:identifier "19fy7EiY7vCLVpQOMl4yeq";
     dc:title "Fiu Fiu"@pt;
     mo:ISRC "BRWMB2301092";
-    mo:duration 204235;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 204235;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Fiu Fiu"@pt;
     foaf:homepage "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1A7RuYYxiE8LooXjxC8s8w> a mo:Track,
@@ -402,9 +403,9 @@
     dc:identifier "1A7RuYYxiE8LooXjxC8s8w";
     dc:title "A Bolha - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300070";
-    mo:duration 316000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 316000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "A Bolha - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1A7RuYYxiE8LooXjxC8s8w"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1BCn0dTxjdd4IWDLBFIX6V> a mo:Track,
@@ -412,9 +413,9 @@
     dc:identifier "1BCn0dTxjdd4IWDLBFIX6V";
     dc:title "Cafézin de Vó - Ao Vivo"@pt;
     mo:ISRC "BCAVV2300102";
-    mo:duration 163654;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W>;
+    svm:duration 163654;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Cafézin de Vó - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1CNGqfIa5JyUj1cWfvGqAi> a mo:Track,
@@ -422,9 +423,9 @@
     dc:identifier "1CNGqfIa5JyUj1cWfvGqAi";
     dc:title "O Que Eu Ganho"@pt;
     mo:ISRC "BRD1E2300127";
-    mo:duration 209000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/70HOdlw2Ud3B4A7W4CI1V6>;
+    svm:duration 209000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "O Que Eu Ganho"@pt;
     foaf:homepage "https://open.spotify.com/track/1CNGqfIa5JyUj1cWfvGqAi"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1NpV8pR50KqqfAQNs9ZVHO> a mo:Track,
@@ -432,9 +433,9 @@
     dc:identifier "1NpV8pR50KqqfAQNs9ZVHO";
     dc:title "Término Dos Términos - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300072";
-    mo:duration 191261;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 191261;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Término Dos Términos - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1NpV8pR50KqqfAQNs9ZVHO"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1Pbfj8p5E54sqiKb8hHLnp> a mo:Track,
@@ -442,9 +443,9 @@
     dc:identifier "1Pbfj8p5E54sqiKb8hHLnp";
     dc:title "Assume"@pt;
     mo:ISRC "BRRGE2300765";
-    mo:duration 153365;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/66aYJzbeqXd9LyYc1qppzy>;
+    svm:duration 153365;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Assume"@pt;
     foaf:homepage "https://open.spotify.com/track/1Pbfj8p5E54sqiKb8hHLnp"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1RH1dYFDLYXhXoQ1wpvw5L> a mo:Track,
@@ -452,9 +453,9 @@
     dc:identifier "1RH1dYFDLYXhXoQ1wpvw5L";
     dc:title "Uma Nova História (feat. André Fernandes)"@pt;
     mo:ISRC "BRJ8K2300017";
-    mo:duration 356427;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 356427;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Uma Nova História (feat. André Fernandes)"@pt;
     foaf:homepage "https://open.spotify.com/track/1RH1dYFDLYXhXoQ1wpvw5L"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1U3vAG9fGyKNyVPjNp5QqV> a mo:Track,
@@ -462,9 +463,9 @@
     dc:identifier "1U3vAG9fGyKNyVPjNp5QqV";
     dc:title "Galopadinha no Pai - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300001";
-    mo:duration 147744;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 147744;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Galopadinha no Pai - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1U3vAG9fGyKNyVPjNp5QqV"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1XEDI0MvnduicqwWm2iZjh> a mo:Track,
@@ -472,9 +473,9 @@
     dc:identifier "1XEDI0MvnduicqwWm2iZjh";
     dc:title "Risca Faca da Vida - Ao Vivo"@pt;
     mo:ISRC "BRWMB2300549";
-    mo:duration 194620;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 194620;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Risca Faca da Vida - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1XEDI0MvnduicqwWm2iZjh"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1XnEVSM8F1Uuh0nQBX79m3> a mo:Track,
@@ -482,9 +483,9 @@
     dc:identifier "1XnEVSM8F1Uuh0nQBX79m3";
     dc:title "Bonde do Pedrinho"@pt;
     mo:ISRC "BKBSS2300084";
-    mo:duration 103384;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1etNnR2SdlelBQAICa2Q5m>;
+    svm:duration 103384;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Bonde do Pedrinho"@pt;
     foaf:homepage "https://open.spotify.com/track/1XnEVSM8F1Uuh0nQBX79m3"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1Y0Gb1jobDVBFraoSEEWAI> a mo:Track,
@@ -492,9 +493,9 @@
     dc:identifier "1Y0Gb1jobDVBFraoSEEWAI";
     dc:title "Automático"@pt;
     mo:ISRC "BRJ8K2300007";
-    mo:duration 151678;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 151678;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Automático"@pt;
     foaf:homepage "https://open.spotify.com/track/1Y0Gb1jobDVBFraoSEEWAI"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1a1CZOOOgsm1bGf0G92Zrn> a mo:Track,
@@ -502,9 +503,9 @@
     dc:identifier "1a1CZOOOgsm1bGf0G92Zrn";
     dc:title "Do Seu Lado"@pt;
     mo:ISRC "BCM9A2300074";
-    mo:duration 187680;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB>;
+    svm:duration 187680;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Do Seu Lado"@pt;
     foaf:homepage "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1b0xzVRr8fIGa8dftdW3S8> a mo:Track,
@@ -512,9 +513,9 @@
     dc:identifier "1b0xzVRr8fIGa8dftdW3S8";
     dc:title "e se for pra ser sincera:"@pt;
     mo:ISRC "DGA0H2307265";
-    mo:duration 194583;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2TqXAXuNUnnzzCTuAs5DX5>;
+    svm:duration 194583;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "e se for pra ser sincera:"@pt;
     foaf:homepage "https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1bD0gGRUPUJZ9YDhffHkvK> a mo:Track,
@@ -522,9 +523,9 @@
     dc:identifier "1bD0gGRUPUJZ9YDhffHkvK";
     dc:title "Perfume Diferente"@pt;
     mo:ISRC "BKKVN2300008";
-    mo:duration 92444;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2UMj7NCbuqy1yUZmiSYGjJ>;
+    svm:duration 92444;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Perfume Diferente"@pt;
     foaf:homepage "https://open.spotify.com/track/1bD0gGRUPUJZ9YDhffHkvK"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1bpVWd9jq6Sf5ujTXeAapi> a mo:Track,
@@ -532,9 +533,9 @@
     dc:identifier "1bpVWd9jq6Sf5ujTXeAapi";
     dc:title "Adrenalizou - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300073";
-    mo:duration 244452;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 244452;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Adrenalizou - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1bpVWd9jq6Sf5ujTXeAapi"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1dU5USXuWubXV5Gcm1G4VT> a mo:Track,
@@ -542,9 +543,9 @@
     dc:identifier "1dU5USXuWubXV5Gcm1G4VT";
     dc:title "Saudade Bandida - Ao Vivo"@pt;
     mo:ISRC "BXZZC2200009";
-    mo:duration 224555;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1wT33JDD3YLC0fqFnsWo9F>;
+    svm:duration 224555;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Saudade Bandida - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1dU5USXuWubXV5Gcm1G4VT"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1dvjaN8ZOHeJgk4xxqEAip> a mo:Track,
@@ -552,9 +553,9 @@
     dc:identifier "1dvjaN8ZOHeJgk4xxqEAip";
     dc:title "Festa no Interior - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300157";
-    mo:duration 121411;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 121411;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Festa no Interior - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1dvjaN8ZOHeJgk4xxqEAip"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1eF5hP8VtqdAeF9fuunAWF> a mo:Track,
@@ -562,9 +563,9 @@
     dc:identifier "1eF5hP8VtqdAeF9fuunAWF";
     dc:title "O Sol - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300076";
-    mo:duration 210000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 210000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "O Sol - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1eF5hP8VtqdAeF9fuunAWF"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1erKHdmAcSfq9aRFkYxOg0> a mo:Track,
@@ -572,9 +573,9 @@
     dc:identifier "1erKHdmAcSfq9aRFkYxOg0";
     dc:title "Versão Melhorada"@pt;
     mo:ISRC "BRJ8K2300046";
-    mo:duration 167454;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 167454;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Versão Melhorada"@pt;
     foaf:homepage "https://open.spotify.com/track/1erKHdmAcSfq9aRFkYxOg0"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1p9R0NTn6ge2QmmwT2Ai1V> a mo:Track,
@@ -582,9 +583,9 @@
     dc:identifier "1p9R0NTn6ge2QmmwT2Ai1V";
     dc:title "Roça no Topo - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300006";
-    mo:duration 177325;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 177325;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Roça no Topo - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1p9R0NTn6ge2QmmwT2Ai1V"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1rFW1CLGtIn5rqbccMu75x> a mo:Track,
@@ -592,9 +593,9 @@
     dc:identifier "1rFW1CLGtIn5rqbccMu75x";
     dc:title "Impressionando Os Anjos / Anti-Amor / Solteiro Não Trai - Ao Vivo"@pt;
     mo:ISRC "BRUM72202309";
-    mo:duration 199488;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP>;
+    svm:duration 199488;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Impressionando Os Anjos / Anti-Amor / Solteiro Não Trai - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1rFW1CLGtIn5rqbccMu75x"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1tCZbkrxFfRV4Nf9CLpScs> a mo:Track,
@@ -602,9 +603,9 @@
     dc:identifier "1tCZbkrxFfRV4Nf9CLpScs";
     dc:title "Na Corrida - Ao Vivo"@pt;
     mo:ISRC "BCVV82300070";
-    mo:duration 128106;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6m6e7D2TnV0aYMllFFwMxu>;
+    svm:duration 128106;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Na Corrida - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1tCZbkrxFfRV4Nf9CLpScs"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1vqx11yX9HhfosgVsJFZDK> a mo:Track,
@@ -612,9 +613,9 @@
     dc:identifier "1vqx11yX9HhfosgVsJFZDK";
     dc:title "Eu Viciei"@pt;
     mo:ISRC "BCHMR2100001";
-    mo:duration 134400;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 134400;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Eu Viciei"@pt;
     foaf:homepage "https://open.spotify.com/track/1vqx11yX9HhfosgVsJFZDK"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/1vsTVMe2wYiUvLeSphziEi> a mo:Track,
@@ -622,9 +623,9 @@
     dc:identifier "1vsTVMe2wYiUvLeSphziEi";
     dc:title "Volta - Ao Vivo"@pt;
     mo:ISRC "BRSME2301010";
-    mo:duration 195829;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 195829;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Volta - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/1vsTVMe2wYiUvLeSphziEi"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/229OTJzTk0CAAUZrgqOZ68> a mo:Track,
@@ -632,9 +633,9 @@
     dc:identifier "229OTJzTk0CAAUZrgqOZ68";
     dc:title "Se Jacaré Bobear - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300005";
-    mo:duration 220127;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 220127;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Se Jacaré Bobear - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/229OTJzTk0CAAUZrgqOZ68"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/24vg8rpj4dz9IAnG6S02ez> a mo:Track,
@@ -642,9 +643,9 @@
     dc:identifier "24vg8rpj4dz9IAnG6S02ez";
     dc:title "Amargo na Boca - Ao Vivo"@pt;
     mo:ISRC "BRWNV2300065";
-    mo:duration 185412;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv>;
+    svm:duration 185412;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Amargo na Boca - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/24vg8rpj4dz9IAnG6S02ez"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/27UDhlspddipfQ4y5bE2j1> a mo:Track,
@@ -652,9 +653,9 @@
     dc:identifier "27UDhlspddipfQ4y5bE2j1";
     dc:title "Meu Quesito é Saber Viver - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300067";
-    mo:duration 199500;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 199500;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Meu Quesito é Saber Viver - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/27x579ayIvantoVe6PP97U> a mo:Track,
@@ -662,9 +663,9 @@
     dc:identifier "27x579ayIvantoVe6PP97U";
     dc:title "Opções"@pt;
     mo:ISRC "BCM9A2300076";
-    mo:duration 180821;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB>;
+    svm:duration 180821;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Opções"@pt;
     foaf:homepage "https://open.spotify.com/track/27x579ayIvantoVe6PP97U"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2CNGOv15E0ps7zaoUPQldo> a mo:Track,
@@ -672,9 +673,9 @@
     dc:identifier "2CNGOv15E0ps7zaoUPQldo";
     dc:title "Até Chegar Você - Ao Vivo"@pt;
     mo:ISRC "BRSME2300999";
-    mo:duration 188949;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 188949;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Até Chegar Você - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2CNGOv15E0ps7zaoUPQldo"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2D3FXW4GvYbiZnhAdHPtLB> a mo:Track,
@@ -682,9 +683,9 @@
     dc:identifier "2D3FXW4GvYbiZnhAdHPtLB";
     dc:title "Sentimento"@pt;
     mo:ISRC "BCM9A2300078";
-    mo:duration 144915;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB>;
+    svm:duration 144915;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Sentimento"@pt;
     foaf:homepage "https://open.spotify.com/track/2D3FXW4GvYbiZnhAdHPtLB"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2DyuHPs5w0HXuzzusnoMYa> a mo:Track,
@@ -692,9 +693,9 @@
     dc:identifier "2DyuHPs5w0HXuzzusnoMYa";
     dc:title "Deixa Eu Amar Você"@pt;
     mo:ISRC "BRJ8K2300044";
-    mo:duration 191833;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 191833;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Deixa Eu Amar Você"@pt;
     foaf:homepage "https://open.spotify.com/track/2DyuHPs5w0HXuzzusnoMYa"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2GNXsFAXEdPDxHxN4NSDSE> a mo:Track,
@@ -702,9 +703,9 @@
     dc:identifier "2GNXsFAXEdPDxHxN4NSDSE";
     dc:title "Luz Acesa"@pt;
     mo:ISRC "BRWMB2301694";
-    mo:duration 138139;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4wh03gpwWgB5koOyZr8XxB>;
+    svm:duration 138139;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Luz Acesa"@pt;
     foaf:homepage "https://open.spotify.com/track/2GNXsFAXEdPDxHxN4NSDSE"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2LA0RPTodcXipCPIws73C7> a mo:Track,
@@ -712,9 +713,9 @@
     dc:identifier "2LA0RPTodcXipCPIws73C7";
     dc:title "A Galera Do Chapéu"@pt;
     mo:ISRC "BRJ8K2300036";
-    mo:duration 178090;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 178090;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "A Galera Do Chapéu"@pt;
     foaf:homepage "https://open.spotify.com/track/2LA0RPTodcXipCPIws73C7"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2RVeTR9kTKGg1MT0TiGNgf> a mo:Track,
@@ -722,9 +723,9 @@
     dc:identifier "2RVeTR9kTKGg1MT0TiGNgf";
     dc:title "Re-apaixonei - Ao Vivo"@pt;
     mo:ISRC "BRWNV2300091";
-    mo:duration 178369;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv>;
+    svm:duration 178369;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Re-apaixonei - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2RVeTR9kTKGg1MT0TiGNgf"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2UK3EhCjisvoPu0mAoGLP8> a mo:Track,
@@ -732,9 +733,9 @@
     dc:identifier "2UK3EhCjisvoPu0mAoGLP8";
     dc:title "Primeira Dama"@pt;
     mo:ISRC "BCM9A2300077";
-    mo:duration 165372;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB>;
+    svm:duration 165372;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Primeira Dama"@pt;
     foaf:homepage "https://open.spotify.com/track/2UK3EhCjisvoPu0mAoGLP8"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2WkMt30y2MkR83Yf64zOWG> a mo:Track,
@@ -742,9 +743,9 @@
     dc:identifier "2WkMt30y2MkR83Yf64zOWG";
     dc:title "Única Vida"@pt;
     mo:ISRC "BRJ8K2300040";
-    mo:duration 167363;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 167363;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Única Vida"@pt;
     foaf:homepage "https://open.spotify.com/track/2WkMt30y2MkR83Yf64zOWG"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2Z4xV4HcLrBmhVzDXOHMlj> a mo:Track,
@@ -752,9 +753,9 @@
     dc:identifier "2Z4xV4HcLrBmhVzDXOHMlj";
     dc:title "Caminhonete e Ela"@pt;
     mo:ISRC "BRJ8K2300013";
-    mo:duration 171818;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 171818;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Caminhonete e Ela"@pt;
     foaf:homepage "https://open.spotify.com/track/2Z4xV4HcLrBmhVzDXOHMlj"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2Z61M4wBDFaLOzrUjnpmHz> a mo:Track,
@@ -762,9 +763,9 @@
     dc:identifier "2Z61M4wBDFaLOzrUjnpmHz";
     dc:title "Mete Marcha"@pt;
     mo:ISRC "BCHMR2300004";
-    mo:duration 173777;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 173777;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Mete Marcha"@pt;
     foaf:homepage "https://open.spotify.com/track/2Z61M4wBDFaLOzrUjnpmHz"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2ZWHVavQM4d2vpxjFBXfhu> a mo:Track,
@@ -772,9 +773,9 @@
     dc:identifier "2ZWHVavQM4d2vpxjFBXfhu";
     dc:title "Flor de Croatá - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300152";
-    mo:duration 171666;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 171666;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Flor de Croatá - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2ZWHVavQM4d2vpxjFBXfhu"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2avj6OdDYT5Ttd7vd8UhgP> a mo:Track,
@@ -782,9 +783,9 @@
     dc:identifier "2avj6OdDYT5Ttd7vd8UhgP";
     dc:title "Só Não Deixa Saudade - Ao vivo"@pt;
     mo:ISRC "BKA7Y2300010";
-    mo:duration 182720;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2CKOmarVWvWqkNWUatHCex>;
+    svm:duration 182720;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Só Não Deixa Saudade - Ao vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2avj6OdDYT5Ttd7vd8UhgP"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2eP3XUWwWkSXOOnshg95CP> a mo:Track,
@@ -792,9 +793,9 @@
     dc:identifier "2eP3XUWwWkSXOOnshg95CP";
     dc:title "Pinote de Jaguar"@pt;
     mo:ISRC "BRWMB2301021";
-    mo:duration 144000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0iZz25uH5PLaShpqq84uYv>;
+    svm:duration 144000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Pinote de Jaguar"@pt;
     foaf:homepage "https://open.spotify.com/track/2eP3XUWwWkSXOOnshg95CP"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2gThep1T9XV3CNWCVWWbHM> a mo:Track,
@@ -802,9 +803,9 @@
     dc:identifier "2gThep1T9XV3CNWCVWWbHM";
     dc:title "Fuga - Ao Vivo Em Salvador"@pt;
     mo:ISRC "BCTRY2300057";
-    mo:duration 183157;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FUMTycjZlEY6ZxMgqNjC8>;
+    svm:duration 183157;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Fuga - Ao Vivo Em Salvador"@pt;
     foaf:homepage "https://open.spotify.com/track/2gThep1T9XV3CNWCVWWbHM"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2gaPah5WD38Llyf7k9jCa4> a mo:Track,
@@ -812,9 +813,9 @@
     dc:identifier "2gaPah5WD38Llyf7k9jCa4";
     dc:title "Encontro das Vozes: Favela Canta"@pt;
     mo:ISRC "BXG3O2300297";
-    mo:duration 174034;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4IQKOXNGjuRRe0WgOm5YfB>;
+    svm:duration 174034;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Encontro das Vozes: Favela Canta"@pt;
     foaf:homepage "https://open.spotify.com/track/2gaPah5WD38Llyf7k9jCa4"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2gw5oD8LZ92JoQhaoCbn3s> a mo:Track,
@@ -822,9 +823,9 @@
     dc:identifier "2gw5oD8LZ92JoQhaoCbn3s";
     dc:title "Doce"@pt;
     mo:ISRC "BCHMR2200006";
-    mo:duration 136932;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 136932;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Doce"@pt;
     foaf:homepage "https://open.spotify.com/track/2gw5oD8LZ92JoQhaoCbn3s"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2hCTddSydODQctYHov5Ud3> a mo:Track,
@@ -832,9 +833,9 @@
     dc:identifier "2hCTddSydODQctYHov5Ud3";
     dc:title "Quero Ser Seu Amor - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300143";
-    mo:duration 188868;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 188868;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Quero Ser Seu Amor - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2hCTddSydODQctYHov5Ud3"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2jNmJ0TZexLlCI6T3QLU4t> a mo:Track,
@@ -842,9 +843,9 @@
     dc:identifier "2jNmJ0TZexLlCI6T3QLU4t";
     dc:title "Sonhando Acordado - Ao Vivo"@pt;
     mo:ISRC "BRSME2300997";
-    mo:duration 165920;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 165920;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Sonhando Acordado - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2jNmJ0TZexLlCI6T3QLU4t"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2k4QhTqbMU8EA8Obv9u6qZ> a mo:Track,
@@ -852,9 +853,9 @@
     dc:identifier "2k4QhTqbMU8EA8Obv9u6qZ";
     dc:title "PQP! (tu fez do jeito que eu queria)"@pt;
     mo:ISRC "BCHMR2200001";
-    mo:duration 141000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 141000;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "PQP! (tu fez do jeito que eu queria)"@pt;
     foaf:homepage "https://open.spotify.com/track/2k4QhTqbMU8EA8Obv9u6qZ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2lhkitfLM2nPPoIlbyR6II> a mo:Track,
@@ -862,9 +863,9 @@
     dc:identifier "2lhkitfLM2nPPoIlbyR6II";
     dc:title "Bailão na Roça - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300003";
-    mo:duration 171559;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 171559;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Bailão na Roça - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2lhkitfLM2nPPoIlbyR6II"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2nfnhFDhwMet9yZodpGfn3> a mo:Track,
@@ -872,9 +873,9 @@
     dc:identifier "2nfnhFDhwMet9yZodpGfn3";
     dc:title "AMBIENTE ERRADO - Ao Vivo"@pt;
     mo:ISRC "BR27R2300021";
-    mo:duration 144307;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3qvcCP2J0fWi0m0uQDUf6r>;
+    svm:duration 144307;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "AMBIENTE ERRADO - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2nfnhFDhwMet9yZodpGfn3"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2qo8wunTxcySvz1oG5Y7az> a mo:Track,
@@ -882,9 +883,9 @@
     dc:identifier "2qo8wunTxcySvz1oG5Y7az";
     dc:title "Tropical"@pt;
     mo:ISRC "BRWMB2302206";
-    mo:duration 123984;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1mXAhKnZEdF6rotyyd4GBi>;
+    svm:duration 123984;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tropical"@pt;
     foaf:homepage "https://open.spotify.com/track/2qo8wunTxcySvz1oG5Y7az"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2sp26WeMl10zALRINxRKnf> a mo:Track,
@@ -892,9 +893,9 @@
     dc:identifier "2sp26WeMl10zALRINxRKnf";
     dc:title "Bilhete / Paciência Comigo - Ao Vivo"@pt;
     mo:ISRC "BRSME2301008";
-    mo:duration 230730;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 230730;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Bilhete / Paciência Comigo - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2sp26WeMl10zALRINxRKnf"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2t6Nwm6LBgtkjyKgPF4eEJ> a mo:Track,
@@ -902,9 +903,9 @@
     dc:identifier "2t6Nwm6LBgtkjyKgPF4eEJ";
     dc:title "Egípcia"@pt;
     mo:ISRC "BC9PK2300085";
-    mo:duration 201904;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7EyzyrMNgqiK8bMrbkOT9l>;
+    svm:duration 201904;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Egípcia"@pt;
     foaf:homepage "https://open.spotify.com/track/2t6Nwm6LBgtkjyKgPF4eEJ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2vocrbYbrwshHuv43eXNx3> a mo:Track,
@@ -912,9 +913,9 @@
     dc:identifier "2vocrbYbrwshHuv43eXNx3";
     dc:title "Chuva de Mec"@pt;
     mo:ISRC "GXBAV2421552";
-    mo:duration 162461;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/65tpb4BwAnD3HOUs8MC6TB>;
+    svm:duration 162461;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Chuva de Mec"@pt;
     foaf:homepage "https://open.spotify.com/track/2vocrbYbrwshHuv43eXNx3"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2w8RH8GsjNE9S68Wk1W698> a mo:Track,
@@ -922,9 +923,9 @@
     dc:identifier "2w8RH8GsjNE9S68Wk1W698";
     dc:title "As Menina da Pecuária - Ao Vivo"@pt;
     mo:ISRC "BKA7Y2300013";
-    mo:duration 165643;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2CKOmarVWvWqkNWUatHCex>;
+    svm:duration 165643;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "As Menina da Pecuária - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2w8RH8GsjNE9S68Wk1W698"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2wy8fsC1Dx7c65qvvhreH4> a mo:Track,
@@ -932,9 +933,9 @@
     dc:identifier "2wy8fsC1Dx7c65qvvhreH4";
     dc:title "A Roça É Hype - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300012";
-    mo:duration 163577;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 163577;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "A Roça É Hype - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2wy8fsC1Dx7c65qvvhreH4"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2yugV6ghEcBBZb4X1nCGpn> a mo:Track,
@@ -942,9 +943,9 @@
     dc:identifier "2yugV6ghEcBBZb4X1nCGpn";
     dc:title "Querendo Mais - Ao Vivo"@pt;
     mo:ISRC "BRSME2301007";
-    mo:duration 158730;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 158730;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Querendo Mais - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/2yugV6ghEcBBZb4X1nCGpn"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/2zZWxrqEjaEBJwUzyEX01S> a mo:Track,
@@ -952,9 +953,9 @@
     dc:identifier "2zZWxrqEjaEBJwUzyEX01S";
     dc:title "Platinado"@pt;
     mo:ISRC "QZZ8A2311800";
-    mo:duration 143283;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1ZcIMjx9kP46pUdFOdjWKQ>;
+    svm:duration 143283;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Platinado"@pt;
     foaf:homepage "https://open.spotify.com/track/2zZWxrqEjaEBJwUzyEX01S"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/32hEA1vlWtYS6j5VgXk6j9> a mo:Track,
@@ -962,9 +963,9 @@
     dc:identifier "32hEA1vlWtYS6j5VgXk6j9";
     dc:title "Deslizes"@pt;
     mo:ISRC "BC7KM2300011";
-    mo:duration 208784;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/57VQCKnZ9nhS7bvoviXuZK>;
+    svm:duration 208784;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Deslizes"@pt;
     foaf:homepage "https://open.spotify.com/track/32hEA1vlWtYS6j5VgXk6j9"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/38COhIa1lNyTmcIEUHgeZV> a mo:Track,
@@ -972,9 +973,9 @@
     dc:identifier "38COhIa1lNyTmcIEUHgeZV";
     dc:title "Dois Dias Seguidos"@pt;
     mo:ISRC "BRJ8K2300015";
-    mo:duration 143389;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 143389;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Dois Dias Seguidos"@pt;
     foaf:homepage "https://open.spotify.com/track/38COhIa1lNyTmcIEUHgeZV"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/39rZ5KI1HPbV6s6arPXAHR> a mo:Track,
@@ -982,9 +983,9 @@
     dc:identifier "39rZ5KI1HPbV6s6arPXAHR";
     dc:title "Cantinho - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300156";
-    mo:duration 144800;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 144800;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Cantinho - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/39rZ5KI1HPbV6s6arPXAHR"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/39uMV1Ix79vlMNssVxACuU> a mo:Track,
@@ -992,9 +993,9 @@
     dc:identifier "39uMV1Ix79vlMNssVxACuU";
     dc:title "Mais Um Voo"@pt;
     mo:ISRC "BXW922300009";
-    mo:duration 194400;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68YeXpLt3jB7JHQS5ZjMGo>;
+    svm:duration 194400;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Mais Um Voo"@pt;
     foaf:homepage "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3B9WYpcMBXyCWDm7K1KSLt> a mo:Track,
@@ -1002,9 +1003,9 @@
     dc:identifier "3B9WYpcMBXyCWDm7K1KSLt";
     dc:title "Come Come"@pt;
     mo:ISRC "USZXT2352519";
-    mo:duration 184596;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/28uJnu5EsrGml2tBd7y8ts>;
+    svm:duration 184596;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Come Come"@pt;
     foaf:homepage "https://open.spotify.com/track/3B9WYpcMBXyCWDm7K1KSLt"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3BSTq7XmrtTjmiKggoobzX> a mo:Track,
@@ -1012,9 +1013,9 @@
     dc:identifier "3BSTq7XmrtTjmiKggoobzX";
     dc:title "Anos Luz - Ao Vivo"@pt;
     mo:ISRC "BRSME2300993";
-    mo:duration 157194;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 157194;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Anos Luz - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/3BSTq7XmrtTjmiKggoobzX"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3LHdJqTcRejrr4yJUF6GxX> a mo:Track,
@@ -1022,9 +1023,9 @@
     dc:identifier "3LHdJqTcRejrr4yJUF6GxX";
     dc:title "Ninguém Nasce Vagabundo - (Ao Vivo)"@pt;
     mo:ISRC "BC1PC2300017";
-    mo:duration 152117;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0CrGLmfVKzk9rAyiNb91ft>;
+    svm:duration 152117;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Ninguém Nasce Vagabundo - (Ao Vivo)"@pt;
     foaf:homepage "https://open.spotify.com/track/3LHdJqTcRejrr4yJUF6GxX"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3Mi1RG7A0mVI7nCdyaubOe> a mo:Track,
@@ -1032,9 +1033,9 @@
     dc:identifier "3Mi1RG7A0mVI7nCdyaubOe";
     dc:title "Gafe"@pt;
     mo:ISRC "BXV6U2300001";
-    mo:duration 162285;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 162285;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Gafe"@pt;
     foaf:homepage "https://open.spotify.com/track/3Mi1RG7A0mVI7nCdyaubOe"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3Nl0rYLIOCbAFXJi3Bitjn> a mo:Track,
@@ -1042,9 +1043,9 @@
     dc:identifier "3Nl0rYLIOCbAFXJi3Bitjn";
     dc:title "Escolhas - Ao Vivo"@pt;
     mo:ISRC "BRSME2300995";
-    mo:duration 167239;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 167239;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Escolhas - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/3Nl0rYLIOCbAFXJi3Bitjn"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3Q0LWpLuhEcCCWjpfBRnzH> a mo:Track,
@@ -1052,9 +1053,9 @@
     dc:identifier "3Q0LWpLuhEcCCWjpfBRnzH";
     dc:title "24 Horas"@pt;
     mo:ISRC "BRWMB2000234";
-    mo:duration 181670;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0iZz25uH5PLaShpqq84uYv>;
+    svm:duration 181670;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "24 Horas"@pt;
     foaf:homepage "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3Q6P44efSOTR4O52255KmX> a mo:Track,
@@ -1062,9 +1063,9 @@
     dc:identifier "3Q6P44efSOTR4O52255KmX";
     dc:title "Copy"@pt;
     mo:ISRC "BXPOB2300016";
-    mo:duration 181778;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1mohmQWtxDNZcBGkfxG4eW>;
+    svm:duration 181778;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Copy"@pt;
     foaf:homepage "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3SmHe9QAcCBgMYKnnzN16L> a mo:Track,
@@ -1072,9 +1073,9 @@
     dc:identifier "3SmHe9QAcCBgMYKnnzN16L";
     dc:title "Juvenil - Ao Vivo"@pt;
     mo:ISRC "BRWNV2300071";
-    mo:duration 166000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv>;
+    svm:duration 166000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Juvenil - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/3SmHe9QAcCBgMYKnnzN16L"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3WDJ97Cc4xT9Un2bkukLBr> a mo:Track,
@@ -1082,9 +1083,9 @@
     dc:identifier "3WDJ97Cc4xT9Un2bkukLBr";
     dc:title "Lasca o Bocão no Litro"@pt;
     mo:ISRC "BCSUV2304351";
-    mo:duration 142698;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7yPoxj2lXWy7J4ixQHVubk>;
+    svm:duration 142698;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Lasca o Bocão no Litro"@pt;
     foaf:homepage "https://open.spotify.com/track/3WDJ97Cc4xT9Un2bkukLBr"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3Xy2P3EtYJioZVRS6VMuKM> a mo:Track,
@@ -1092,9 +1093,9 @@
     dc:identifier "3Xy2P3EtYJioZVRS6VMuKM";
     dc:title "Menina do Pai - Ao Vivo"@pt;
     mo:ISRC "BRWNV2300063";
-    mo:duration 176566;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv>;
+    svm:duration 176566;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Menina do Pai - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/3Xy2P3EtYJioZVRS6VMuKM"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3gZcJwwzl5ouhRW3thWB3A> a mo:Track,
@@ -1102,9 +1103,9 @@
     dc:identifier "3gZcJwwzl5ouhRW3thWB3A";
     dc:title "Previsão do Tempo"@pt;
     mo:ISRC "BXV6U2300016";
-    mo:duration 204626;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 204626;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Previsão do Tempo"@pt;
     foaf:homepage "https://open.spotify.com/track/3gZcJwwzl5ouhRW3thWB3A"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3iqyrDLv03v9AevbIFmjCy> a mo:Track,
@@ -1112,9 +1113,9 @@
     dc:identifier "3iqyrDLv03v9AevbIFmjCy";
     dc:title "Melhor Versão - Ao Vivo"@pt;
     mo:ISRC "BRUM72202310";
-    mo:duration 200450;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP>;
+    svm:duration 200450;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Melhor Versão - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/3iqyrDLv03v9AevbIFmjCy"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3pHhPKwbl9febQFidwyyu7> dc:identifier
@@ -1122,9 +1123,9 @@
     a mo:Track, svm:Track_Spotify;
     dc:title "Meu Fake Viu - Ao Vivo"@pt;
     mo:ISRC "BKS012300011";
-    mo:duration 171895;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0SPHfj49UeOgHKwSYcn8xZ>;
+    svm:duration 171895;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Meu Fake Viu - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/3pHhPKwbl9febQFidwyyu7"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3vCH7bgO37Cx4dOIUlX9sv> a mo:Track,
@@ -1132,9 +1133,9 @@
     dc:identifier "3vCH7bgO37Cx4dOIUlX9sv";
     dc:title "Maliciosa - Ao Vivo"@pt;
     mo:ISRC "BKSQE2400001";
-    mo:duration 167027;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CDoRporvSjdzTrm99a3gi>;
+    svm:duration 167027;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Maliciosa - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/3ytU0WnU96nOQDmiuOEkPC> a mo:Track,
@@ -1142,9 +1143,9 @@
     dc:identifier "3ytU0WnU96nOQDmiuOEkPC";
     dc:title "SEREIA"@pt;
     mo:ISRC "BCHMR2300001";
-    mo:duration 155454;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 155454;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "SEREIA"@pt;
     foaf:homepage "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/45lk23QySnqa8GYj3mn4To> a mo:Track,
@@ -1152,9 +1153,9 @@
     dc:identifier "45lk23QySnqa8GYj3mn4To";
     dc:title "Surtada - (Ao Vivo)"@pt;
     mo:ISRC "BC1PC2300029";
-    mo:duration 149562;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0CrGLmfVKzk9rAyiNb91ft>;
+    svm:duration 149562;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Surtada - (Ao Vivo)"@pt;
     foaf:homepage "https://open.spotify.com/track/45lk23QySnqa8GYj3mn4To"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/49fbmLgeyVgSGEEnNIVYOX> a mo:Track,
@@ -1162,9 +1163,9 @@
     dc:identifier "49fbmLgeyVgSGEEnNIVYOX";
     dc:title "Nosso Amor é Assim - Ao Vivo"@pt;
     mo:ISRC "BRSME2301002";
-    mo:duration 172565;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 172565;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Nosso Amor é Assim - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/49fbmLgeyVgSGEEnNIVYOX"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4C1zrTdEYE55CfWuYlYZ28> a mo:Track,
@@ -1172,9 +1173,9 @@
     dc:identifier "4C1zrTdEYE55CfWuYlYZ28";
     dc:title "Não Deixa Eu Saber"@pt;
     mo:ISRC "BXDW72300017";
-    mo:duration 185529;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/5Lv2GUVwqmQBPwrTrxucE5>;
+    svm:duration 185529;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Não Deixa Eu Saber"@pt;
     foaf:homepage "https://open.spotify.com/track/4C1zrTdEYE55CfWuYlYZ28"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4I9d62g05fUkjRPBqiWnPO> a mo:Track,
@@ -1182,9 +1183,9 @@
     dc:identifier "4I9d62g05fUkjRPBqiWnPO";
     dc:title "Coisas Banais - Ao Vivo"@pt;
     mo:ISRC "BCAVV2300101";
-    mo:duration 238122;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W>;
+    svm:duration 238122;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Coisas Banais - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4I9d62g05fUkjRPBqiWnPO"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4K2X6I83gKXvnDJRKxUIxZ> a mo:Track,
@@ -1192,9 +1193,9 @@
     dc:identifier "4K2X6I83gKXvnDJRKxUIxZ";
     dc:title "Álcool e Saudade - Ao Vivo"@pt;
     mo:ISRC "BCVV82300072";
-    mo:duration 146687;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6m6e7D2TnV0aYMllFFwMxu>;
+    svm:duration 146687;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Álcool e Saudade - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4K2X6I83gKXvnDJRKxUIxZ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4MkOdtFAqxjaXz2nHIjDq5> a mo:Track,
@@ -1202,9 +1203,9 @@
     dc:identifier "4MkOdtFAqxjaXz2nHIjDq5";
     dc:title "Consequências de Amar um Cowboy - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300033";
-    mo:duration 186592;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 186592;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Consequências de Amar um Cowboy - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4MkOdtFAqxjaXz2nHIjDq5"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4OL89YnOX1tdh6zlDRW8fb> a mo:Track,
@@ -1212,9 +1213,9 @@
     dc:identifier "4OL89YnOX1tdh6zlDRW8fb";
     dc:title "SET DO PEDRINHO"@pt;
     mo:ISRC "BXG6R2300943";
-    mo:duration 491520;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1etNnR2SdlelBQAICa2Q5m>;
+    svm:duration 491520;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "SET DO PEDRINHO"@pt;
     foaf:homepage "https://open.spotify.com/track/4OL89YnOX1tdh6zlDRW8fb"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4OQaeeYDLnX6HP92myvM6s> a mo:Track,
@@ -1222,9 +1223,9 @@
     dc:identifier "4OQaeeYDLnX6HP92myvM6s";
     dc:title "Só Vai Dar Eu - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300145";
-    mo:duration 163289;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 163289;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Só Vai Dar Eu - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4OQaeeYDLnX6HP92myvM6s"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4PnxuU11fVtQubVqoPi08p> a mo:Track,
@@ -1232,9 +1233,9 @@
     dc:identifier "4PnxuU11fVtQubVqoPi08p";
     dc:title "Bilhete / Paciência Comigo - Ao Vivo"@pt;
     mo:ISRC "BRSME2301008";
-    mo:duration 230730;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 230730;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Bilhete / Paciência Comigo - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4PnxuU11fVtQubVqoPi08p"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4RfeQv4ligXbepBP1D4v2k> a mo:Track,
@@ -1242,9 +1243,9 @@
     dc:identifier "4RfeQv4ligXbepBP1D4v2k";
     dc:title "Pra Quem Desacreditava - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300037";
-    mo:duration 268270;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 268270;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Pra Quem Desacreditava - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4RfeQv4ligXbepBP1D4v2k"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4VmeJlO4PWJSQ490ZMnikV> a mo:Track,
@@ -1252,9 +1253,9 @@
     dc:identifier "4VmeJlO4PWJSQ490ZMnikV";
     dc:title "VRAU"@pt;
     mo:ISRC "BCHMR2200003";
-    mo:duration 137753;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 137753;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "VRAU"@pt;
     foaf:homepage "https://open.spotify.com/track/4VmeJlO4PWJSQ490ZMnikV"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4VsBImIxQlOkzChsE1AIGN> a mo:Track,
@@ -1262,9 +1263,9 @@
     dc:identifier "4VsBImIxQlOkzChsE1AIGN";
     dc:title "Nem Dói Mais - Ao Vivo"@pt;
     mo:ISRC "BRSME2300994";
-    mo:duration 159573;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 159573;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Nem Dói Mais - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4VsBImIxQlOkzChsE1AIGN"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4WerFN1IRbgy8RGqpe08SH> a mo:Track,
@@ -1272,9 +1273,9 @@
     dc:identifier "4WerFN1IRbgy8RGqpe08SH";
     dc:title "BRUXARIA 3000"@pt;
     mo:ISRC "BXSBS2300040";
-    mo:duration 177782;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7rXMvXRnWHaSwnVvPeUUfw>;
+    svm:duration 177782;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "BRUXARIA 3000"@pt;
     foaf:homepage "https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4Wl9xgqffYdxd0vZMm0FeO> a mo:Track,
@@ -1282,9 +1283,9 @@
     dc:identifier "4Wl9xgqffYdxd0vZMm0FeO";
     dc:title "Eu Minto (Ao Vivo)"@pt;
     mo:ISRC "BRWMB2300117";
-    mo:duration 160641;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 160641;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Eu Minto (Ao Vivo)"@pt;
     foaf:homepage "https://open.spotify.com/track/4Wl9xgqffYdxd0vZMm0FeO"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4b8iWhBNSFmWCoWOkr5i01> a mo:Track,
@@ -1292,9 +1293,9 @@
     dc:identifier "4b8iWhBNSFmWCoWOkr5i01";
     dc:title "Laça Nóis"@pt;
     mo:ISRC "BRJ8K2300003";
-    mo:duration 166217;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 166217;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Laça Nóis"@pt;
     foaf:homepage "https://open.spotify.com/track/4b8iWhBNSFmWCoWOkr5i01"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4dbOFpvVb1QcVjv89ZKzOt> a mo:Track,
@@ -1302,9 +1303,9 @@
     dc:identifier "4dbOFpvVb1QcVjv89ZKzOt";
     dc:title "Bye Baby"@pt;
     mo:ISRC "GXBAV2421549";
-    mo:duration 88615;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/65tpb4BwAnD3HOUs8MC6TB>;
+    svm:duration 88615;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Bye Baby"@pt;
     foaf:homepage "https://open.spotify.com/track/4dbOFpvVb1QcVjv89ZKzOt"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4iKhygdO3wR8ULCqNYbdVI> a mo:Track,
@@ -1312,9 +1313,9 @@
     dc:identifier "4iKhygdO3wR8ULCqNYbdVI";
     dc:title "Até Chegar Você - Ao Vivo"@pt;
     mo:ISRC "BRSME2300999";
-    mo:duration 188949;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 188949;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Até Chegar Você - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4iKhygdO3wR8ULCqNYbdVI"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4icXcHrO4DClwfR5xkUu0H> a mo:Track,
@@ -1322,9 +1323,9 @@
     dc:identifier "4icXcHrO4DClwfR5xkUu0H";
     dc:title "Posição de Ataque"@pt;
     mo:ISRC "BRWMB2300876";
-    mo:duration 149090;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0iZz25uH5PLaShpqq84uYv>;
+    svm:duration 149090;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Posição de Ataque"@pt;
     foaf:homepage "https://open.spotify.com/track/4icXcHrO4DClwfR5xkUu0H"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4ik7P8E2OtYnO3Sp6yQ4hn> a mo:Track,
@@ -1332,9 +1333,9 @@
     dc:identifier "4ik7P8E2OtYnO3Sp6yQ4hn";
     dc:title "Baladinha Rural - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300025";
-    mo:duration 144441;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 144441;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Baladinha Rural - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4ik7P8E2OtYnO3Sp6yQ4hn"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4jAatGwX7O0yHtTMDnAaQM> a mo:Track,
@@ -1342,9 +1343,9 @@
     dc:identifier "4jAatGwX7O0yHtTMDnAaQM";
     dc:title "Terê"@pt;
     mo:ISRC "BRWMB2301099";
-    mo:duration 151000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 151000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Terê"@pt;
     foaf:homepage "https://open.spotify.com/track/4jAatGwX7O0yHtTMDnAaQM"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4k2bi2S0BzPcLrA0lauyWI> a mo:Track,
@@ -1352,9 +1353,9 @@
     dc:identifier "4k2bi2S0BzPcLrA0lauyWI";
     dc:title "Não Fui Eu"@pt;
     mo:ISRC "BCHMR2200005";
-    mo:duration 137561;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 137561;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Não Fui Eu"@pt;
     foaf:homepage "https://open.spotify.com/track/4k2bi2S0BzPcLrA0lauyWI"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4lP8bLXyZwr24ZuSLZDaAP> a mo:Track,
@@ -1362,9 +1363,9 @@
     dc:identifier "4lP8bLXyZwr24ZuSLZDaAP";
     dc:title "Pupila - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300044";
-    mo:duration 284530;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 284530;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Pupila - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4lP8bLXyZwr24ZuSLZDaAP"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4m4ZQv1aPfi4jDpl8Kt5hK> a mo:Track,
@@ -1372,9 +1373,9 @@
     dc:identifier "4m4ZQv1aPfi4jDpl8Kt5hK";
     dc:title "Drop da Santa"@pt;
     mo:ISRC "BXT7K2300008";
-    mo:duration 164512;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/5Gv1C1LY8pWiYcfcdjSNMT>;
+    svm:duration 164512;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Drop da Santa"@pt;
     foaf:homepage "https://open.spotify.com/track/4m4ZQv1aPfi4jDpl8Kt5hK"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4oPrWblqwPrP7bSZCe3MfO> a mo:Track,
@@ -1382,9 +1383,9 @@
     dc:identifier "4oPrWblqwPrP7bSZCe3MfO";
     dc:title "Pot-Pourri: Fera Mansa /Menina Veneno / Vivendo Por Viver - Ao Vivo"@pt;
     mo:ISRC "BXZZC2200006";
-    mo:duration 580131;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1wT33JDD3YLC0fqFnsWo9F>;
+    svm:duration 580131;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Pot-Pourri: Fera Mansa /Menina Veneno / Vivendo Por Viver - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4oPrWblqwPrP7bSZCe3MfO"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4qVg0TGU7zrclO8g18AJcS> a mo:Track,
@@ -1392,9 +1393,9 @@
     dc:identifier "4qVg0TGU7zrclO8g18AJcS";
     dc:title "Prata da Casa - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300029";
-    mo:duration 149482;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 149482;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Prata da Casa - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4qVg0TGU7zrclO8g18AJcS"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4rQW8jVbnIlYtS5HzVuhfn> a mo:Track,
@@ -1402,9 +1403,9 @@
     dc:identifier "4rQW8jVbnIlYtS5HzVuhfn";
     dc:title "Passando a Porteira"@pt;
     mo:ISRC "BRJ8K2300042";
-    mo:duration 162316;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 162316;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Passando a Porteira"@pt;
     foaf:homepage "https://open.spotify.com/track/4rQW8jVbnIlYtS5HzVuhfn"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4roBWBenY4fe2frEAhXoKQ> a mo:Track,
@@ -1412,9 +1413,9 @@
     dc:identifier "4roBWBenY4fe2frEAhXoKQ";
     dc:title "Sejam Bem-Vindos ao Baile da Selva"@pt;
     mo:ISRC "BRSME2301160";
-    mo:duration 177644;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7ecRwFks8F2vYad383BkKf>;
+    svm:duration 177644;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Sejam Bem-Vindos ao Baile da Selva"@pt;
     foaf:homepage "https://open.spotify.com/track/4roBWBenY4fe2frEAhXoKQ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4weC9t8cdqqdif4iKl5STP> a mo:Track,
@@ -1422,9 +1423,9 @@
     dc:identifier "4weC9t8cdqqdif4iKl5STP";
     dc:title "Chuva na Poeira - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300015";
-    mo:duration 165251;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 165251;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Chuva na Poeira - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4weC9t8cdqqdif4iKl5STP"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/4zTQSSJUMh3PrzXU428C9D> a mo:Track,
@@ -1432,9 +1433,9 @@
     dc:identifier "4zTQSSJUMh3PrzXU428C9D";
     dc:title "Pequeno Produtor Rural - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300017";
-    mo:duration 174915;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 174915;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Pequeno Produtor Rural - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/4zTQSSJUMh3PrzXU428C9D"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/501GTAtKreTg7MiG7xINTx> a mo:Track,
@@ -1442,9 +1443,9 @@
     dc:identifier "501GTAtKreTg7MiG7xINTx";
     dc:title "Anos Luz - Ao Vivo"@pt;
     mo:ISRC "BRSME2300993";
-    mo:duration 157194;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 157194;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Anos Luz - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/501GTAtKreTg7MiG7xINTx"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/50kDsSOgSS3YgvETW9qZJk> a mo:Track,
@@ -1452,9 +1453,9 @@
     dc:identifier "50kDsSOgSS3YgvETW9qZJk";
     dc:title "Falta de Você - (Ao Vivo)"@pt;
     mo:ISRC "BC1PC2300011";
-    mo:duration 182857;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0CrGLmfVKzk9rAyiNb91ft>;
+    svm:duration 182857;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Falta de Você - (Ao Vivo)"@pt;
     foaf:homepage "https://open.spotify.com/track/50kDsSOgSS3YgvETW9qZJk"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/50rvELEYMhMJcz79OHjwYv> a mo:Track,
@@ -1462,9 +1463,9 @@
     dc:identifier "50rvELEYMhMJcz79OHjwYv";
     dc:title "Se Não Tiver Amor - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300153";
-    mo:duration 159671;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 159671;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Se Não Tiver Amor - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/50rvELEYMhMJcz79OHjwYv"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/50xFGBuVecb9LQ6a5evQJg> a mo:Track,
@@ -1472,9 +1473,9 @@
     dc:identifier "50xFGBuVecb9LQ6a5evQJg";
     dc:title "Lili"@pt;
     mo:ISRC "BR4IW2300002";
-    mo:duration 240000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6U98XWjrUPnPtPBjEprDmu>;
+    svm:duration 240000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Lili"@pt;
     foaf:homepage "https://open.spotify.com/track/50xFGBuVecb9LQ6a5evQJg"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/527TZPf0qgaDp4xXkki62j> a mo:Track,
@@ -1482,9 +1483,9 @@
     dc:identifier "527TZPf0qgaDp4xXkki62j";
     dc:title "Ainda Ontem Chorei de Saudade / Estrada da Vida / Meu Ex Amor / Meu Jeito Louco de te Amar"@pt;
     mo:ISRC "BRJ8K2300009";
-    mo:duration 341494;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 341494;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Ainda Ontem Chorei de Saudade / Estrada da Vida / Meu Ex Amor / Meu Jeito Louco de te Amar"@pt;
     foaf:homepage "https://open.spotify.com/track/527TZPf0qgaDp4xXkki62j"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/52aonA32y0YYt1NfnZNvWv> a mo:Track,
@@ -1492,9 +1493,9 @@
     dc:identifier "52aonA32y0YYt1NfnZNvWv";
     dc:title "Sintoniza"@pt;
     mo:ISRC "BRWMB2301047";
-    mo:duration 178173;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 178173;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Sintoniza"@pt;
     foaf:homepage "https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/56JVZMurnXPoy1HbB4dcNV> a mo:Track,
@@ -1502,9 +1503,9 @@
     dc:identifier "56JVZMurnXPoy1HbB4dcNV";
     dc:title "Abismo"@pt;
     mo:ISRC "BXH1U2300008";
-    mo:duration 207161;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0CdnnCbbKD4oIzBmxi2o7r>;
+    svm:duration 207161;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Abismo"@pt;
     foaf:homepage "https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/57XMBBf2cBh4H6bp1aHdmL> a mo:Track,
@@ -1512,9 +1513,9 @@
     dc:identifier "57XMBBf2cBh4H6bp1aHdmL";
     dc:title "My Boo"@pt;
     mo:ISRC "BRRGE2301087";
-    mo:duration 165520;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7tojcuXcZ7eBlQjbAc65Ee>;
+    svm:duration 165520;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "My Boo"@pt;
     foaf:homepage "https://open.spotify.com/track/57XMBBf2cBh4H6bp1aHdmL"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/57whoX9ws7EPTwWksKKQsC> a mo:Track,
@@ -1522,9 +1523,9 @@
     dc:identifier "57whoX9ws7EPTwWksKKQsC";
     dc:title "Te Amo, Viu - Ao Vivo"@pt;
     mo:ISRC "BRSME2301001";
-    mo:duration 172885;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 172885;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Te Amo, Viu - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/57whoX9ws7EPTwWksKKQsC"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/594lbI9upDh6NSH0yLpB4n> a mo:Track,
@@ -1532,9 +1533,9 @@
     dc:identifier "594lbI9upDh6NSH0yLpB4n";
     dc:title "Exclusiva"@pt;
     mo:ISRC "BRWMB2301048";
-    mo:duration 193372;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 193372;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Exclusiva"@pt;
     foaf:homepage "https://open.spotify.com/track/594lbI9upDh6NSH0yLpB4n"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5EAhceTM5tTQ5laq6nF5Ez> a mo:Track,
@@ -1542,9 +1543,9 @@
     dc:identifier "5EAhceTM5tTQ5laq6nF5Ez";
     dc:title "Personagem - Ao Vivo"@pt;
     mo:ISRC "BRWNV2300067";
-    mo:duration 179261;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv>;
+    svm:duration 179261;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Personagem - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5EAhceTM5tTQ5laq6nF5Ez"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5GTGT1c9yCZhQmxbPYCEwq> a mo:Track,
@@ -1552,9 +1553,9 @@
     dc:identifier "5GTGT1c9yCZhQmxbPYCEwq";
     dc:title "Chicletinho - Ao Vivo"@pt;
     mo:ISRC "BKA7Y2300014";
-    mo:duration 143279;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2CKOmarVWvWqkNWUatHCex>;
+    svm:duration 143279;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Chicletinho - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5GTGT1c9yCZhQmxbPYCEwq"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5Gf8GzBNzcZKAmMimZzjSr> a mo:Track,
@@ -1562,9 +1563,9 @@
     dc:identifier "5Gf8GzBNzcZKAmMimZzjSr";
     dc:title "Flash - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300080";
-    mo:duration 160227;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 160227;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Flash - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5Gf8GzBNzcZKAmMimZzjSr"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5HlcsBdjb5TiZeZ3ngWRv0> a mo:Track,
@@ -1572,9 +1573,9 @@
     dc:identifier "5HlcsBdjb5TiZeZ3ngWRv0";
     dc:title "5 Da Manhã - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300083";
-    mo:duration 147116;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 147116;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "5 Da Manhã - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5HlcsBdjb5TiZeZ3ngWRv0"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5IxrYDTvUtKJ1FtZSvKMYS> a mo:Track,
@@ -1582,9 +1583,9 @@
     dc:identifier "5IxrYDTvUtKJ1FtZSvKMYS";
     dc:title "Carta Branca"@pt;
     mo:ISRC "BXV6U2300011";
-    mo:duration 221653;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 221653;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Carta Branca"@pt;
     foaf:homepage "https://open.spotify.com/track/5IxrYDTvUtKJ1FtZSvKMYS"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5JZhNLbNpEBJmFZ8V3ptiA> a mo:Track,
@@ -1592,9 +1593,9 @@
     dc:identifier "5JZhNLbNpEBJmFZ8V3ptiA";
     dc:title "1% de Fé"@pt;
     mo:ISRC "BXKG22301539";
-    mo:duration 156000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/5Dz2FizMLqV0Cr3c8uhEcF>;
+    svm:duration 156000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "1% de Fé"@pt;
     foaf:homepage "https://open.spotify.com/track/5JZhNLbNpEBJmFZ8V3ptiA"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5LPRtfQ2kfjTaC6eQPKxia> a mo:Track,
@@ -1602,9 +1603,9 @@
     dc:identifier "5LPRtfQ2kfjTaC6eQPKxia";
     dc:title "Morena Serena - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300148";
-    mo:duration 173503;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 173503;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Morena Serena - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5LPRtfQ2kfjTaC6eQPKxia"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5LVslathYyvcV1EalFex6q> a mo:Track,
@@ -1612,9 +1613,9 @@
     dc:identifier "5LVslathYyvcV1EalFex6q";
     dc:title "Te Amo, Viu - Ao Vivo"@pt;
     mo:ISRC "BRSME2301001";
-    mo:duration 172885;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 172885;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Te Amo, Viu - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5LVslathYyvcV1EalFex6q"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5Mqh0CWXHGZSofveWJro9P> a mo:Track,
@@ -1622,9 +1623,9 @@
     dc:identifier "5Mqh0CWXHGZSofveWJro9P";
     dc:title "Escutando Escobar"@pt;
     mo:ISRC "GXBAV2421550";
-    mo:duration 120922;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/65tpb4BwAnD3HOUs8MC6TB>;
+    svm:duration 120922;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Escutando Escobar"@pt;
     foaf:homepage "https://open.spotify.com/track/5Mqh0CWXHGZSofveWJro9P"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5Otfi0cla77BKiOp2BvtMx> a mo:Track,
@@ -1632,9 +1633,9 @@
     dc:identifier "5Otfi0cla77BKiOp2BvtMx";
     dc:title "Atmosfera"@pt;
     mo:ISRC "BCP2X2300115";
-    mo:duration 205166;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0vLuOi2k62sHujIfplInlK>;
+    svm:duration 205166;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Atmosfera"@pt;
     foaf:homepage "https://open.spotify.com/track/5Otfi0cla77BKiOp2BvtMx"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5Wsa3OK529e2y5WVbPDHw5> a mo:Track,
@@ -1642,9 +1643,9 @@
     dc:identifier "5Wsa3OK529e2y5WVbPDHw5";
     dc:title "Vaqueira Testada"@pt;
     mo:ISRC "BCTOE2300122";
-    mo:duration 160000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 160000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Vaqueira Testada"@pt;
     foaf:homepage "https://open.spotify.com/track/5Wsa3OK529e2y5WVbPDHw5"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5Xrj8fAqKDuvvacT9fsfD5> a mo:Track,
@@ -1652,9 +1653,9 @@
     dc:identifier "5Xrj8fAqKDuvvacT9fsfD5";
     dc:title "Elas Gostam dos Cachorros - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300155";
-    mo:duration 165652;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 165652;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Elas Gostam dos Cachorros - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5Xrj8fAqKDuvvacT9fsfD5"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5ZkwwBa9DlwuUFbXwrLeXF> a mo:Track,
@@ -1662,9 +1663,9 @@
     dc:identifier "5ZkwwBa9DlwuUFbXwrLeXF";
     dc:title "Poeirão - Ao Vivo"@pt;
     mo:ISRC "BCVV82300068";
-    mo:duration 162327;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6m6e7D2TnV0aYMllFFwMxu>;
+    svm:duration 162327;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Poeirão - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5a2CIQaMW3Keqtx4BdXbEY> a mo:Track,
@@ -1672,9 +1673,9 @@
     dc:identifier "5a2CIQaMW3Keqtx4BdXbEY";
     dc:title "Anota Aí - Ao Vivo"@pt;
     mo:ISRC "BCAVV2300117";
-    mo:duration 200723;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W>;
+    svm:duration 200723;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Anota Aí - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5cTt87f8djnVPH4mLo2L9G> a mo:Track,
@@ -1682,9 +1683,9 @@
     dc:identifier "5cTt87f8djnVPH4mLo2L9G";
     dc:title "Bomzão"@pt;
     mo:ISRC "BRWMB2301087";
-    mo:duration 189635;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 189635;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Bomzão"@pt;
     foaf:homepage "https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5lzozMoomZNhvKRoqNVg3t> a mo:Track,
@@ -1692,9 +1693,9 @@
     dc:identifier "5lzozMoomZNhvKRoqNVg3t";
     dc:title "Foragido"@pt;
     mo:ISRC "BKEHX2300011";
-    mo:duration 138920;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/42TGK7zUYHdMcKOPRg8g61>;
+    svm:duration 138920;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Foragido"@pt;
     foaf:homepage "https://open.spotify.com/track/5lzozMoomZNhvKRoqNVg3t"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5niYBuEDe07PWTkAWC1HnZ> a mo:Track,
@@ -1702,9 +1703,9 @@
     dc:identifier "5niYBuEDe07PWTkAWC1HnZ";
     dc:title "Pede Pra Eu Ficar (Listen To Your Heart)"@pt;
     mo:ISRC "BCM112300109";
-    mo:duration 192421;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6tzRZ39aZlNqlUzQlkuhDV>;
+    svm:duration 192421;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Pede Pra Eu Ficar (Listen To Your Heart)"@pt;
     foaf:homepage "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5qW8SMKPM2NsluO2JZzAU2> a mo:Track,
@@ -1712,9 +1713,9 @@
     dc:identifier "5qW8SMKPM2NsluO2JZzAU2";
     dc:title "Peguei, Pegava e Pegaria"@pt;
     mo:ISRC "BCOOM2300004";
-    mo:duration 175306;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/5exy2LREZrJ6aRzj1SwXQX>;
+    svm:duration 175306;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Peguei, Pegava e Pegaria"@pt;
     foaf:homepage "https://open.spotify.com/track/5qW8SMKPM2NsluO2JZzAU2"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5qXn94jTUxbFGIDdJRmQzv> a mo:Track,
@@ -1722,9 +1723,9 @@
     dc:identifier "5qXn94jTUxbFGIDdJRmQzv";
     dc:title "Abraça-Me - Ao Vivo"@pt;
     mo:ISRC "BXZZC2200019";
-    mo:duration 203709;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1wT33JDD3YLC0fqFnsWo9F>;
+    svm:duration 203709;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Abraça-Me - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5qXn94jTUxbFGIDdJRmQzv"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5qjwjBzWAxXjjqinjENzIF> a mo:Track,
@@ -1732,9 +1733,9 @@
     dc:identifier "5qjwjBzWAxXjjqinjENzIF";
     dc:title "Dói"@pt;
     mo:ISRC "BRRGE2300595";
-    mo:duration 183232;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1elUiq4X7pxej6FRlrEzjM>;
+    svm:duration 183232;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Dói"@pt;
     foaf:homepage "https://open.spotify.com/track/5qjwjBzWAxXjjqinjENzIF"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5tnMNVAlocxYC4ov5udsuV> a mo:Track,
@@ -1742,9 +1743,9 @@
     dc:identifier "5tnMNVAlocxYC4ov5udsuV";
     dc:title "Beijinho de Mel - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300146";
-    mo:duration 162786;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 162786;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Beijinho de Mel - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5tnMNVAlocxYC4ov5udsuV"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5uLxEIKC2lQuKY8L53M4yM> a mo:Track,
@@ -1752,9 +1753,9 @@
     dc:identifier "5uLxEIKC2lQuKY8L53M4yM";
     dc:title "Larguei, Sofri, Voltei - Ao Vivo"@pt;
     mo:ISRC "BRSME2301003";
-    mo:duration 154506;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 154506;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Larguei, Sofri, Voltei - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/5uLxEIKC2lQuKY8L53M4yM"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/5yjd0lAp6zahxFdqWeI8qM> a mo:Track,
@@ -1762,9 +1763,9 @@
     dc:identifier "5yjd0lAp6zahxFdqWeI8qM";
     dc:title "Ritmo Do Crime"@pt;
     mo:ISRC "BRRGE2300559";
-    mo:duration 169043;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gJN8W0589FisSYJS17K54>;
+    svm:duration 169043;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Ritmo Do Crime"@pt;
     foaf:homepage "https://open.spotify.com/track/5yjd0lAp6zahxFdqWeI8qM"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/61ZzkjpttMndIdYcD4B52R> a mo:Track,
@@ -1772,9 +1773,9 @@
     dc:identifier "61ZzkjpttMndIdYcD4B52R";
     dc:title "O Amor é o Segredo - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300061";
-    mo:duration 206000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 206000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "O Amor é o Segredo - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/61ZzkjpttMndIdYcD4B52R"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/62gzfhHi2supfHWfi6iHbA> a mo:Track,
@@ -1782,9 +1783,9 @@
     dc:identifier "62gzfhHi2supfHWfi6iHbA";
     dc:title "Weak"@pt;
     mo:ISRC "USZXT2353100";
-    mo:duration 202560;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/28uJnu5EsrGml2tBd7y8ts>;
+    svm:duration 202560;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Weak"@pt;
     foaf:homepage "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/63u6G0dUZuo8OKmF48qFPo> a mo:Track,
@@ -1792,9 +1793,9 @@
     dc:identifier "63u6G0dUZuo8OKmF48qFPo";
     dc:title "Sonhando Acordado - Ao Vivo"@pt;
     mo:ISRC "BRSME2300997";
-    mo:duration 165920;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 165920;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Sonhando Acordado - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/63u6G0dUZuo8OKmF48qFPo"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/64CovjRwInpOJW4PiGMprY> a mo:Track,
@@ -1802,9 +1803,9 @@
     dc:identifier "64CovjRwInpOJW4PiGMprY";
     dc:title "Faz um Vuk Vuk (Teto Espelhado)"@pt;
     mo:ISRC "BX5EU2300034";
-    mo:duration 138461;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2UMj7NCbuqy1yUZmiSYGjJ>;
+    svm:duration 138461;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Faz um Vuk Vuk (Teto Espelhado)"@pt;
     foaf:homepage "https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/64NO1NaDBfju3wZDUXSS0a> a mo:Track,
@@ -1812,9 +1813,9 @@
     dc:identifier "64NO1NaDBfju3wZDUXSS0a";
     dc:title "Rabisca"@pt;
     mo:ISRC "BRRGE2300661";
-    mo:duration 123548;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0jTDeBJQr3unrK29LklnAv>;
+    svm:duration 123548;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Rabisca"@pt;
     foaf:homepage "https://open.spotify.com/track/64NO1NaDBfju3wZDUXSS0a"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6584Gn8BWEJlgOSiTyssRY> a mo:Track,
@@ -1822,9 +1823,9 @@
     dc:identifier "6584Gn8BWEJlgOSiTyssRY";
     dc:title "Nem Dói Mais - Ao Vivo"@pt;
     mo:ISRC "BRSME2300994";
-    mo:duration 159573;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 159573;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Nem Dói Mais - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6584Gn8BWEJlgOSiTyssRY"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/65DujJsIykFhlSblphyHI8> a mo:Track,
@@ -1832,9 +1833,9 @@
     dc:identifier "65DujJsIykFhlSblphyHI8";
     dc:title "Esquema no Ranchinho - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300031";
-    mo:duration 202269;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 202269;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Esquema no Ranchinho - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/65DujJsIykFhlSblphyHI8"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/65FwhQioJxsAbkLQOe55Ah> a mo:Track,
@@ -1842,9 +1843,9 @@
     dc:identifier "65FwhQioJxsAbkLQOe55Ah";
     dc:title "Meia Hora - Ao Vivo"@pt;
     mo:ISRC "BRSME2301000";
-    mo:duration 146126;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 146126;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Meia Hora - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/65FwhQioJxsAbkLQOe55Ah"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/65MVkxrTJIjKtla2e5oJoe> a mo:Track,
@@ -1852,9 +1853,9 @@
     dc:identifier "65MVkxrTJIjKtla2e5oJoe";
     dc:title "Vivência de Morro"@pt;
     mo:ISRC "BX32F2300038";
-    mo:duration 212682;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6yZKPB8eRoJesHjtxPxSLs>;
+    svm:duration 212682;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Vivência de Morro"@pt;
     foaf:homepage "https://open.spotify.com/track/65MVkxrTJIjKtla2e5oJoe"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/67AWEUPgn9PPi1Dh7krtaK> a mo:Track,
@@ -1862,9 +1863,9 @@
     dc:identifier "67AWEUPgn9PPi1Dh7krtaK";
     dc:title "Mega da Virada"@pt;
     mo:ISRC "BRWMB2301050";
-    mo:duration 224036;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 224036;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Mega da Virada"@pt;
     foaf:homepage "https://open.spotify.com/track/67AWEUPgn9PPi1Dh7krtaK"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6962LFd5bjJJ8gxL4wz6WG> a mo:Track,
@@ -1872,9 +1873,9 @@
     dc:identifier "6962LFd5bjJJ8gxL4wz6WG";
     dc:title "Querendo Mais - Ao Vivo"@pt;
     mo:ISRC "BRSME2301007";
-    mo:duration 158730;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 158730;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Querendo Mais - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6962LFd5bjJJ8gxL4wz6WG"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/69nLtII2eS8lQxSTRWbHya> a mo:Track,
@@ -1882,9 +1883,9 @@
     dc:identifier "69nLtII2eS8lQxSTRWbHya";
     dc:title "Sexo Bom"@pt;
     mo:ISRC "BXV6U2300015";
-    mo:duration 202772;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 202772;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Sexo Bom"@pt;
     foaf:homepage "https://open.spotify.com/track/69nLtII2eS8lQxSTRWbHya"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6EK3Rob98p0sBoXJx90cDI> a mo:Track,
@@ -1892,9 +1893,9 @@
     dc:identifier "6EK3Rob98p0sBoXJx90cDI";
     dc:title "É o Amor - Ao Vivo"@pt;
     mo:ISRC "BXZZC2200005";
-    mo:duration 292651;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1wT33JDD3YLC0fqFnsWo9F>;
+    svm:duration 292651;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "É o Amor - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6EK3Rob98p0sBoXJx90cDI"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6FZlJq6db3aLpZup5Clh7p> a mo:Track,
@@ -1902,9 +1903,9 @@
     dc:identifier "6FZlJq6db3aLpZup5Clh7p";
     dc:title "Tô Achando É Top - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300009";
-    mo:duration 190550;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 190550;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tô Achando É Top - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6FZlJq6db3aLpZup5Clh7p"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6HxA4GNSRwBFIlf0NbM4OG> a mo:Track,
@@ -1912,9 +1913,9 @@
     dc:identifier "6HxA4GNSRwBFIlf0NbM4OG";
     dc:title "O Amor Machuca Demais - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300064";
-    mo:duration 127500;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 127500;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "O Amor Machuca Demais - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6HxA4GNSRwBFIlf0NbM4OG"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6K9F9L5FqmdU8xGKVVyx4T> a mo:Track,
@@ -1922,9 +1923,9 @@
     dc:identifier "6K9F9L5FqmdU8xGKVVyx4T";
     dc:title "Ponto De Paz - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300005";
-    mo:duration 187500;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 187500;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Ponto De Paz - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6K9F9L5FqmdU8xGKVVyx4T"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6ML6Z4cgH4ulONkmLn5KuA> a mo:Track,
@@ -1932,9 +1933,9 @@
     dc:identifier "6ML6Z4cgH4ulONkmLn5KuA";
     dc:title "Cores"@pt;
     mo:ISRC "BXV6U2300009";
-    mo:duration 148695;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt>;
+    svm:duration 148695;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Cores"@pt;
     foaf:homepage "https://open.spotify.com/track/6ML6Z4cgH4ulONkmLn5KuA"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6O2yF2Neo8I2L0cafiOLSH> a mo:Track,
@@ -1942,9 +1943,9 @@
     dc:identifier "6O2yF2Neo8I2L0cafiOLSH";
     dc:title "PENTADA++"@pt;
     mo:ISRC "BCHMR2300005";
-    mo:duration 130028;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY>;
+    svm:duration 130028;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "PENTADA++"@pt;
     foaf:homepage "https://open.spotify.com/track/6O2yF2Neo8I2L0cafiOLSH"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6QWAEJf3F8sX0P8jVMpFsr> a mo:Track,
@@ -1952,9 +1953,9 @@
     dc:identifier "6QWAEJf3F8sX0P8jVMpFsr";
     dc:title "Uma Vida é Pouco Pra Te Amar"@pt;
     mo:ISRC "BRWMB2301051";
-    mo:duration 212758;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 212758;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Uma Vida é Pouco Pra Te Amar"@pt;
     foaf:homepage "https://open.spotify.com/track/6QWAEJf3F8sX0P8jVMpFsr"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6WE62aOXn445mX5YEVJ5P7> a mo:Track,
@@ -1962,9 +1963,9 @@
     dc:identifier "6WE62aOXn445mX5YEVJ5P7";
     dc:title "Pura Emoção / Clima de Rodeio"@pt;
     mo:ISRC "BRJ8K2300011";
-    mo:duration 228809;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 228809;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Pura Emoção / Clima de Rodeio"@pt;
     foaf:homepage "https://open.spotify.com/track/6WE62aOXn445mX5YEVJ5P7"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6YgLHHVsF7sHSj60pIDlPu> a mo:Track,
@@ -1972,9 +1973,9 @@
     dc:identifier "6YgLHHVsF7sHSj60pIDlPu";
     dc:title "Último Solteiro - Ao Vivo"@pt;
     mo:ISRC "BCVV82300058";
-    mo:duration 182416;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6m6e7D2TnV0aYMllFFwMxu>;
+    svm:duration 182416;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Último Solteiro - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6YgLHHVsF7sHSj60pIDlPu"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6a19PoJb9vLXcpuJdG6fMZ> a mo:Track,
@@ -1982,9 +1983,9 @@
     dc:identifier "6a19PoJb9vLXcpuJdG6fMZ";
     dc:title "Batucada"@pt;
     mo:ISRC "BRWMB2301046";
-    mo:duration 168035;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 168035;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Batucada"@pt;
     foaf:homepage "https://open.spotify.com/track/6a19PoJb9vLXcpuJdG6fMZ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6cYeeXce3i6JE2rCcoGuYb> a mo:Track,
@@ -1992,9 +1993,9 @@
     dc:identifier "6cYeeXce3i6JE2rCcoGuYb";
     dc:title "Tô Sentindo Falta - Ao Vivo"@pt;
     mo:ISRC "BRSME2301576";
-    mo:duration 198227;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7>;
+    svm:duration 198227;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tô Sentindo Falta - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6cYeeXce3i6JE2rCcoGuYb"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6cirJZ3swqzyrTXPnVJfjg> a mo:Track,
@@ -2002,9 +2003,9 @@
     dc:identifier "6cirJZ3swqzyrTXPnVJfjg";
     dc:title "Rolê Furado - Ao Vivo"@pt;
     mo:ISRC "BXTP52300025";
-    mo:duration 134318;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1LGh5vyaoQP9bgTwLSMTyW>;
+    svm:duration 134318;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Rolê Furado - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6cirJZ3swqzyrTXPnVJfjg"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6eWx9pOK1JkIhUjeVmGYJr> a mo:Track,
@@ -2012,9 +2013,9 @@
     dc:identifier "6eWx9pOK1JkIhUjeVmGYJr";
     dc:title "Quase Não Namoro"@pt;
     mo:ISRC "BC3RD2300011";
-    mo:duration 135456;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/5coW9ioCpvEYGx4v1nvWec>;
+    svm:duration 135456;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Quase Não Namoro"@pt;
     foaf:homepage "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6gIpxm6CKCPrqq2jB3RaMg> a mo:Track,
@@ -2022,9 +2023,9 @@
     dc:identifier "6gIpxm6CKCPrqq2jB3RaMg";
     dc:title "Porta Retrato - Ao Vivo"@pt;
     mo:ISRC "BC3Y62300052";
-    mo:duration 177977;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 177977;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Porta Retrato - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6gIpxm6CKCPrqq2jB3RaMg"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6iBG12yzzuJUQ6uw0wi4Gk> a mo:Track,
@@ -2032,9 +2033,9 @@
     dc:identifier "6iBG12yzzuJUQ6uw0wi4Gk";
     dc:title "Coração Grande - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300075";
-    mo:duration 157923;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 157923;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Coração Grande - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6iBG12yzzuJUQ6uw0wi4Gk"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6tWg5tle44ZAwm0YhOfPyI> a mo:Track,
@@ -2042,9 +2043,9 @@
     dc:identifier "6tWg5tle44ZAwm0YhOfPyI";
     dc:title "Modo Conquista - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300077";
-    mo:duration 164997;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 164997;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Modo Conquista - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6tWg5tle44ZAwm0YhOfPyI"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6w5FhV262pUNC4nR5frhxn> a mo:Track,
@@ -2052,9 +2053,9 @@
     dc:identifier "6w5FhV262pUNC4nR5frhxn";
     dc:title "Vou Fazer Falta - Ao Vivo"@pt;
     mo:ISRC "BRWNV2300081";
-    mo:duration 170743;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv>;
+    svm:duration 170743;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Vou Fazer Falta - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/6w5FhV262pUNC4nR5frhxn"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/6y0Em3NjK4mugeBpw3ljWN> a mo:Track,
@@ -2062,9 +2063,9 @@
     dc:identifier "6y0Em3NjK4mugeBpw3ljWN";
     dc:title "Mega do Pega"@pt;
     mo:ISRC "GXBAV2421551";
-    mo:duration 86769;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/65tpb4BwAnD3HOUs8MC6TB>;
+    svm:duration 86769;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Mega do Pega"@pt;
     foaf:homepage "https://open.spotify.com/track/6y0Em3NjK4mugeBpw3ljWN"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/70GasiiY8Nr4qAliK66kEx> a mo:Track,
@@ -2072,9 +2073,9 @@
     dc:identifier "70GasiiY8Nr4qAliK66kEx";
     dc:title "Quanto Melhor o Domingo, Pior a Segunda - Ao Vivo"@pt;
     mo:ISRC "BXTP52300027";
-    mo:duration 112205;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1LGh5vyaoQP9bgTwLSMTyW>;
+    svm:duration 112205;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Quanto Melhor o Domingo, Pior a Segunda - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/70GasiiY8Nr4qAliK66kEx"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/70oZF9sCDm6uOOtTX6sFbL> a mo:Track,
@@ -2082,9 +2083,9 @@
     dc:identifier "70oZF9sCDm6uOOtTX6sFbL";
     dc:title "Love Roça - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300027";
-    mo:duration 156110;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 156110;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Love Roça - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/70oZF9sCDm6uOOtTX6sFbL"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/735MbOmMNSTMmPVrY51LBh> a mo:Track,
@@ -2092,9 +2093,9 @@
     dc:identifier "735MbOmMNSTMmPVrY51LBh";
     dc:title "Aqui Tem Alguém - Ao Vivo"@pt;
     mo:ISRC "BKA7Y2300011";
-    mo:duration 168572;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2CKOmarVWvWqkNWUatHCex>;
+    svm:duration 168572;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Aqui Tem Alguém - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/735MbOmMNSTMmPVrY51LBh"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/74MM6seArZKZ2yGtv1N7Lc> a mo:Track,
@@ -2102,9 +2103,9 @@
     dc:identifier "74MM6seArZKZ2yGtv1N7Lc";
     dc:title "Medley Abertura - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300142";
-    mo:duration 402181;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 402181;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Medley Abertura - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/74MM6seArZKZ2yGtv1N7Lc"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/758BVp2SU3uGru062K5cju> a mo:Track,
@@ -2112,9 +2113,9 @@
     dc:identifier "758BVp2SU3uGru062K5cju";
     dc:title "Alerta de Golpe - Ao Vivo"@pt;
     mo:ISRC "BKA7Y2300009";
-    mo:duration 142062;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/2CKOmarVWvWqkNWUatHCex>;
+    svm:duration 142062;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Alerta de Golpe - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/758BVp2SU3uGru062K5cju"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/77xqRp4zLdRzNGUeaoM7Ci> a mo:Track,
@@ -2122,9 +2123,9 @@
     dc:identifier "77xqRp4zLdRzNGUeaoM7Ci";
     dc:title "Carnaval de Vagabundo"@pt;
     mo:ISRC "GXBAV2421553";
-    mo:duration 121846;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/65tpb4BwAnD3HOUs8MC6TB>;
+    svm:duration 121846;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Carnaval de Vagabundo"@pt;
     foaf:homepage "https://open.spotify.com/track/77xqRp4zLdRzNGUeaoM7Ci"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/78BJcdrM11EKGjhqnZ6axe> a mo:Track,
@@ -2132,9 +2133,9 @@
     dc:identifier "78BJcdrM11EKGjhqnZ6axe";
     dc:title "Dois Idiotas - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300151";
-    mo:duration 133236;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 133236;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Dois Idiotas - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/78BJcdrM11EKGjhqnZ6axe"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/793IuzxkcR9mAviV43HPCn> a mo:Track,
@@ -2142,9 +2143,9 @@
     dc:identifier "793IuzxkcR9mAviV43HPCn";
     dc:title "Solteiro Louco"@pt;
     mo:ISRC "BRJ8K2300038";
-    mo:duration 162621;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 162621;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Solteiro Louco"@pt;
     foaf:homepage "https://open.spotify.com/track/793IuzxkcR9mAviV43HPCn"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/79gTgzaKZ735NqhwnJE8bJ> a mo:Track,
@@ -2152,9 +2153,9 @@
     dc:identifier "79gTgzaKZ735NqhwnJE8bJ";
     dc:title "Sem Você Tá Foda - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300147";
-    mo:duration 138802;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 138802;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Sem Você Tá Foda - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/79gTgzaKZ735NqhwnJE8bJ"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7A1MLekDB4j7NejgnyYzGi> a mo:Track,
@@ -2162,9 +2163,9 @@
     dc:identifier "7A1MLekDB4j7NejgnyYzGi";
     dc:title "Criminoso - Ao Vivo"@pt;
     mo:ISRC "BRUM72202301";
-    mo:duration 147908;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP>;
+    svm:duration 147908;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Criminoso - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7A1MLekDB4j7NejgnyYzGi"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7CHfDDYWBiRH609GKdWgif> a mo:Track,
@@ -2172,9 +2173,9 @@
     dc:identifier "7CHfDDYWBiRH609GKdWgif";
     dc:title "NEM AÍ"@pt;
     mo:ISRC "BRWMB2301692";
-    mo:duration 158769;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/5wbf52LA6kcaboHSN6NEF1>;
+    svm:duration 158769;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "NEM AÍ"@pt;
     foaf:homepage "https://open.spotify.com/track/7CHfDDYWBiRH609GKdWgif"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7EHlDvAa7gncwcAlfclZiX> a mo:Track,
@@ -2182,9 +2183,9 @@
     dc:identifier "7EHlDvAa7gncwcAlfclZiX";
     dc:title "Última Noite - Ao Vivo"@pt;
     mo:ISRC "BRUM72301629";
-    mo:duration 148516;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/47uyFQHOD02S0lj9ptRpoB>;
+    svm:duration 148516;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Última Noite - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7EHlDvAa7gncwcAlfclZiX"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7G7HwKrxu1oClDDoIkD3hH> a mo:Track,
@@ -2192,9 +2193,9 @@
     dc:identifier "7G7HwKrxu1oClDDoIkD3hH";
     dc:title "Vai Ter que Rebolar"@pt;
     mo:ISRC "BRWMB2301028";
-    mo:duration 113469;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0iZz25uH5PLaShpqq84uYv>;
+    svm:duration 113469;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Vai Ter que Rebolar"@pt;
     foaf:homepage "https://open.spotify.com/track/7G7HwKrxu1oClDDoIkD3hH"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7JQSBoGyI9Sb7PzyDfVap5> a mo:Track,
@@ -2202,9 +2203,9 @@
     dc:identifier "7JQSBoGyI9Sb7PzyDfVap5";
     dc:title "Você Veio Me Completar - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300150";
-    mo:duration 230769;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 230769;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Você Veio Me Completar - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7JQSBoGyI9Sb7PzyDfVap5"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7Jd7K1nYzdycz1DuY9RH1m> a mo:Track,
@@ -2212,9 +2213,9 @@
     dc:identifier "7Jd7K1nYzdycz1DuY9RH1m";
     dc:title "Mal Te Conheço - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300047";
-    mo:duration 157000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 157000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Mal Te Conheço - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7Jd7K1nYzdycz1DuY9RH1m"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7KDDrAqNSOdEUeNvAOEExR> a mo:Track,
@@ -2222,9 +2223,9 @@
     dc:identifier "7KDDrAqNSOdEUeNvAOEExR";
     dc:title "Sem Compaixão"@pt;
     mo:ISRC "BKM2L2300056";
-    mo:duration 202451;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0xEdwBYYjxw6wk179Tq2sJ>;
+    svm:duration 202451;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Sem Compaixão"@pt;
     foaf:homepage "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7LNOsASVhU3pO6WlmNjt26> dc:identifier
@@ -2232,9 +2233,9 @@
     dc:title "Última Coisa"@pt;
     a mo:Track, svm:Track_Spotify;
     mo:ISRC "BCM9A2300079";
-    mo:duration 170571;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB>;
+    svm:duration 170571;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Última Coisa"@pt;
     foaf:homepage "https://open.spotify.com/track/7LNOsASVhU3pO6WlmNjt26"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7MIwlEoV61aRzIHSNoCLyv> a mo:Track,
@@ -2242,9 +2243,9 @@
     dc:identifier "7MIwlEoV61aRzIHSNoCLyv";
     dc:title "Excitante - Ao Vivo"@pt;
     mo:ISRC "BRUM72202305";
-    mo:duration 197150;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP>;
+    svm:duration 197150;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Excitante - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7MIwlEoV61aRzIHSNoCLyv"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7eSV1RoJCazTtdmERY7hHg> a mo:Track,
@@ -2252,9 +2253,9 @@
     dc:identifier "7eSV1RoJCazTtdmERY7hHg";
     dc:title "Eu e Você - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300144";
-    mo:duration 209496;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 209496;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Eu e Você - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7eSV1RoJCazTtdmERY7hHg"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7fHphhec6AJiHAWZnPRKRP> a mo:Track,
@@ -2262,9 +2263,9 @@
     dc:identifier "7fHphhec6AJiHAWZnPRKRP";
     dc:title "Nada A Ver Com A Outra - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300078";
-    mo:duration 154231;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 154231;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Nada A Ver Com A Outra - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7fHphhec6AJiHAWZnPRKRP"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7hYJrBeVLB2tVgSQuRd0Mg> a mo:Track,
@@ -2272,9 +2273,9 @@
     dc:identifier "7hYJrBeVLB2tVgSQuRd0Mg";
     dc:title "Na Minha Pele"@pt;
     mo:ISRC "BX3F32300013";
-    mo:duration 196543;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/6gEzJZrbm0F4ihvE9iXR9z>;
+    svm:duration 196543;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Na Minha Pele"@pt;
     foaf:homepage "https://open.spotify.com/track/7hYJrBeVLB2tVgSQuRd0Mg"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7iznCXjklEQ0NTgeM912Hn> a mo:Track,
@@ -2282,9 +2283,9 @@
     dc:identifier "7iznCXjklEQ0NTgeM912Hn";
     dc:title "Vem Ficar Comigo / Adoro Amar Você / 24 Horas de Amor"@pt;
     mo:ISRC "BRJ8K2300019";
-    mo:duration 268428;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8>;
+    svm:duration 268428;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Vem Ficar Comigo / Adoro Amar Você / 24 Horas de Amor"@pt;
     foaf:homepage "https://open.spotify.com/track/7iznCXjklEQ0NTgeM912Hn"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7jTmQz3ND62dznTvQkKwjd> a mo:Track,
@@ -2292,9 +2293,9 @@
     dc:identifier "7jTmQz3ND62dznTvQkKwjd";
     dc:title "Tédio"@pt;
     mo:ISRC "BRWMB2301045";
-    mo:duration 171666;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 171666;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tédio"@pt;
     foaf:homepage "https://open.spotify.com/track/7jTmQz3ND62dznTvQkKwjd"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7ksKhCGBYPTq2lSJ2m8uOp> a mo:Track,
@@ -2302,9 +2303,9 @@
     dc:identifier "7ksKhCGBYPTq2lSJ2m8uOp";
     dc:title "Cê Tava no Rodeio - Ao Vivo"@pt;
     mo:ISRC "BKUUS2300019";
-    mo:duration 153012;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d>;
+    svm:duration 153012;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Cê Tava no Rodeio - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7ksKhCGBYPTq2lSJ2m8uOp"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7nO7yEQhimIlvaSdMvxNHN> a mo:Track,
@@ -2312,9 +2313,9 @@
     dc:identifier "7nO7yEQhimIlvaSdMvxNHN";
     dc:title "Tudo Pah - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300056";
-    mo:duration 189000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 189000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tudo Pah - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7nO7yEQhimIlvaSdMvxNHN"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7nwZ3GQDbAyT6oecSiNrKK> a mo:Track,
@@ -2322,9 +2323,9 @@
     dc:identifier "7nwZ3GQDbAyT6oecSiNrKK";
     dc:title "Enquadro"@pt;
     mo:ISRC "BKBSS2300327";
-    mo:duration 379058;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1cYhx7ZOhYoVmnDPb9KMwo>;
+    svm:duration 379058;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "Enquadro"@pt;
     foaf:homepage "https://open.spotify.com/track/7nwZ3GQDbAyT6oecSiNrKK"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7p9J0aMGpmFbeIfwMXWL26> a mo:Track,
@@ -2332,9 +2333,9 @@
     dc:identifier "7p9J0aMGpmFbeIfwMXWL26";
     dc:title "Tchau Pros Esquemas - Ao Vivo"@pt;
     mo:ISRC "BRTKV2300012";
-    mo:duration 159400;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/1sDVuztNhGcetCLChkleDA>;
+    svm:duration 159400;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tchau Pros Esquemas - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7p9J0aMGpmFbeIfwMXWL26"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7pT5lLyE5tcip6ujhU2EPT> a mo:Track,
@@ -2342,9 +2343,9 @@
     dc:identifier "7pT5lLyE5tcip6ujhU2EPT";
     dc:title "Tudo Me Lembra Você - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300050";
-    mo:duration 180000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 180000;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Tudo Me Lembra Você - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7pT5lLyE5tcip6ujhU2EPT"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7rHdcR6p2miYDLYf9oM0rK> a mo:Track,
@@ -2352,9 +2353,9 @@
     dc:identifier "7rHdcR6p2miYDLYf9oM0rK";
     dc:title "Deixa Eu Te Amar - Ao Vivo"@pt;
     mo:ISRC "BRS4R2300084";
-    mo:duration 198215;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz>;
+    svm:duration 198215;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Deixa Eu Te Amar - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7rHdcR6p2miYDLYf9oM0rK"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7rpYVvjyp4CiwKEXOZ20oO> a mo:Track,
@@ -2362,9 +2363,9 @@
     dc:identifier "7rpYVvjyp4CiwKEXOZ20oO";
     dc:title "Campo de Batalha - Ao Vivo"@pt;
     mo:ISRC "BRWNV2300061";
-    mo:duration 163619;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv>;
+    svm:duration 163619;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Campo de Batalha - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7rpYVvjyp4CiwKEXOZ20oO"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7tSZyaZS1hHZ87RcZ2jAeB> a mo:Track,
@@ -2372,9 +2373,9 @@
     dc:identifier "7tSZyaZS1hHZ87RcZ2jAeB";
     dc:title "Que Se Vá"@pt;
     mo:ISRC "BRWMB2301044";
-    mo:duration 144686;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 144686;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Que Se Vá"@pt;
     foaf:homepage "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7ueQ8TyNS7Oc56aEz4Evc4> a mo:Track,
@@ -2382,9 +2383,9 @@
     dc:identifier "7ueQ8TyNS7Oc56aEz4Evc4";
     dc:title "Farol / Dois Amores - Ao Vivo"@pt;
     mo:ISRC "BKP5A2300053";
-    mo:duration 234458;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U>;
+    svm:duration 234458;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Farol / Dois Amores - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7ueQ8TyNS7Oc56aEz4Evc4"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7xGVDSYG1QhdXlKpLKJAgg> a mo:Track,
@@ -2392,9 +2393,9 @@
     dc:identifier "7xGVDSYG1QhdXlKpLKJAgg";
     dc:title "Fé nas Maluca"@pt;
     mo:ISRC "BRWMB2300989";
-    mo:duration 143221;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes>;
+    svm:duration 143221;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Fé nas Maluca"@pt;
     foaf:homepage "https://open.spotify.com/track/7xGVDSYG1QhdXlKpLKJAgg"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7xLxkTNVdoe7MMO7DduPed> a mo:Track,
@@ -2402,9 +2403,9 @@
     dc:identifier "7xLxkTNVdoe7MMO7DduPed";
     dc:title "De Lala - Spotify Singles"@pt;
     mo:ISRC "QZTVM2353216";
-    mo:duration 160000;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/21ELc2P2rA3Cu6xw3VWqvv>;
+    svm:duration 160000;
     svm:isExplicit "True"^^xsd:boolean;
+    rdfs:label "De Lala - Spotify Singles"@pt;
     foaf:homepage "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"^^xsd:anyURI .
   
   <http://www.arida.ufc.br/resource/Spotify/Track/7yK5LvSp50cNEtrBqdXTjA> a mo:Track,
@@ -2412,8 +2413,8 @@
     dc:identifier "7yK5LvSp50cNEtrBqdXTjA";
     dc:title "Volta Logo Amor - Ao Vivo"@pt;
     mo:ISRC "BCTOE2300154";
-    mo:duration 159259;
-    mo:performer <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C>;
+    svm:duration 159259;
     svm:isExplicit "False"^^xsd:boolean;
+    rdfs:label "Volta Logo Amor - Ao Vivo"@pt;
     foaf:homepage "https://open.spotify.com/track/7yK5LvSp50cNEtrBqdXTjA"^^xsd:anyURI .
 }
