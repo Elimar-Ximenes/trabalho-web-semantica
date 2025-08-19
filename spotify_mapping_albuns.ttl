@@ -49,12 +49,12 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate mo:label ;
+        rr:predicate svm:labelName ;
         rr:objectMap [ rml:reference "album_label" ]
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate schema:image ;
+        rr:predicate schema:thumbnail ;
         rr:objectMap [ rml:reference "album_image" ; rr:datatype xsd:anyURI ]
     ] ;
 

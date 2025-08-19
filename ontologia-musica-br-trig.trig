@@ -315,6 +315,11 @@ foaf:name rdf:type owl:DatatypeProperty ;
           rdfs:label "name"@en ,
                      "nome"@pt .
 
+svm:isExplicit rdf:type owl:DatatypeProperty ;
+               rdfs:domain mo:Track ;
+               rdfs:range xsd:boolean ;
+               rdfs:label "faixa explícita"@pt ,
+                          "is explicit track"@en .
 
 #################################################################
 #    Classes

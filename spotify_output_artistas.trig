@@ -11,10 +11,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0CdnnCbbKD4oIzBmxi2o7r> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0CdnnCbbKD4oIzBmxi2o7r";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb2c6a82e80f040ccc4a0b514e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb2c6a82e80f040ccc4a0b514e"^^xsd:anyURI;
     svm:followers 990221;
+    svm:genres "tecnobrega, sertanejo, forró, piseiro, brega, arrocha, seresta, sertanejo universitário"@pt;
     svm:popularity 65;
-    rdfs:comment "tecnobrega, sertanejo, forró, piseiro, brega, arrocha, seresta, sertanejo universitário"@pt;
     rdfs:label "Manu"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4zYjj0oRteBn9X6QdCmU57>;
     foaf:name "Manu"@pt .
@@ -22,10 +22,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0CrGLmfVKzk9rAyiNb91ft> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0CrGLmfVKzk9rAyiNb91ft";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebad75d77dd99f5a93bc2340c3"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebad75d77dd99f5a93bc2340c3"^^xsd:anyURI;
     svm:followers 1498361;
+    svm:genres "sertanejo, sertanejo universitário, agronejo"@pt;
     svm:popularity 64;
-    rdfs:comment "sertanejo, sertanejo universitário, agronejo"@pt;
     rdfs:label "Diego & Arnaldo"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/6KnyqyMBNCckwCsO21sDPU>;
     foaf:name "Diego & Arnaldo"@pt .
@@ -33,11 +33,11 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0NiaKn55OzJswiYevvlKfz";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb0a7f05a4f41309a95ed5faab"^^xsd:anyURI,
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb0a7f05a4f41309a95ed5faab"^^xsd:anyURI,
       "https://i.scdn.co/image/ab6761610000e5ebb5c2d12291924d2c0099eecd"^^xsd:anyURI;
     svm:followers 2547109;
+    svm:genres "forró, piseiro, sertanejo, arrocha, brega, raï, seresta, sertanejo universitário"@pt;
     svm:popularity 66;
-    rdfs:comment "forró, piseiro, sertanejo, arrocha, brega, raï, seresta, sertanejo universitário"@pt;
     rdfs:label "Raí Saia Rodada"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1jElzLi27vaY1p5JPyeVQU>,
       <http://www.arida.ufc.br/resource/Spotify/Record/6faKhHj1VAsiLCNqU5JoKo>;
@@ -46,10 +46,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0SPHfj49UeOgHKwSYcn8xZ> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0SPHfj49UeOgHKwSYcn8xZ";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb36e3565eab170e3fee91ac1c"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb36e3565eab170e3fee91ac1c"^^xsd:anyURI;
     svm:followers 84809;
+    svm:genres "sertanejo, sertanejo universitário"@pt;
     svm:popularity 63;
-    rdfs:comment "sertanejo, sertanejo universitário"@pt;
     rdfs:label "Bruno Rosa"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1vqKzMezhZxuMhVTy2T2Vr>;
     foaf:name "Bruno Rosa"@pt .
@@ -57,10 +57,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0iZz25uH5PLaShpqq84uYv> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0iZz25uH5PLaShpqq84uYv";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eba75a686e7d34331cb4455759"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eba75a686e7d34331cb4455759"^^xsd:anyURI;
     svm:followers 576668;
+    svm:genres "brazilian hip hop, brazilian trap, trap funk"@pt;
     svm:popularity 66;
-    rdfs:comment "brazilian hip hop, brazilian trap, trap funk"@pt;
     rdfs:label "Papatinho"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/2xReweSuwmZbdogHMILeek>;
     foaf:name "Papatinho"@pt .
@@ -68,10 +68,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0jTDeBJQr3unrK29LklnAv> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0jTDeBJQr3unrK29LklnAv";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb54b1d7c938ac8300c4253c18"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb54b1d7c938ac8300c4253c18"^^xsd:anyURI;
     svm:followers 2544411;
+    svm:genres "funk pop, funk, brazilian pop, brazilian funk, funk carioca, brega funk"@pt;
     svm:popularity 53;
-    rdfs:comment "funk pop, funk, brazilian pop, brazilian funk, funk carioca, brega funk"@pt;
     rdfs:label "Lexa"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5SOcG7pOSSipVv3QhRE3jg>;
     foaf:name "Lexa"@pt .
@@ -79,10 +79,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0kc1BjcLHaXhZVzCp0HeAl> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0kc1BjcLHaXhZVzCp0HeAl";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb0bf61b9d0ab683c662d7e334"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb0bf61b9d0ab683c662d7e334"^^xsd:anyURI;
     svm:followers 164331;
+    svm:genres "brazilian hip hop, nova mpb"@pt;
     svm:popularity 41;
-    rdfs:comment "brazilian hip hop, nova mpb"@pt;
     rdfs:label "Tassia Reis"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/28FxczQCIQtBEn0FGqWtxE>;
     foaf:name "Tassia Reis"@pt .
@@ -90,10 +90,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0vLuOi2k62sHujIfplInlK> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0vLuOi2k62sHujIfplInlK";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb861bc7b20deb3abfde130036"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb861bc7b20deb3abfde130036"^^xsd:anyURI;
     svm:followers 10986867;
+    svm:genres "brazilian hip hop"@pt;
     svm:popularity 77;
-    rdfs:comment "brazilian hip hop"@pt;
     rdfs:label "Hungria"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5o0csE58lgjhza8ry0lNXA>;
     foaf:name "Hungria"@pt .
@@ -101,10 +101,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/0xEdwBYYjxw6wk179Tq2sJ> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "0xEdwBYYjxw6wk179Tq2sJ";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb44084f7c8d28a0ccd9fed677"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb44084f7c8d28a0ccd9fed677"^^xsd:anyURI;
     svm:followers 341652;
+    svm:genres "brazilian trap, trap, trap funk, brazilian hip hop"@pt;
     svm:popularity 65;
-    rdfs:comment "brazilian trap, trap, trap funk, brazilian hip hop"@pt;
     rdfs:label "Leviano"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0iyqDsb8sbXxhhvMdn4YB2>;
     foaf:name "Leviano"@pt .
@@ -112,10 +112,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1LGh5vyaoQP9bgTwLSMTyW> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1LGh5vyaoQP9bgTwLSMTyW";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb86c949bbfb07d8ff441f7dd0"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb86c949bbfb07d8ff441f7dd0"^^xsd:anyURI;
     svm:followers 1799912;
+    svm:genres "sertanejo, sertanejo universitário, arrocha, piseiro, forró"@pt;
     svm:popularity 51;
-    rdfs:comment "sertanejo, sertanejo universitário, arrocha, piseiro, forró"@pt;
     rdfs:label "Thiago Brava"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4a2jzuO8E9vXmcBnbiF3PU>;
     foaf:name "Thiago Brava"@pt .
@@ -123,10 +123,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1WQBwwssN6r8DSjUlkyUGW> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1WQBwwssN6r8DSjUlkyUGW";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb5c2f591f657e5256c5baa816"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb5c2f591f657e5256c5baa816"^^xsd:anyURI;
     svm:followers 9526791;
+    svm:genres "brazilian trap, trap funk, trap, brazilian hip hop, funk consciente"@pt;
     svm:popularity 77;
-    rdfs:comment "brazilian trap, trap funk, trap, brazilian hip hop, funk consciente"@pt;
     rdfs:label "MC Cabelinho"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/2of77xllwOV4R21J3v4t20>;
     foaf:name "MC Cabelinho"@pt .
@@ -134,11 +134,11 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1X6ORK7IekgmyjV6IFPszP";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb3563c0a96d80f9c29e97f568"^^xsd:anyURI,
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb3563c0a96d80f9c29e97f568"^^xsd:anyURI,
       "https://i.scdn.co/image/ab6761610000e5eba291b99de1602566f8d57725"^^xsd:anyURI;
     svm:followers 7015644;
+    svm:genres "sertanejo, sertanejo universitário, arrocha, agronejo"@pt;
     svm:popularity 77;
-    rdfs:comment "sertanejo, sertanejo universitário, arrocha, agronejo"@pt;
     rdfs:label "Gustavo Mioto"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1WaIfoHKHix2M25FBZqiSW>;
     foaf:name "Gustavo Mioto"@pt .
@@ -146,10 +146,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1ZcIMjx9kP46pUdFOdjWKQ> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1ZcIMjx9kP46pUdFOdjWKQ";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb944862495566c458dcaa5983"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb944862495566c458dcaa5983"^^xsd:anyURI;
     svm:followers 168493;
+    svm:genres "brazilian trap, trap, brazilian hip hop"@pt;
     svm:popularity 55;
-    rdfs:comment "brazilian trap, trap, brazilian hip hop"@pt;
     rdfs:label "Abbot"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4E62XM9QVdCFVUuTcVFMPa>;
     foaf:name "Abbot"@pt .
@@ -157,10 +157,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1cYhx7ZOhYoVmnDPb9KMwo> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1cYhx7ZOhYoVmnDPb9KMwo";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb489d453e5d9e3835c0dae37e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb489d453e5d9e3835c0dae37e"^^xsd:anyURI;
     svm:followers 4045005;
+    svm:genres "funk, brazilian funk, funk consciente, trap funk"@pt;
     svm:popularity 74;
-    rdfs:comment "funk, brazilian funk, funk consciente, trap funk"@pt;
     rdfs:label "Mc Davi"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5P0q5p1O6G4aC6RvtqZL9U>;
     foaf:name "Mc Davi"@pt .
@@ -168,10 +168,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1elUiq4X7pxej6FRlrEzjM> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1elUiq4X7pxej6FRlrEzjM";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb77937baabc49dea13c17c706"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb77937baabc49dea13c17c706"^^xsd:anyURI;
     svm:followers 23346991;
+    svm:genres "sertanejo, sertanejo universitário, arrocha, agronejo"@pt;
     svm:popularity 84;
-    rdfs:comment "sertanejo, sertanejo universitário, arrocha, agronejo"@pt;
     rdfs:label "Jorge & Mateus"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/23xCMjuFXyFuQ2k1Q4EXyx>;
     foaf:name "Jorge & Mateus"@pt .
@@ -179,10 +179,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1etNnR2SdlelBQAICa2Q5m> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1etNnR2SdlelBQAICa2Q5m";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb84bb7c6edf6a67e3203c8e58"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb84bb7c6edf6a67e3203c8e58"^^xsd:anyURI;
     svm:followers 4651145;
+    svm:genres "funk, brazilian funk"@pt;
     svm:popularity 72;
-    rdfs:comment "funk, brazilian funk"@pt;
     rdfs:label "Mc Pedrinho"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5G2XQuKhvrG0syKNtYhrav>,
       <http://www.arida.ufc.br/resource/Spotify/Record/7mgy4Q1DHnkEbLHXaN4Epv>;
@@ -191,10 +191,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1mXAhKnZEdF6rotyyd4GBi> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1mXAhKnZEdF6rotyyd4GBi";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb86190b5139bb76e03b0d35b1"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb86190b5139bb76e03b0d35b1"^^xsd:anyURI;
     svm:followers 7046906;
+    svm:genres "funk, brazilian funk, funk pop"@pt;
     svm:popularity 67;
-    rdfs:comment "funk, brazilian funk, funk pop"@pt;
     rdfs:label "MC Kevinho"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4y2B0NZZ9FRdtHSKu4qAwH>;
     foaf:name "MC Kevinho"@pt .
@@ -202,10 +202,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1mohmQWtxDNZcBGkfxG4eW> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1mohmQWtxDNZcBGkfxG4eW";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb3b883119d10337147784c659"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb3b883119d10337147784c659"^^xsd:anyURI;
     svm:followers 49978;
+    svm:genres "brazilian trap, brazilian hip hop, trap"@pt;
     svm:popularity 56;
-    rdfs:comment "brazilian trap, brazilian hip hop, trap"@pt;
     rdfs:label "Ecologyk"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0aabe3MkHEfOH89G3AA7rX>;
     foaf:name "Ecologyk"@pt .
@@ -213,11 +213,11 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1oSgjdbgLYULVmEBojPRw8";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb0c034afc8eef7b7118138bff"^^xsd:anyURI,
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb0c034afc8eef7b7118138bff"^^xsd:anyURI,
       "https://i.scdn.co/image/ab6761610000e5ebf4652f5d1d3906c5d68ed981"^^xsd:anyURI;
     svm:followers 4745284;
+    svm:genres "sertanejo, sertanejo universitário, agronejo, piseiro, arrocha"@pt;
     svm:popularity 70;
-    rdfs:comment "sertanejo, sertanejo universitário, agronejo, piseiro, arrocha"@pt;
     rdfs:label "Fernando & Sorocaba"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/2EgIkuV76R6XfAefSNOkWX>;
     foaf:name "Fernando & Sorocaba"@pt .
@@ -225,10 +225,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1sDVuztNhGcetCLChkleDA> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1sDVuztNhGcetCLChkleDA";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebbc8544fc313916a0ab43aedc"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebbc8544fc313916a0ab43aedc"^^xsd:anyURI;
     svm:followers 2936177;
+    svm:genres "sertanejo, sertanejo universitário, sertanejo tradicional"@pt;
     svm:popularity 64;
-    rdfs:comment "sertanejo, sertanejo universitário, sertanejo tradicional"@pt;
     rdfs:label "Michel Teló"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4ICjzaL3faeqoOPda7Yz7h>;
     foaf:name "Michel Teló"@pt .
@@ -236,10 +236,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/1wT33JDD3YLC0fqFnsWo9F> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "1wT33JDD3YLC0fqFnsWo9F";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb6da58811bb98adbe633a0ff9"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb6da58811bb98adbe633a0ff9"^^xsd:anyURI;
     svm:followers 159156;
+    svm:genres "sertanejo, sertanejo tradicional, sertanejo universitário"@pt;
     svm:popularity 55;
-    rdfs:comment "sertanejo, sertanejo tradicional, sertanejo universitário"@pt;
     rdfs:label "ZeZé Di Camargo"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/6E9KXABonOSuK2moEnEsCn>;
     foaf:name "ZeZé Di Camargo"@pt .
@@ -247,10 +247,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/21ELc2P2rA3Cu6xw3VWqvv> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "21ELc2P2rA3Cu6xw3VWqvv";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb48ebde532789781918d43b8f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb48ebde532789781918d43b8f"^^xsd:anyURI;
     svm:followers 1740936;
+    svm:genres "funk consciente, funk, brazilian funk, trap funk"@pt;
     svm:popularity 73;
-    rdfs:comment "funk consciente, funk, brazilian funk, trap funk"@pt;
     rdfs:label "Mc Kadu"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/3KFcPPHqFd0BhuLCl95zGX>;
     foaf:name "Mc Kadu"@pt .
@@ -258,10 +258,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/28uJnu5EsrGml2tBd7y8ts> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "28uJnu5EsrGml2tBd7y8ts";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebb2858408e6d69098e07329fd"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebb2858408e6d69098e07329fd"^^xsd:anyURI;
     svm:followers 1971633;
+    svm:genres "brazilian bass, electronic, electro"@pt;
     svm:popularity 74;
-    rdfs:comment "brazilian bass, electronic, electro"@pt;
     rdfs:label "Vintage Culture"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/7M457yfuVeLaiYrtiKTvqn>;
     foaf:name "Vintage Culture"@pt .
@@ -269,10 +269,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/2CKOmarVWvWqkNWUatHCex> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "2CKOmarVWvWqkNWUatHCex";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebdc6d680133ed9811b032d8b5"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebdc6d680133ed9811b032d8b5"^^xsd:anyURI;
     svm:followers 9148266;
+    svm:genres "sertanejo, agronejo, sertanejo universitário, piseiro"@pt;
     svm:popularity 81;
-    rdfs:comment "sertanejo, agronejo, sertanejo universitário, piseiro"@pt;
     rdfs:label "Ana Castela"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1fg0TEYbq89Jmirue5wXai>;
     foaf:name "Ana Castela"@pt .
@@ -280,10 +280,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/2TqXAXuNUnnzzCTuAs5DX5> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "2TqXAXuNUnnzzCTuAs5DX5";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb9d77fc74e073d594847b2fa6"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb9d77fc74e073d594847b2fa6"^^xsd:anyURI;
     svm:followers 179927;
+    svm:genres "brazilian pop"@pt;
     svm:popularity 53;
-    rdfs:comment "brazilian pop"@pt;
     rdfs:label "Ananda"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/3T8pak58PgFxme2Iu3mHet>;
     foaf:name "Ananda"@pt .
@@ -291,10 +291,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/2UMj7NCbuqy1yUZmiSYGjJ> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "2UMj7NCbuqy1yUZmiSYGjJ";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb43d35ed6d2c99a4cf13f6f6e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb43d35ed6d2c99a4cf13f6f6e"^^xsd:anyURI;
     svm:followers 3092546;
+    svm:genres "funk, brazilian funk, funk carioca, brega funk"@pt;
     svm:popularity 72;
-    rdfs:comment "funk, brazilian funk, funk carioca, brega funk"@pt;
     rdfs:label "MC Kevin o Chris"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/2DOO1JYlNyuZddB7NIwp4t>,
       <http://www.arida.ufc.br/resource/Spotify/Record/59qldBzRiQutEYO1hqxw7H>;
@@ -303,10 +303,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "2tRjUL3itR7rBI8XrvJrCt";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb203269f296a28cf6ae67252f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb203269f296a28cf6ae67252f"^^xsd:anyURI;
     svm:followers 7520;
+    svm:genres "nova mpb"@pt;
     svm:popularity 38;
-    rdfs:comment "nova mpb"@pt;
     rdfs:label "Feyjão"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1scxBLyeF8CmbdErwhZgHj>;
     foaf:name "Feyjão"@pt .
@@ -314,10 +314,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "2uSwBbWqsXgoMYQjynmwQ7";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebf4de5820dc512a479527fc6f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebf4de5820dc512a479527fc6f"^^xsd:anyURI;
     svm:followers 749750;
+    svm:genres "pagode, samba"@pt;
     svm:popularity 69;
-    rdfs:comment "pagode, samba"@pt;
     rdfs:label "Di Propósito"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0EprvIKwgELetTgmauNnyp>,
       <http://www.arida.ufc.br/resource/Spotify/Record/2CNMWzDgeaGkEv9bMMxZnN>, <http://www.arida.ufc.br/resource/Spotify/Record/7kWXLVohywfzc5HzbKoS9f>;
@@ -326,10 +326,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/3CDoRporvSjdzTrm99a3gi> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "3CDoRporvSjdzTrm99a3gi";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebbdb4157fe1725afa58453023"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebbdb4157fe1725afa58453023"^^xsd:anyURI;
     svm:followers 8215610;
+    svm:genres "pagode, brazilian pop, funk pop, pagode baiano, funk carioca, funk, samba, brazilian funk"@pt;
     svm:popularity 77;
-    rdfs:comment "pagode, brazilian pop, funk pop, pagode baiano, funk carioca, funk, samba, brazilian funk"@pt;
     rdfs:label "LUDMILLA"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/6ijC1S3LFTvQlrQWkQko3E>;
     foaf:name "LUDMILLA"@pt .
@@ -337,11 +337,11 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "3CGLLDfrPjF2FJ8HDCKMMv";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb590567f6edcee2fba7c2d642"^^xsd:anyURI,
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb590567f6edcee2fba7c2d642"^^xsd:anyURI,
       "https://i.scdn.co/image/ab6761610000e5eb62c7e4c2628ed1bbf9e73939"^^xsd:anyURI;
     svm:followers 105658;
+    svm:genres "sertanejo, sertanejo universitário"@pt;
     svm:popularity 56;
-    rdfs:comment "sertanejo, sertanejo universitário"@pt;
     rdfs:label "Paulo e Nathan"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/6hjM8I6Oys64kviiVFpfj9>;
     foaf:name "Paulo e Nathan"@pt .
@@ -349,10 +349,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "3bY8SmKlzUFImE0mt0zDjY";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebad2665ea63a74d3df7c79eeb"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebad2665ea63a74d3df7c79eeb"^^xsd:anyURI;
     svm:followers 354907;
+    svm:genres "brazilian pop, funk pop"@pt;
     svm:popularity 43;
-    rdfs:comment "brazilian pop, funk pop"@pt;
     rdfs:label "Lia Clark"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1r4ULdTciiU79dFkXWhMJO>;
     foaf:name "Lia Clark"@pt .
@@ -360,10 +360,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/3qvcCP2J0fWi0m0uQDUf6r> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "3qvcCP2J0fWi0m0uQDUf6r";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebfde13b4ff04ee1c0f33c6878"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebfde13b4ff04ee1c0f33c6878"^^xsd:anyURI;
     svm:followers 9552311;
+    svm:genres "sertanejo, sertanejo universitário, arrocha"@pt;
     svm:popularity 78;
-    rdfs:comment "sertanejo, sertanejo universitário, arrocha"@pt;
     rdfs:label "Luan Santana"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5OyqoxpsEn7XEilamuZcXU>;
     foaf:name "Luan Santana"@pt .
@@ -371,10 +371,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "3zgnrYIltMkgeejmvMCnes";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb1d46fc845719a1404ed18582"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb1d46fc845719a1404ed18582"^^xsd:anyURI;
     svm:followers 4753274;
+    svm:genres "brazilian pop, funk pop"@pt;
     svm:popularity 63;
-    rdfs:comment "brazilian pop, funk pop"@pt;
     rdfs:label "IZA"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/31sonubmJGHeNaAUPrcHj5>;
     foaf:name "IZA"@pt .
@@ -382,10 +382,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/41QLxRXlc2NwfJZkHGHKid> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "41QLxRXlc2NwfJZkHGHKid";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb8836ced3793e7e72b6126457"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb8836ced3793e7e72b6126457"^^xsd:anyURI;
     svm:followers 3483736;
+    svm:genres "sertanejo, sertanejo universitário, agronejo, piseiro, arrocha"@pt;
     svm:popularity 73;
-    rdfs:comment "sertanejo, sertanejo universitário, agronejo, piseiro, arrocha"@pt;
     rdfs:label "Israel & Rodolffo"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4HPTBpBwOsQl8nyagVIgrl>;
     foaf:name "Israel & Rodolffo"@pt .
@@ -393,10 +393,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/42TGK7zUYHdMcKOPRg8g61> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "42TGK7zUYHdMcKOPRg8g61";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb3f9e8d436511378953d2316d"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb3f9e8d436511378953d2316d"^^xsd:anyURI;
     svm:followers 10221;
+    svm:genres "brazilian trap, trap"@pt;
     svm:popularity 43;
-    rdfs:comment "brazilian trap, trap"@pt;
     rdfs:label "Kayin"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/3UoWqSV4Ut6qIz4Hq6xBG3>;
     foaf:name "Kayin"@pt .
@@ -404,10 +404,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/42nEiwAAE2ypWbygM9iyJi> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "42nEiwAAE2ypWbygM9iyJi";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb9f52fd2f3cb3a10a1f414426"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb9f52fd2f3cb3a10a1f414426"^^xsd:anyURI;
     svm:followers 46812;
+    svm:genres "nova mpb"@pt;
     svm:popularity 46;
-    rdfs:comment "nova mpb"@pt;
     rdfs:label "YOÙN"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0Ze1e8yP0nQBmJpgr1DPrT>;
     foaf:name "YOÙN"@pt .
@@ -415,10 +415,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "45MLFvHRAGIOvnslTnzS8C";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebe3ef81c3176d4b8e7d6da6c4"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebe3ef81c3176d4b8e7d6da6c4"^^xsd:anyURI;
     svm:followers 1719896;
+    svm:genres "forró, piseiro, arrocha, seresta, brega, sertanejo"@pt;
     svm:popularity 67;
-    rdfs:comment "forró, piseiro, arrocha, seresta, brega, sertanejo"@pt;
     rdfs:label "Iguinho e Lulinha"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0zw9UknsZjgphgTPyzL4rs>,
       <http://www.arida.ufc.br/resource/Spotify/Record/3DPHyHGCkEj3aJWX6U6my6>;
@@ -427,10 +427,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/47uyFQHOD02S0lj9ptRpoB> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "47uyFQHOD02S0lj9ptRpoB";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb4114c7d36bf3b5247cbc730f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb4114c7d36bf3b5247cbc730f"^^xsd:anyURI;
     svm:followers 5807801;
+    svm:genres "sertanejo, sertanejo universitário, pagode, arrocha"@pt;
     svm:popularity 68;
-    rdfs:comment "sertanejo, sertanejo universitário, pagode, arrocha"@pt;
     rdfs:label "Felipe Araújo"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0DPsEpVRLlu8yZ0hFRIxxw>;
     foaf:name "Felipe Araújo"@pt .
@@ -438,10 +438,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "4FGcERJWMg8ENOLixwF71U";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb50d5abea946bcc4ee72bcee9"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb50d5abea946bcc4ee72bcee9"^^xsd:anyURI;
     svm:followers 1026312;
+    svm:genres "brazilian pop, mpb, nova mpb"@pt;
     svm:popularity 64;
-    rdfs:comment "brazilian pop, mpb, nova mpb"@pt;
     rdfs:label "Vitor Kley"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5U1XbsQaSTr84Tyy1R36GV>,
       <http://www.arida.ufc.br/resource/Spotify/Record/7G7KssIGmmCFxf57ry7Hi1>;
@@ -450,10 +450,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/4FUMTycjZlEY6ZxMgqNjC8> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "4FUMTycjZlEY6ZxMgqNjC8";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb8a06cc9d086c155809e6c660"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb8a06cc9d086c155809e6c660"^^xsd:anyURI;
     svm:followers 1510408;
+    svm:genres "arrocha, piseiro, forró, sertanejo, brega, seresta, sertanejo universitário"@pt;
     svm:popularity 61;
-    rdfs:comment "arrocha, piseiro, forró, sertanejo, brega, seresta, sertanejo universitário"@pt;
     rdfs:label "Tierry"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5LW3YErz7ouSWNxbm6q3BQ>;
     foaf:name "Tierry"@pt .
@@ -461,10 +461,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/4IQKOXNGjuRRe0WgOm5YfB> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "4IQKOXNGjuRRe0WgOm5YfB";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb793e891e9b35d79c1c652b58"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb793e891e9b35d79c1c652b58"^^xsd:anyURI;
     svm:followers 947066;
+    svm:genres "samba, pagode, mpb"@pt;
     svm:popularity 64;
-    rdfs:comment "samba, pagode, mpb"@pt;
     rdfs:label "Xande de Pilares"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5BO7ZG3qAxr6y7O7ft7SC8>;
     foaf:name "Xande de Pilares"@pt .
@@ -472,10 +472,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "4KDxYlnGZEiS60pAnfZf4W";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb0673281edec44d5b28ca0f33"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb0673281edec44d5b28ca0f33"^^xsd:anyURI;
     svm:followers 881799;
+    svm:genres "piseiro, forró, sertanejo, arrocha, sertanejo universitário"@pt;
     svm:popularity 52;
-    rdfs:comment "piseiro, forró, sertanejo, arrocha, sertanejo universitário"@pt;
     rdfs:label "Avine Vinny"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/247PIq5nGyhV0Yb4ooRpfv>,
       <http://www.arida.ufc.br/resource/Spotify/Record/5md8rYv1JhgQEsBMS5WREE>, <http://www.arida.ufc.br/resource/Spotify/Record/71WPmaIdErmdczERbxFDRp>;
@@ -484,10 +484,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/4QXf68owEt4pbGAUeDaIfp> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "4QXf68owEt4pbGAUeDaIfp";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb72a07d499d821475753495ec"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb72a07d499d821475753495ec"^^xsd:anyURI;
     svm:followers 174477;
+    svm:genres "pagode, samba"@pt;
     svm:popularity 62;
-    rdfs:comment "pagode, samba"@pt;
     rdfs:label "Caju Pra Baixo"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/3l4DYm57I1ZUPyoA3HItMY>;
     foaf:name "Caju Pra Baixo"@pt .
@@ -495,10 +495,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/4d175LvxCzxt5vHbJyv49q> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "4d175LvxCzxt5vHbJyv49q";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb1fdd584b49e0c5b1c302b6ad"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb1fdd584b49e0c5b1c302b6ad"^^xsd:anyURI;
     svm:followers 356674;
+    svm:genres "brega funk, funk, brazilian funk, funk de bh, brega"@pt;
     svm:popularity 63;
-    rdfs:comment "brega funk, funk, brazilian funk, funk de bh, brega"@pt;
     rdfs:label "Mc Dricka"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/3LGfldmuHwAf1YxcagQjK1>;
     foaf:name "Mc Dricka"@pt .
@@ -506,10 +506,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/4wh03gpwWgB5koOyZr8XxB> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "4wh03gpwWgB5koOyZr8XxB";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb66b61daaa2f90f0f03fa2c76"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb66b61daaa2f90f0f03fa2c76"^^xsd:anyURI;
     svm:followers 88183;
+    svm:genres "brazilian pop"@pt;
     svm:popularity 53;
-    rdfs:comment "brazilian pop"@pt;
     rdfs:label "Elana Dara"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1MVOG9MC3OaC4Mli2NPsQX>;
     foaf:name "Elana Dara"@pt .
@@ -517,10 +517,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/57VQCKnZ9nhS7bvoviXuZK> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "57VQCKnZ9nhS7bvoviXuZK";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebb2209ae308385bb11b3f0373"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebb2209ae308385bb11b3f0373"^^xsd:anyURI;
     svm:followers 441470;
+    svm:genres "piseiro, forró, arrocha, funk de bh"@pt;
     svm:popularity 66;
-    rdfs:comment "piseiro, forró, arrocha, funk de bh"@pt;
     rdfs:label "Kadu Martins"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5dE5HmPgFPuPZFgGcOQr6u>;
     foaf:name "Kadu Martins"@pt .
@@ -528,10 +528,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/5Dz2FizMLqV0Cr3c8uhEcF> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "5Dz2FizMLqV0Cr3c8uhEcF";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb6cdab9738cc51dd200082c5d"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb6cdab9738cc51dd200082c5d"^^xsd:anyURI;
     svm:followers 1787277;
+    svm:genres "funk consciente, funk, brazilian funk, trap funk"@pt;
     svm:popularity 76;
-    rdfs:comment "funk consciente, funk, brazilian funk, trap funk"@pt;
     rdfs:label "MC Cebezinho"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/7JW0HSvdI2LB4nDNmHNzlN>;
     foaf:name "MC Cebezinho"@pt .
@@ -539,10 +539,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/5Gv1C1LY8pWiYcfcdjSNMT> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "5Gv1C1LY8pWiYcfcdjSNMT";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebde1000ea50cb4c81915ac836"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebde1000ea50cb4c81915ac836"^^xsd:anyURI;
     svm:followers 437839;
+    svm:genres "brazilian hip hop, brazilian trap"@pt;
     svm:popularity 64;
-    rdfs:comment "brazilian hip hop, brazilian trap"@pt;
     rdfs:label "Tasha & Tracie"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/6ObK2QGCtSFaDxDYnKyKyZ>;
     foaf:name "Tasha & Tracie"@pt .
@@ -550,10 +550,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/5Lv2GUVwqmQBPwrTrxucE5> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "5Lv2GUVwqmQBPwrTrxucE5";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebe3a03c0ae301118c4c887abf"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebe3a03c0ae301118c4c887abf"^^xsd:anyURI;
     svm:followers 6814956;
+    svm:genres "piseiro, forró, sertanejo, arrocha, brega, tecnobrega, agronejo, sertanejo universitário"@pt;
     svm:popularity 69;
-    rdfs:comment "piseiro, forró, sertanejo, arrocha, brega, tecnobrega, agronejo, sertanejo universitário"@pt;
     rdfs:label "Os Barões Da Pisadinha"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4VLUQTD9p8yXgqnS8oBqN3>;
     foaf:name "Os Barões Da Pisadinha"@pt .
@@ -561,10 +561,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/5YwzDz4RJfTiMHS4tdR5Lf> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "5YwzDz4RJfTiMHS4tdR5Lf";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb367afe9e5b30fbb6a67a8807"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb367afe9e5b30fbb6a67a8807"^^xsd:anyURI;
     svm:followers 3313720;
+    svm:genres "brazilian hip hop, brazilian trap, trap"@pt;
     svm:popularity 73;
-    rdfs:comment "brazilian hip hop, brazilian trap, trap"@pt;
     rdfs:label "Xamã"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4g0LAPd9UDGIX2zgeHQXnY>;
     foaf:name "Xamã"@pt .
@@ -572,10 +572,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/5coW9ioCpvEYGx4v1nvWec> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "5coW9ioCpvEYGx4v1nvWec";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebd11a548f373b658bcdfda06e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebd11a548f373b658bcdfda06e"^^xsd:anyURI;
     svm:followers 301244;
+    svm:genres "brazilian pop, forró tradicional, nova mpb, forró"@pt;
     svm:popularity 60;
-    rdfs:comment "brazilian pop, forró tradicional, nova mpb, forró"@pt;
     rdfs:label "Juliette"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/2yg5pbW47YD4HVQ34cgfkC>;
     foaf:name "Juliette"@pt .
@@ -583,10 +583,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/5exy2LREZrJ6aRzj1SwXQX> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "5exy2LREZrJ6aRzj1SwXQX";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb30e4041fdc37747aced2d057"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb30e4041fdc37747aced2d057"^^xsd:anyURI;
     svm:followers 1485321;
+    svm:genres "sertanejo, sertanejo universitário, arrocha"@pt;
     svm:popularity 52;
-    rdfs:comment "sertanejo, sertanejo universitário, arrocha"@pt;
     rdfs:label "Bruninho & Davi"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/7aUiXiYY2C9IVblYLYJZ8T>;
     foaf:name "Bruninho & Davi"@pt .
@@ -594,10 +594,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/5gz3bqZRtcp0ywe0VvfFAb> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "5gz3bqZRtcp0ywe0VvfFAb";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb5cc0f670453050d032eb7af4"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb5cc0f670453050d032eb7af4"^^xsd:anyURI;
     svm:followers 16922;
+    svm:genres "brega funk, brega"@pt;
     svm:popularity 43;
-    rdfs:comment "brega funk, brega"@pt;
     rdfs:label "Deb Lima"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0JAqOMw3Sngw7ZbnQvHdwM>;
     foaf:name "Deb Lima"@pt .
@@ -605,10 +605,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/5wbf52LA6kcaboHSN6NEF1> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "5wbf52LA6kcaboHSN6NEF1";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb170bd6c7063ca25bebc4de93"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb170bd6c7063ca25bebc4de93"^^xsd:anyURI;
     svm:followers 3013079;
+    svm:genres "funk, brazilian funk, funk pop, funk carioca, brega funk, brazilian pop"@pt;
     svm:popularity 73;
-    rdfs:comment "funk, brazilian funk, funk pop, funk carioca, brega funk, brazilian pop"@pt;
     rdfs:label "PEDRO SAMPAIO"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/14LmGIr2aU8m2UA4cQhdvu>;
     foaf:name "PEDRO SAMPAIO"@pt .
@@ -616,10 +616,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/65tpb4BwAnD3HOUs8MC6TB> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "65tpb4BwAnD3HOUs8MC6TB";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb57599f9e86ad405affe222c0"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb57599f9e86ad405affe222c0"^^xsd:anyURI;
     svm:followers 57523;
+    svm:genres "funk, brazilian funk, funk de bh"@pt;
     svm:popularity 55;
-    rdfs:comment "funk, brazilian funk, funk de bh"@pt;
     rdfs:label "DJ ESCOBAR"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/6fOBk2fXnKaOQLSc3BIJcp>;
     foaf:name "DJ ESCOBAR"@pt .
@@ -627,10 +627,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/66aYJzbeqXd9LyYc1qppzy> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "66aYJzbeqXd9LyYc1qppzy";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb6f040242faf8acbd3e2f0647"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb6f040242faf8acbd3e2f0647"^^xsd:anyURI;
     svm:followers 27001;
+    svm:genres "pagode, samba"@pt;
     svm:popularity 57;
-    rdfs:comment "pagode, samba"@pt;
     rdfs:label "Grupo Benzadeus"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/3Rr9SrIZvXGp1BxyrzdNRR>;
     foaf:name "Grupo Benzadeus"@pt .
@@ -638,10 +638,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "68PYmgkbRP1qZnEWOry7sB";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebc4f00d196c36616ec23f051f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebc4f00d196c36616ec23f051f"^^xsd:anyURI;
     svm:followers 3662517;
+    svm:genres "brazilian trap, trap funk, trap, brazilian funk, brazilian hip hop"@pt;
     svm:popularity 73;
-    rdfs:comment "brazilian trap, trap funk, trap, brazilian funk, brazilian hip hop"@pt;
     rdfs:label "Chefin"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/6bUVIZIeTsNvW9QyWsaqYj>;
     foaf:name "Chefin"@pt .
@@ -649,10 +649,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/68YeXpLt3jB7JHQS5ZjMGo> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "68YeXpLt3jB7JHQS5ZjMGo";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb62f0237b5577c7c670457267"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb62f0237b5577c7c670457267"^^xsd:anyURI;
     svm:followers 4493109;
+    svm:genres "brazilian trap, trap, trap funk, brazilian hip hop"@pt;
     svm:popularity 74;
-    rdfs:comment "brazilian trap, trap, trap funk, brazilian hip hop"@pt;
     rdfs:label "Teto"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/27ZKtXmfYS7OXGb1aKoI7U>;
     foaf:name "Teto"@pt .
@@ -660,10 +660,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/6U98XWjrUPnPtPBjEprDmu> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "6U98XWjrUPnPtPBjEprDmu";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebf06ed050e61fa92240663c49"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebf06ed050e61fa92240663c49"^^xsd:anyURI;
     svm:followers 351632;
+    svm:genres "brazilian hip hop, boom bap"@pt;
     svm:popularity 59;
-    rdfs:comment "brazilian hip hop, boom bap"@pt;
     rdfs:label "Don L"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/51W9VxFae3lbK4AhwLzB0L>;
     foaf:name "Don L"@pt .
@@ -671,10 +671,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/6gEzJZrbm0F4ihvE9iXR9z> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "6gEzJZrbm0F4ihvE9iXR9z";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb7577f27c4c39bdcb2dfd5bf5"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb7577f27c4c39bdcb2dfd5bf5"^^xsd:anyURI;
     svm:followers 3460338;
+    svm:genres "pagode, samba"@pt;
     svm:popularity 72;
-    rdfs:comment "pagode, samba"@pt;
     rdfs:label "Péricles"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/2n8bS3ZKsmWBoCxxzqcWNv>;
     foaf:name "Péricles"@pt .
@@ -682,10 +682,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/6m6e7D2TnV0aYMllFFwMxu> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "6m6e7D2TnV0aYMllFFwMxu";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb61f929b2c87f9c1306a8aeba"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb61f929b2c87f9c1306a8aeba"^^xsd:anyURI;
     svm:followers 1924137;
+    svm:genres "sertanejo, sertanejo universitário, agronejo, arrocha, piseiro"@pt;
     svm:popularity 74;
-    rdfs:comment "sertanejo, sertanejo universitário, agronejo, arrocha, piseiro"@pt;
     rdfs:label "Guilherme & Benuto"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/7B0EpsE17BgPH8zVUjjpNx>;
     foaf:name "Guilherme & Benuto"@pt .
@@ -693,10 +693,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/6qrqAYlS6lUj2BVXax7SZW> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "6qrqAYlS6lUj2BVXax7SZW";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb2ed1a5ff2234dcddb5e2cab6"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb2ed1a5ff2234dcddb5e2cab6"^^xsd:anyURI;
     svm:followers 911617;
+    svm:genres "funk, brazilian funk, funk carioca, trap funk"@pt;
     svm:popularity 72;
-    rdfs:comment "funk, brazilian funk, funk carioca, trap funk"@pt;
     rdfs:label "Mc Jacaré"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/5xESkjCLWsw4bN5HsOXPgo>;
     foaf:name "Mc Jacaré"@pt .
@@ -704,10 +704,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/6tzRZ39aZlNqlUzQlkuhDV> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "6tzRZ39aZlNqlUzQlkuhDV";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eba3bec0f02a27fecf3788a4ac"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eba3bec0f02a27fecf3788a4ac"^^xsd:anyURI;
     svm:followers 4377025;
+    svm:genres "brazilian pop, funk pop, tecnobrega"@pt;
     svm:popularity 71;
-    rdfs:comment "brazilian pop, funk pop, tecnobrega"@pt;
     rdfs:label "Pabllo Vittar"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/6ruTaJyyvcDhUJCMChPfuW>;
     foaf:name "Pabllo Vittar"@pt .
@@ -715,10 +715,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/6yZKPB8eRoJesHjtxPxSLs> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "6yZKPB8eRoJesHjtxPxSLs";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebb0cff01e05f6770aa33759f1"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebb0cff01e05f6770aa33759f1"^^xsd:anyURI;
     svm:followers 1521557;
+    svm:genres "brazilian trap, trap, brazilian hip hop, trap funk"@pt;
     svm:popularity 57;
-    rdfs:comment "brazilian trap, trap, brazilian hip hop, trap funk"@pt;
     rdfs:label "MD Chefe"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1G2fGIdi1ckC5yjCu4QCOm>;
     foaf:name "MD Chefe"@pt .
@@ -726,10 +726,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/70HOdlw2Ud3B4A7W4CI1V6> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "70HOdlw2Ud3B4A7W4CI1V6";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebb935a42af92e154bcbcf95f2"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebb935a42af92e154bcbcf95f2"^^xsd:anyURI;
     svm:followers 78126;
+    svm:genres "brazilian pop, funk pop"@pt;
     svm:popularity 45;
-    rdfs:comment "brazilian pop, funk pop"@pt;
     rdfs:label "Thiago Pantaleão"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/2DVMqhsqQQ4832MzpOdElN>;
     foaf:name "Thiago Pantaleão"@pt .
@@ -737,10 +737,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/7EyzyrMNgqiK8bMrbkOT9l> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "7EyzyrMNgqiK8bMrbkOT9l";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb84e5535872599aaa93f071c7"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb84e5535872599aaa93f071c7"^^xsd:anyURI;
     svm:followers 1384587;
+    svm:genres "brazilian trap, trap, brazilian hip hop, trap funk"@pt;
     svm:popularity 58;
-    rdfs:comment "brazilian trap, trap, brazilian hip hop, trap funk"@pt;
     rdfs:label "Sidoka"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/2Zzd18NtVk7zDX8oqg6bNh>;
     foaf:name "Sidoka"@pt .
@@ -748,10 +748,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/7H3XEvrS2PsNzM76MczgHJ> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "7H3XEvrS2PsNzM76MczgHJ";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb3b449b916ef3f636c180536c"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb3b449b916ef3f636c180536c"^^xsd:anyURI;
     svm:followers 30627;
+    svm:genres "brazilian trap, trap funk, trap, brazilian hip hop"@pt;
     svm:popularity 61;
-    rdfs:comment "brazilian trap, trap funk, trap, brazilian hip hop"@pt;
     rdfs:label "Ariel Donato"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/1VqFCDs5i27SB11y6aPs8Y>;
     foaf:name "Ariel Donato"@pt .
@@ -759,10 +759,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/7ecRwFks8F2vYad383BkKf> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "7ecRwFks8F2vYad383BkKf";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb7f6766c3828982e03c2e6055"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb7f6766c3828982e03c2e6055"^^xsd:anyURI;
     svm:followers 187020;
+    svm:genres "funk, brazilian funk, funk carioca, brega funk"@pt;
     svm:popularity 56;
-    rdfs:comment "funk, brazilian funk, funk carioca, brega funk"@pt;
     rdfs:label "Rennan da Penha"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/3K8TfEOgyNmNpiJdYCW1wS>;
     foaf:name "Rennan da Penha"@pt .
@@ -770,10 +770,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/7gJN8W0589FisSYJS17K54> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "7gJN8W0589FisSYJS17K54";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb42624362d48780f82a37eb15"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb42624362d48780f82a37eb15"^^xsd:anyURI;
     svm:followers 8746755;
+    svm:genres "brazilian hip hop, brazilian trap, trap, trap funk"@pt;
     svm:popularity 81;
-    rdfs:comment "brazilian hip hop, brazilian trap, trap, trap funk"@pt;
     rdfs:label "Filipe Ret"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/3eGzFoARBUyPBPe5rOP9La>;
     foaf:name "Filipe Ret"@pt .
@@ -781,11 +781,11 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "7gXnv2nAoF9X0XJQ3AMp7d";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb814df20dd4dd2443019ff4a0"^^xsd:anyURI,
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb814df20dd4dd2443019ff4a0"^^xsd:anyURI,
       "https://i.scdn.co/image/ab6761610000e5ebdcda8270044bd09fc3d62442"^^xsd:anyURI;
     svm:followers 709408;
+    svm:genres "agronejo, sertanejo, sertanejo universitário, piseiro"@pt;
     svm:popularity 67;
-    rdfs:comment "agronejo, sertanejo, sertanejo universitário, piseiro"@pt;
     rdfs:label "US Agroboy"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/441tRqXneOV36nUgXFIi2N>;
     foaf:name "US Agroboy"@pt .
@@ -793,10 +793,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/7rXMvXRnWHaSwnVvPeUUfw> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "7rXMvXRnWHaSwnVvPeUUfw";
-    schema:image "https://i.scdn.co/image/ab6761610000e5eb776ad0d3bd312766522680c7"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5eb776ad0d3bd312766522680c7"^^xsd:anyURI;
     svm:followers 3764048;
+    svm:genres "brazilian pop, funk pop, pagode, brazilian funk"@pt;
     svm:popularity 71;
-    rdfs:comment "brazilian pop, funk pop, pagode, brazilian funk"@pt;
     rdfs:label "Gloria Groove"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/4dSYs3xICrNR4Mob4nn3Sa>;
     foaf:name "Gloria Groove"@pt .
@@ -804,10 +804,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/7tojcuXcZ7eBlQjbAc65Ee> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "7tojcuXcZ7eBlQjbAc65Ee";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebf17163fb570eda29eb61f9b0"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebf17163fb570eda29eb61f9b0"^^xsd:anyURI;
     svm:followers 708510;
+    svm:genres "brazilian trap, trap, brazilian hip hop, trap funk"@pt;
     svm:popularity 55;
-    rdfs:comment "brazilian trap, trap, brazilian hip hop, trap funk"@pt;
     rdfs:label "MC Caverinha"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0IvpAd8VMNzoPfKp0SUL5F>;
     foaf:name "MC Caverinha"@pt .
@@ -815,10 +815,10 @@
   <http://www.arida.ufc.br/resource/Spotify/Artist/7yPoxj2lXWy7J4ixQHVubk> a mo:MusicArtist,
       svm:MusicArtist_Spotify;
     dc:identifier "7yPoxj2lXWy7J4ixQHVubk";
-    schema:image "https://i.scdn.co/image/ab6761610000e5ebf73f56b8981e81b1a27e3727"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab6761610000e5ebf73f56b8981e81b1a27e3727"^^xsd:anyURI;
     svm:followers 476635;
+    svm:genres "arrocha, seresta, brega, piseiro, forró"@pt;
     svm:popularity 58;
-    rdfs:comment "arrocha, seresta, brega, piseiro, forró"@pt;
     rdfs:label "Thiago Aquino"@pt;
     foaf:made <http://www.arida.ufc.br/resource/Spotify/Record/0ti8lliLpOI44j6GF4OuIn>;
     foaf:name "Thiago Aquino"@pt .

@@ -29,7 +29,7 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate foaf:homepage ;
+        rr:predicate schema:url ;
         rr:objectMap [ rml:reference "track_url" ; rr:datatype xsd:anyURI ]
     ] ;
 
@@ -54,7 +54,7 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate mo:ISRC ;
+        rr:predicate mo:isrc ;
         rr:objectMap [ rml:reference "track_isrc" ]
     ] ;
 

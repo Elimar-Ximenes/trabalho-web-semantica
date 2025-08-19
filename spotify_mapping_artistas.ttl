@@ -29,7 +29,7 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate schema:image ;
+        rr:predicate schema:thumbnail ;
         rr:objectMap [ rml:reference "artist_image" ; rr:datatype xsd:anyURI ]
     ] ;
 
@@ -56,22 +56,19 @@
         rr:objectMap [ rml:reference "artist_name_spotify" ; rr:language "pt" ]
     ] ;
 
-    # ## Gêneros do artista como triplas RDF
-    # rr:predicateObjectMap [
-    #     rr:predicate svm:genre ;
-    #     rr:objectMap [
-    #         rml:reference "artist_genres" ;
-    #         rr:termType rr:Literal
-    #     ]
-    # ] ;
-
-    ## Gêneros do artista como comentário
-
-    # Por enquanto vou deixar os generos como comment
     rr:predicateObjectMap [
-        rr:predicate rdfs:comment ;
-        rr:objectMap [ rml:reference "artist_genres" ; rr:language "pt" ]
+        rr:predicate svm:genres ;
+        rr:objectMap [
+            rml:reference "artist_genres" ;
+            rr:termType rr:Literal ;
+            rr:language "pt"
+        ]
     ] ;
+
+    # rr:predicateObjectMap [
+    #     rr:predicate rdfs:comment ;
+    #     rr:objectMap [ rml:reference "artist_genres" ; rr:language "pt" ]
+    # ] ;
 
     rr:predicateObjectMap [
         rr:predicate dc:identifier ;

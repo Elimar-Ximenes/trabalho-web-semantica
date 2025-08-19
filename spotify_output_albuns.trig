@@ -13,10 +13,10 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "0DPsEpVRLlu8yZ0hFRIxxw";
     dc:title "Última Noite (Ao Vivo)"@pt;
-    mo:label "Universal Music Ltda.";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7EHlDvAa7gncwcAlfclZiX>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27375ec81dc7cb555a65a8bbc5f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27375ec81dc7cb555a65a8bbc5f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0DPsEpVRLlu8yZ0hFRIxxw"^^xsd:anyURI;
+    svm:labelName "Universal Music Ltda.";
     svm:numberOfTracks 1;
     rdfs:label "Última Noite (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/47uyFQHOD02S0lj9ptRpoB> .
@@ -26,10 +26,10 @@
     dc:date "2023-08-02"^^xsd:date;
     dc:identifier "0EprvIKwgELetTgmauNnyp";
     dc:title "Querendo Mais (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/6962LFd5bjJJ8gxL4wz6WG>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273595a643ab1e3d13aeda52d2a"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273595a643ab1e3d13aeda52d2a"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0EprvIKwgELetTgmauNnyp"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Querendo Mais (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7> .
@@ -39,10 +39,10 @@
     dc:date "2024-01-19"^^xsd:date;
     dc:identifier "0IvpAd8VMNzoPfKp0SUL5F";
     dc:title "My Boo"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/57XMBBf2cBh4H6bp1aHdmL>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2734d7d857f4325dc6dd23d9ba5"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2734d7d857f4325dc6dd23d9ba5"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0IvpAd8VMNzoPfKp0SUL5F"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 1;
     rdfs:label "My Boo"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7tojcuXcZ7eBlQjbAc65Ee> .
@@ -52,10 +52,10 @@
     dc:date "2023-09-06"^^xsd:date;
     dc:identifier "0JAqOMw3Sngw7ZbnQvHdwM";
     dc:title "Volta Baby"@pt;
-    mo:label "Casa Amarela Music";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/11fGxRFG3ke4QDsxsSuOVr>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2736b3cafde7805728611acbd40"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2736b3cafde7805728611acbd40"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0JAqOMw3Sngw7ZbnQvHdwM"^^xsd:anyURI;
+    svm:labelName "Casa Amarela Music";
     svm:numberOfTracks 1;
     rdfs:label "Volta Baby"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5gz3bqZRtcp0ywe0VvfFAb> .
@@ -65,10 +65,10 @@
     dc:date "2023-10-25"^^xsd:date;
     dc:identifier "0Ze1e8yP0nQBmJpgr1DPrT";
     dc:title "Freedom"@pt;
-    mo:label "JOINT";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1900JESfRMYU1a35cFlqEm>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273c21c6f09c1976a78cb4a65fc"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273c21c6f09c1976a78cb4a65fc"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"^^xsd:anyURI;
+    svm:labelName "JOINT";
     svm:numberOfTracks 1;
     rdfs:label "Freedom"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/42nEiwAAE2ypWbygM9iyJi> .
@@ -78,10 +78,10 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "0aabe3MkHEfOH89G3AA7rX";
     dc:title "Copy"@pt;
-    mo:label "Asfalto Rec";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3Q6P44efSOTR4O52255KmX>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273c27518c325b6d650fdac1d24"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273c27518c325b6d650fdac1d24"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"^^xsd:anyURI;
+    svm:labelName "Asfalto Rec";
     svm:numberOfTracks 1;
     rdfs:label "Copy"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1mohmQWtxDNZcBGkfxG4eW> .
@@ -91,10 +91,10 @@
     dc:date "2023-07-18"^^xsd:date;
     dc:identifier "0iyqDsb8sbXxhhvMdn4YB2";
     dc:title "Sem Compaixão"@pt;
-    mo:label "Virgin Music Label And Artist Services (S&D)";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7KDDrAqNSOdEUeNvAOEExR>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273a5b7544325de16302f519a30"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273a5b7544325de16302f519a30"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"^^xsd:anyURI;
+    svm:labelName "Virgin Music Label And Artist Services (S&D)";
     svm:numberOfTracks 1;
     rdfs:label "Sem Compaixão"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0xEdwBYYjxw6wk179Tq2sJ> .
@@ -104,10 +104,10 @@
     dc:date "2023-10-13"^^xsd:date;
     dc:identifier "0ti8lliLpOI44j6GF4OuIn";
     dc:title "Lasca o Bocão no Litro"@pt;
-    mo:label "Sua Música";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3WDJ97Cc4xT9Un2bkukLBr>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27310a0b329865baada8222445e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27310a0b329865baada8222445e"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0ti8lliLpOI44j6GF4OuIn"^^xsd:anyURI;
+    svm:labelName "Sua Música";
     svm:numberOfTracks 1;
     rdfs:label "Lasca o Bocão no Litro"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7yPoxj2lXWy7J4ixQHVubk> .
@@ -117,7 +117,6 @@
     dc:date "2023-09-06"^^xsd:date;
     dc:identifier "0zw9UknsZjgphgTPyzL4rs";
     dc:title "Origens (Ao Vivo)"@pt;
-    mo:label "JG Shows";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0wutcyWV7kSTMj4kT3nqkc>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1dvjaN8ZOHeJgk4xxqEAip>, <http://www.arida.ufc.br/resource/Spotify/Track/2ZWHVavQM4d2vpxjFBXfhu>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2hCTddSydODQctYHov5Ud3>, <http://www.arida.ufc.br/resource/Spotify/Track/39rZ5KI1HPbV6s6arPXAHR>,
@@ -127,8 +126,9 @@
       <http://www.arida.ufc.br/resource/Spotify/Track/78BJcdrM11EKGjhqnZ6axe>, <http://www.arida.ufc.br/resource/Spotify/Track/79gTgzaKZ735NqhwnJE8bJ>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7JQSBoGyI9Sb7PzyDfVap5>, <http://www.arida.ufc.br/resource/Spotify/Track/7eSV1RoJCazTtdmERY7hHg>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7yK5LvSp50cNEtrBqdXTjA>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27376a6dc24684d652ab460fecd"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27376a6dc24684d652ab460fecd"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/0zw9UknsZjgphgTPyzL4rs"^^xsd:anyURI;
+    svm:labelName "JG Shows";
     svm:numberOfTracks 16;
     rdfs:label "Origens (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C> .
@@ -138,10 +138,10 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "14LmGIr2aU8m2UA4cQhdvu";
     dc:title "NEM AÍ"@pt;
-    mo:label "WM Brazil";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7CHfDDYWBiRH609GKdWgif>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27365b78aab648dee16a8b4452a"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27365b78aab648dee16a8b4452a"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/14LmGIr2aU8m2UA4cQhdvu"^^xsd:anyURI;
+    svm:labelName "WM Brazil";
     svm:numberOfTracks 1;
     rdfs:label "NEM AÍ"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5wbf52LA6kcaboHSN6NEF1> .
@@ -151,10 +151,10 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "1G2fGIdi1ckC5yjCu4QCOm";
     dc:title "Vivência de Morro"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/65MVkxrTJIjKtla2e5oJoe>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273c00e2160fd054449bb5e5cf5"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273c00e2160fd054449bb5e5cf5"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1G2fGIdi1ckC5yjCu4QCOm"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Vivência de Morro"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6yZKPB8eRoJesHjtxPxSLs> .
@@ -164,10 +164,10 @@
     dc:date "2024-01-19"^^xsd:date;
     dc:identifier "1MVOG9MC3OaC4Mli2NPsQX";
     dc:title "Luz Acesa"@pt;
-    mo:label "WM Brazil";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2GNXsFAXEdPDxHxN4NSDSE>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273dd18fd35e020ca25a939aa20"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273dd18fd35e020ca25a939aa20"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1MVOG9MC3OaC4Mli2NPsQX"^^xsd:anyURI;
+    svm:labelName "WM Brazil";
     svm:numberOfTracks 1;
     rdfs:label "Luz Acesa"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4wh03gpwWgB5koOyZr8XxB> .
@@ -177,10 +177,10 @@
     dc:date "2024-01-19"^^xsd:date;
     dc:identifier "1VqFCDs5i27SB11y6aPs8Y";
     dc:title "LABIRINTO"@pt;
-    mo:label "WM Brazil";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0LJGq2TQMW5WwnD9AuPRuV>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273ce7d98b795a0f2d4dfcd29df"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273ce7d98b795a0f2d4dfcd29df"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y"^^xsd:anyURI;
+    svm:labelName "WM Brazil";
     svm:numberOfTracks 1;
     rdfs:label "LABIRINTO"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7H3XEvrS2PsNzM76MczgHJ> .
@@ -190,12 +190,12 @@
     dc:date "2023-07-21"^^xsd:date;
     dc:identifier "1WaIfoHKHix2M25FBZqiSW";
     dc:title "10 Anos (Ao Vivo / Vol.4)"@pt;
-    mo:label "Universal Music Ltda.";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0TiZY256MYgAIqQ6fSfk4z>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1rFW1CLGtIn5rqbccMu75x>, <http://www.arida.ufc.br/resource/Spotify/Track/3iqyrDLv03v9AevbIFmjCy>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7A1MLekDB4j7NejgnyYzGi>, <http://www.arida.ufc.br/resource/Spotify/Track/7MIwlEoV61aRzIHSNoCLyv>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273b4e647448e2903fefe3cb34b"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273b4e647448e2903fefe3cb34b"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1WaIfoHKHix2M25FBZqiSW"^^xsd:anyURI;
+    svm:labelName "Universal Music Ltda.";
     svm:numberOfTracks 5;
     rdfs:label "10 Anos (Ao Vivo / Vol.4)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP> .
@@ -205,12 +205,12 @@
     dc:date "2023-10-13"^^xsd:date;
     dc:identifier "1fg0TEYbq89Jmirue5wXai";
     dc:title "Boiadeira Internacional: Vol. 2 (Ao Vivo)"@pt;
-    mo:label "AgroPlay";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2avj6OdDYT5Ttd7vd8UhgP>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2w8RH8GsjNE9S68Wk1W698>, <http://www.arida.ufc.br/resource/Spotify/Track/5GTGT1c9yCZhQmxbPYCEwq>,
       <http://www.arida.ufc.br/resource/Spotify/Track/735MbOmMNSTMmPVrY51LBh>, <http://www.arida.ufc.br/resource/Spotify/Track/758BVp2SU3uGru062K5cju>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2737ed0587a5d4c8effa92ec224"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2737ed0587a5d4c8effa92ec224"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1fg0TEYbq89Jmirue5wXai"^^xsd:anyURI;
+    svm:labelName "AgroPlay";
     svm:numberOfTracks 5;
     rdfs:label "Boiadeira Internacional: Vol. 2 (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2CKOmarVWvWqkNWUatHCex> .
@@ -220,10 +220,10 @@
     dc:date "2023-09-07"^^xsd:date;
     dc:identifier "1jElzLi27vaY1p5JPyeVQU";
     dc:title "5 Da Manhã (Ao Vivo Em Goiânia)"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0ZVWliWjMmYFxQe9U63Y5W>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273ca964321b6d87cccfd6f07b2"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273ca964321b6d87cccfd6f07b2"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 1;
     rdfs:label "5 Da Manhã (Ao Vivo Em Goiânia)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz> .
@@ -233,15 +233,15 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "1r4ULdTciiU79dFkXWhMJO";
     dc:title "LIA CLARK"@pt;
-    mo:label "Lia Clark Produções";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0hNRZwRsrEh0c7meEjv7ET>,
       <http://www.arida.ufc.br/resource/Spotify/Track/14XrWBBGmj4VxGHkXjiBBt>, <http://www.arida.ufc.br/resource/Spotify/Track/15ymHWBgATY5l1I8mwVOGF>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1vqx11yX9HhfosgVsJFZDK>, <http://www.arida.ufc.br/resource/Spotify/Track/2Z61M4wBDFaLOzrUjnpmHz>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2gw5oD8LZ92JoQhaoCbn3s>, <http://www.arida.ufc.br/resource/Spotify/Track/2k4QhTqbMU8EA8Obv9u6qZ>,
       <http://www.arida.ufc.br/resource/Spotify/Track/3ytU0WnU96nOQDmiuOEkPC>, <http://www.arida.ufc.br/resource/Spotify/Track/4VmeJlO4PWJSQ490ZMnikV>,
       <http://www.arida.ufc.br/resource/Spotify/Track/4k2bi2S0BzPcLrA0lauyWI>, <http://www.arida.ufc.br/resource/Spotify/Track/6O2yF2Neo8I2L0cafiOLSH>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27301cec5cf914973ff3f3b934a"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27301cec5cf914973ff3f3b934a"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"^^xsd:anyURI;
+    svm:labelName "Lia Clark Produções";
     svm:numberOfTracks 11;
     rdfs:label "LIA CLARK"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3bY8SmKlzUFImE0mt0zDjY> .
@@ -251,14 +251,14 @@
     dc:date "2024-01-19"^^xsd:date;
     dc:identifier "1scxBLyeF8CmbdErwhZgHj";
     dc:title "Meu Tom"@pt;
-    mo:label "Feyjão";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0BEOzEznvVREbSFqzuzkUl>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0bC1DqniOhLMJAq3adhGXj>, <http://www.arida.ufc.br/resource/Spotify/Track/0oXrEbGegE7ImJ7uvQY8Sa>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0rJvi7IQP6JLO5djPLvaZx>, <http://www.arida.ufc.br/resource/Spotify/Track/3Mi1RG7A0mVI7nCdyaubOe>,
       <http://www.arida.ufc.br/resource/Spotify/Track/3gZcJwwzl5ouhRW3thWB3A>, <http://www.arida.ufc.br/resource/Spotify/Track/5IxrYDTvUtKJ1FtZSvKMYS>,
       <http://www.arida.ufc.br/resource/Spotify/Track/69nLtII2eS8lQxSTRWbHya>, <http://www.arida.ufc.br/resource/Spotify/Track/6ML6Z4cgH4ulONkmLn5KuA>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2731d09a5f8dd8e57439aa5d5b1"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2731d09a5f8dd8e57439aa5d5b1"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"^^xsd:anyURI;
+    svm:labelName "Feyjão";
     svm:numberOfTracks 9;
     rdfs:label "Meu Tom"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2tRjUL3itR7rBI8XrvJrCt> .
@@ -268,10 +268,10 @@
     dc:date "2023-08-04"^^xsd:date;
     dc:identifier "1vqKzMezhZxuMhVTy2T2Vr";
     dc:title "Meu Fake Viu (Ao Vivo)"@pt;
-    mo:label "Virgin Music Label And Artist Services (S&D)";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3pHhPKwbl9febQFidwyyu7>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2731b02ea5cc504c01087e34a40"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2731b02ea5cc504c01087e34a40"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/1vqKzMezhZxuMhVTy2T2Vr"^^xsd:anyURI;
+    svm:labelName "Virgin Music Label And Artist Services (S&D)";
     svm:numberOfTracks 1;
     rdfs:label "Meu Fake Viu (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0SPHfj49UeOgHKwSYcn8xZ> .
@@ -281,10 +281,10 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "23xCMjuFXyFuQ2k1Q4EXyx";
     dc:title "Dói"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5qjwjBzWAxXjjqinjENzIF>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273098a6ce786e9908028d83446"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273098a6ce786e9908028d83446"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/23xCMjuFXyFuQ2k1Q4EXyx"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 1;
     rdfs:label "Dói"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1elUiq4X7pxej6FRlrEzjM> .
@@ -294,10 +294,10 @@
     dc:date "2023-09-05"^^xsd:date;
     dc:identifier "247PIq5nGyhV0Yb4ooRpfv";
     dc:title "Coisas Banais (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4I9d62g05fUkjRPBqiWnPO>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273a45c28db361be5bd64e1c896"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273a45c28db361be5bd64e1c896"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/247PIq5nGyhV0Yb4ooRpfv"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Coisas Banais (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W> .
@@ -307,10 +307,10 @@
     dc:date "2023-10-10"^^xsd:date;
     dc:identifier "27ZKtXmfYS7OXGb1aKoI7U";
     dc:title "Mais Um Voo"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/39uMV1Ix79vlMNssVxACuU>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2737b3fb8fc1603df22a7edee65"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2737b3fb8fc1603df22a7edee65"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Mais Um Voo"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/68YeXpLt3jB7JHQS5ZjMGo> .
@@ -320,10 +320,10 @@
     dc:date "2023-09-05"^^xsd:date;
     dc:identifier "28FxczQCIQtBEn0FGqWtxE";
     dc:title "Ofício de Cantante"@pt;
-    mo:label "Tassia Reis";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0NNeK4HYMAGjWwX0SJMv4v>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273e7288127b4dff31ee039289f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273e7288127b4dff31ee039289f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE"^^xsd:anyURI;
+    svm:labelName "Tassia Reis";
     svm:numberOfTracks 1;
     rdfs:label "Ofício de Cantante"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0kc1BjcLHaXhZVzCp0HeAl> .
@@ -333,7 +333,6 @@
     dc:date "2023-10-11"^^xsd:date;
     dc:identifier "2CNMWzDgeaGkEv9bMMxZnN";
     dc:title "Além - Vol. 3 (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/034yaQTjFYlcpAbuNWtZCZ>,
       <http://www.arida.ufc.br/resource/Spotify/Track/04KdSKGWarqNLxk0XTxS2q>, <http://www.arida.ufc.br/resource/Spotify/Track/0MDXwBpQCUCc8J2lURQwME>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1vsTVMe2wYiUvLeSphziEi>, <http://www.arida.ufc.br/resource/Spotify/Track/2sp26WeMl10zALRINxRKnf>,
@@ -343,8 +342,9 @@
       <http://www.arida.ufc.br/resource/Spotify/Track/5uLxEIKC2lQuKY8L53M4yM>, <http://www.arida.ufc.br/resource/Spotify/Track/63u6G0dUZuo8OKmF48qFPo>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6584Gn8BWEJlgOSiTyssRY>, <http://www.arida.ufc.br/resource/Spotify/Track/65FwhQioJxsAbkLQOe55Ah>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6cYeeXce3i6JE2rCcoGuYb>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2736d648ca36e6939ff8bb5221c"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2736d648ca36e6939ff8bb5221c"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2CNMWzDgeaGkEv9bMMxZnN"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 16;
     rdfs:label "Além - Vol. 3 (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7> .
@@ -354,10 +354,10 @@
     dc:date "2023-10-13"^^xsd:date;
     dc:identifier "2DOO1JYlNyuZddB7NIwp4t";
     dc:title "Perfume Diferente"@pt;
-    mo:label "MC Kevin o Chris";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1bD0gGRUPUJZ9YDhffHkvK>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273d4a89f7d84b86b3ab772d43e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273d4a89f7d84b86b3ab772d43e"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2DOO1JYlNyuZddB7NIwp4t"^^xsd:anyURI;
+    svm:labelName "MC Kevin o Chris";
     svm:numberOfTracks 1;
     rdfs:label "Perfume Diferente"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2UMj7NCbuqy1yUZmiSYGjJ> .
@@ -367,10 +367,10 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "2DVMqhsqQQ4832MzpOdElN";
     dc:title "O Que Eu Ganho"@pt;
-    mo:label "Slap";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1CNGqfIa5JyUj1cWfvGqAi>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2739997788d99556cc35fd98ce1"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2739997788d99556cc35fd98ce1"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2DVMqhsqQQ4832MzpOdElN"^^xsd:anyURI;
+    svm:labelName "Slap";
     svm:numberOfTracks 1;
     rdfs:label "O Que Eu Ganho"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/70HOdlw2Ud3B4A7W4CI1V6> .
@@ -380,7 +380,6 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "2EgIkuV76R6XfAefSNOkWX";
     dc:title "On Fire"@pt;
-    mo:label "FS Studio";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0CR7WsAcmzM6COhGr4ScR9>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0qB5kbLJ67RemlkYNqfHYX>, <http://www.arida.ufc.br/resource/Spotify/Track/1RH1dYFDLYXhXoQ1wpvw5L>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1Y0Gb1jobDVBFraoSEEWAI>, <http://www.arida.ufc.br/resource/Spotify/Track/1erKHdmAcSfq9aRFkYxOg0>,
@@ -390,8 +389,9 @@
       <http://www.arida.ufc.br/resource/Spotify/Track/4rQW8jVbnIlYtS5HzVuhfn>, <http://www.arida.ufc.br/resource/Spotify/Track/527TZPf0qgaDp4xXkki62j>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6WE62aOXn445mX5YEVJ5P7>, <http://www.arida.ufc.br/resource/Spotify/Track/793IuzxkcR9mAviV43HPCn>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7iznCXjklEQ0NTgeM912Hn>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2736ba4a5fb84d69fc9c5671d5d"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2736ba4a5fb84d69fc9c5671d5d"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX"^^xsd:anyURI;
+    svm:labelName "FS Studio";
     svm:numberOfTracks 16;
     rdfs:label "On Fire"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1oSgjdbgLYULVmEBojPRw8> .
@@ -401,10 +401,10 @@
     dc:date "2023-09-08"^^xsd:date;
     dc:identifier "2Zzd18NtVk7zDX8oqg6bNh";
     dc:title "Egípcia"@pt;
-    mo:label "Sidoka";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2t6Nwm6LBgtkjyKgPF4eEJ>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27321ecf54fc1d0d7d26d65fa10"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27321ecf54fc1d0d7d26d65fa10"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2Zzd18NtVk7zDX8oqg6bNh"^^xsd:anyURI;
+    svm:labelName "Sidoka";
     svm:numberOfTracks 1;
     rdfs:label "Egípcia"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7EyzyrMNgqiK8bMrbkOT9l> .
@@ -414,10 +414,10 @@
     dc:date "2023-09-08"^^xsd:date;
     dc:identifier "2n8bS3ZKsmWBoCxxzqcWNv";
     dc:title "Na Minha Pele"@pt;
-    mo:label "Farias Produções";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7hYJrBeVLB2tVgSQuRd0Mg>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273d963551b2b0854d17bd2040e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273d963551b2b0854d17bd2040e"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2n8bS3ZKsmWBoCxxzqcWNv"^^xsd:anyURI;
+    svm:labelName "Farias Produções";
     svm:numberOfTracks 1;
     rdfs:label "Na Minha Pele"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6gEzJZrbm0F4ihvE9iXR9z> .
@@ -427,10 +427,10 @@
     dc:date "2024-01-15"^^xsd:date;
     dc:identifier "2of77xllwOV4R21J3v4t20";
     dc:title "Dia de Operação"@pt;
-    mo:label "Bairro 13 Records";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0g3giA9of1DgXUYjqrNhgQ>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273fe8558ebb55460cf0ba1a509"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273fe8558ebb55460cf0ba1a509"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2of77xllwOV4R21J3v4t20"^^xsd:anyURI;
+    svm:labelName "Bairro 13 Records";
     svm:numberOfTracks 1;
     rdfs:label "Dia de Operação"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1WQBwwssN6r8DSjUlkyUGW> .
@@ -440,12 +440,12 @@
     dc:date "2023-07-21"^^xsd:date;
     dc:identifier "2xReweSuwmZbdogHMILeek";
     dc:title "Baile do Papato"@pt;
-    mo:label "WM Brazil";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0kNj5ZtOagfK7JkFo5xUmA>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2eP3XUWwWkSXOOnshg95CP>, <http://www.arida.ufc.br/resource/Spotify/Track/3Q0LWpLuhEcCCWjpfBRnzH>,
       <http://www.arida.ufc.br/resource/Spotify/Track/4icXcHrO4DClwfR5xkUu0H>, <http://www.arida.ufc.br/resource/Spotify/Track/7G7HwKrxu1oClDDoIkD3hH>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273fb187365c02ee3bb7d218dd8"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273fb187365c02ee3bb7d218dd8"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"^^xsd:anyURI;
+    svm:labelName "WM Brazil";
     svm:numberOfTracks 5;
     rdfs:label "Baile do Papato"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0iZz25uH5PLaShpqq84uYv> .
@@ -455,10 +455,10 @@
     dc:date "2023-08-04"^^xsd:date;
     dc:identifier "2yg5pbW47YD4HVQ34cgfkC";
     dc:title "Quase Não Namoro"@pt;
-    mo:label "Virgin Music Label And Artist Services (S&D)";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/6eWx9pOK1JkIhUjeVmGYJr>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2736f5744bfa295d3c5388253c6"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2736f5744bfa295d3c5388253c6"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"^^xsd:anyURI;
+    svm:labelName "Virgin Music Label And Artist Services (S&D)";
     svm:numberOfTracks 1;
     rdfs:label "Quase Não Namoro"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5coW9ioCpvEYGx4v1nvWec> .
@@ -468,7 +468,6 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "31sonubmJGHeNaAUPrcHj5";
     dc:title "AFRODHIT"@pt;
-    mo:label "WM Brazil";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/00RjxE32FXWZHnbpw3M0IT>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0Vt1AvV4EcZmGogB5yoHwl>, <http://www.arida.ufc.br/resource/Spotify/Track/19fy7EiY7vCLVpQOMl4yeq>,
       <http://www.arida.ufc.br/resource/Spotify/Track/4jAatGwX7O0yHtTMDnAaQM>, <http://www.arida.ufc.br/resource/Spotify/Track/52aonA32y0YYt1NfnZNvWv>,
@@ -476,8 +475,9 @@
       <http://www.arida.ufc.br/resource/Spotify/Track/67AWEUPgn9PPi1Dh7krtaK>, <http://www.arida.ufc.br/resource/Spotify/Track/6QWAEJf3F8sX0P8jVMpFsr>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6a19PoJb9vLXcpuJdG6fMZ>, <http://www.arida.ufc.br/resource/Spotify/Track/7jTmQz3ND62dznTvQkKwjd>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7tSZyaZS1hHZ87RcZ2jAeB>, <http://www.arida.ufc.br/resource/Spotify/Track/7xGVDSYG1QhdXlKpLKJAgg>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2736fa513be3eb0d4ce759eb1e0"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2736fa513be3eb0d4ce759eb1e0"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"^^xsd:anyURI;
+    svm:labelName "WM Brazil";
     svm:numberOfTracks 13;
     rdfs:label "AFRODHIT"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3zgnrYIltMkgeejmvMCnes> .
@@ -487,10 +487,10 @@
     dc:date "2023-07-28"^^xsd:date;
     dc:identifier "3DPHyHGCkEj3aJWX6U6my6";
     dc:title "Vaqueira Testada"@pt;
-    mo:label "Alka Music";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5Wsa3OK529e2y5WVbPDHw5>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273e6189168204e3d49ac12586f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273e6189168204e3d49ac12586f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3DPHyHGCkEj3aJWX6U6my6"^^xsd:anyURI;
+    svm:labelName "Alka Music";
     svm:numberOfTracks 1;
     rdfs:label "Vaqueira Testada"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/45MLFvHRAGIOvnslTnzS8C> .
@@ -500,10 +500,10 @@
     dc:date "2023-07-15"^^xsd:date;
     dc:identifier "3K8TfEOgyNmNpiJdYCW1wS";
     dc:title "Sejam Bem-Vindos ao Baile da Selva"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4roBWBenY4fe2frEAhXoKQ>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27327c2f63ec66823a4c458731f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27327c2f63ec66823a4c458731f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3K8TfEOgyNmNpiJdYCW1wS"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Sejam Bem-Vindos ao Baile da Selva"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7ecRwFks8F2vYad383BkKf> .
@@ -513,10 +513,10 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "3KFcPPHqFd0BhuLCl95zGX";
     dc:title "De Lala - Spotify Singles"@pt;
-    mo:label "MC KADU NOVA ERA";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7xLxkTNVdoe7MMO7DduPed>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2734ce82f88f89559483ea83697"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2734ce82f88f89559483ea83697"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"^^xsd:anyURI;
+    svm:labelName "MC KADU NOVA ERA";
     svm:numberOfTracks 1;
     rdfs:label "De Lala - Spotify Singles"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/21ELc2P2rA3Cu6xw3VWqvv> .
@@ -526,10 +526,10 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "3LGfldmuHwAf1YxcagQjK1";
     dc:title "Baile Da DZ7 / Baile De Ladrão"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/16klDR1NJZ74qbkSO4yr6F>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2734af707009b00a5755bb48a80"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2734af707009b00a5755bb48a80"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3LGfldmuHwAf1YxcagQjK1"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 1;
     rdfs:label "Baile Da DZ7 / Baile De Ladrão"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4d175LvxCzxt5vHbJyv49q> .
@@ -539,10 +539,10 @@
     dc:date "2023-10-13"^^xsd:date;
     dc:identifier "3Rr9SrIZvXGp1BxyrzdNRR";
     dc:title "Assume"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1Pbfj8p5E54sqiKb8hHLnp>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27374f593b6106d635f71c7ffaf"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27374f593b6106d635f71c7ffaf"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3Rr9SrIZvXGp1BxyrzdNRR"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 1;
     rdfs:label "Assume"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/66aYJzbeqXd9LyYc1qppzy> .
@@ -552,10 +552,10 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "3T8pak58PgFxme2Iu3mHet";
     dc:title "e se for pra ser sincera:"@pt;
-    mo:label "Disizmusic";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1b0xzVRr8fIGa8dftdW3S8>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27372375078189cf05f43654a1f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27372375078189cf05f43654a1f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet"^^xsd:anyURI;
+    svm:labelName "Disizmusic";
     svm:numberOfTracks 1;
     rdfs:label "e se for pra ser sincera:"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2TqXAXuNUnnzzCTuAs5DX5> .
@@ -565,10 +565,10 @@
     dc:date "2024-01-18"^^xsd:date;
     dc:identifier "3UoWqSV4Ut6qIz4Hq6xBG3";
     dc:title "Foragido"@pt;
-    mo:label "Kayin";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5lzozMoomZNhvKRoqNVg3t>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273318ce26ccd1e1dece1c8028f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273318ce26ccd1e1dece1c8028f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3UoWqSV4Ut6qIz4Hq6xBG3"^^xsd:anyURI;
+    svm:labelName "Kayin";
     svm:numberOfTracks 1;
     rdfs:label "Foragido"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/42TGK7zUYHdMcKOPRg8g61> .
@@ -578,10 +578,10 @@
     dc:date "2023-07-20"^^xsd:date;
     dc:identifier "3eGzFoARBUyPBPe5rOP9La";
     dc:title "Ritmo Do Crime"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5yjd0lAp6zahxFdqWeI8qM>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2737acb6e57869ab62167d35c81"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2737acb6e57869ab62167d35c81"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3eGzFoARBUyPBPe5rOP9La"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 1;
     rdfs:label "Ritmo Do Crime"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7gJN8W0589FisSYJS17K54> .
@@ -591,10 +591,10 @@
     dc:date "2023-10-13"^^xsd:date;
     dc:identifier "3l4DYm57I1ZUPyoA3HItMY";
     dc:title "Fica do Meu Lado"@pt;
-    mo:label "Evolution Artistas (Pub&Lab by ORB Music)";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/07s5sEJxDX9IZq5T6ox6BT>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273334298dd7b2a4d0e9260e471"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273334298dd7b2a4d0e9260e471"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/3l4DYm57I1ZUPyoA3HItMY"^^xsd:anyURI;
+    svm:labelName "Evolution Artistas (Pub&Lab by ORB Music)";
     svm:numberOfTracks 1;
     rdfs:label "Fica do Meu Lado"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4QXf68owEt4pbGAUeDaIfp> .
@@ -604,7 +604,6 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "441tRqXneOV36nUgXFIi2N";
     dc:title "Roça no Topo (Deluxe) [Ao Vivo]"@pt;
-    mo:label "WM Brazil";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/02AzgwJ9xwDqu0GESfRWgF>,
       <http://www.arida.ufc.br/resource/Spotify/Track/06UM8begYzZvMRLWap94R6>, <http://www.arida.ufc.br/resource/Spotify/Track/1U3vAG9fGyKNyVPjNp5QqV>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1XEDI0MvnduicqwWm2iZjh>, <http://www.arida.ufc.br/resource/Spotify/Track/1p9R0NTn6ge2QmmwT2Ai1V>,
@@ -615,8 +614,9 @@
       <http://www.arida.ufc.br/resource/Spotify/Track/4weC9t8cdqqdif4iKl5STP>, <http://www.arida.ufc.br/resource/Spotify/Track/4zTQSSJUMh3PrzXU428C9D>,
       <http://www.arida.ufc.br/resource/Spotify/Track/65DujJsIykFhlSblphyHI8>, <http://www.arida.ufc.br/resource/Spotify/Track/6FZlJq6db3aLpZup5Clh7p>,
       <http://www.arida.ufc.br/resource/Spotify/Track/70oZF9sCDm6uOOtTX6sFbL>, <http://www.arida.ufc.br/resource/Spotify/Track/7ksKhCGBYPTq2lSJ2m8uOp>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2735643bf4fd8ae835ebb7f6fca"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2735643bf4fd8ae835ebb7f6fca"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/441tRqXneOV36nUgXFIi2N"^^xsd:anyURI;
+    svm:labelName "WM Brazil";
     svm:numberOfTracks 19;
     rdfs:label "Roça no Topo (Deluxe) [Ao Vivo]"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7gXnv2nAoF9X0XJQ3AMp7d> .
@@ -626,10 +626,10 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "4E62XM9QVdCFVUuTcVFMPa";
     dc:title "Platinado"@pt;
-    mo:label "Antehype Music";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2zZWxrqEjaEBJwUzyEX01S>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273d8693e15948f293a8e277f6f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273d8693e15948f293a8e277f6f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4E62XM9QVdCFVUuTcVFMPa"^^xsd:anyURI;
+    svm:labelName "Antehype Music";
     svm:numberOfTracks 1;
     rdfs:label "Platinado"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1ZcIMjx9kP46pUdFOdjWKQ> .
@@ -639,10 +639,10 @@
     dc:date "2023-10-25"^^xsd:date;
     dc:identifier "4HPTBpBwOsQl8nyagVIgrl";
     dc:title "Amor Não Dá Em Copo (Ao Vivo)"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0GTUqRzwAacEI5Pll8YlBA>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2730de9e3c9e73ae6edc617ed7e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2730de9e3c9e73ae6edc617ed7e"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4HPTBpBwOsQl8nyagVIgrl"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 1;
     rdfs:label "Amor Não Dá Em Copo (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/41QLxRXlc2NwfJZkHGHKid> .
@@ -652,10 +652,10 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "4ICjzaL3faeqoOPda7Yz7h";
     dc:title "Tchau Pros Esquemas (Ao Vivo)"@pt;
-    mo:label "Virgin Music Label And Artist Services (S&D)";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7p9J0aMGpmFbeIfwMXWL26>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27390e163c792124125d07c39e7"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27390e163c792124125d07c39e7"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4ICjzaL3faeqoOPda7Yz7h"^^xsd:anyURI;
+    svm:labelName "Virgin Music Label And Artist Services (S&D)";
     svm:numberOfTracks 1;
     rdfs:label "Tchau Pros Esquemas (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1sDVuztNhGcetCLChkleDA> .
@@ -665,10 +665,10 @@
     dc:date "2023-07-20"^^xsd:date;
     dc:identifier "4VLUQTD9p8yXgqnS8oBqN3";
     dc:title "Não Deixa Eu Saber"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4C1zrTdEYE55CfWuYlYZ28>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27393134f772f9b18a31d835d3b"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27393134f772f9b18a31d835d3b"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4VLUQTD9p8yXgqnS8oBqN3"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Não Deixa Eu Saber"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5Lv2GUVwqmQBPwrTrxucE5> .
@@ -678,11 +678,11 @@
     dc:date "2023-10-13"^^xsd:date;
     dc:identifier "4a2jzuO8E9vXmcBnbiF3PU";
     dc:title "Catira do Brava Vol. 1 (Ao Vivo)"@pt;
-    mo:label "Thiago Brava";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/6cirJZ3swqzyrTXPnVJfjg>,
       <http://www.arida.ufc.br/resource/Spotify/Track/70GasiiY8Nr4qAliK66kEx>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2736d1452a8f525cfd34148e174"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2736d1452a8f525cfd34148e174"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4a2jzuO8E9vXmcBnbiF3PU"^^xsd:anyURI;
+    svm:labelName "Thiago Brava";
     svm:numberOfTracks 2;
     rdfs:label "Catira do Brava Vol. 1 (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1LGh5vyaoQP9bgTwLSMTyW> .
@@ -692,10 +692,10 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "4dSYs3xICrNR4Mob4nn3Sa";
     dc:title "BRUXARIA 3000"@pt;
-    mo:label "SB Music";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4WerFN1IRbgy8RGqpe08SH>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273b404ac2b5266fb4c6ea5df13"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273b404ac2b5266fb4c6ea5df13"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa"^^xsd:anyURI;
+    svm:labelName "SB Music";
     svm:numberOfTracks 1;
     rdfs:label "BRUXARIA 3000"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/7rXMvXRnWHaSwnVvPeUUfw> .
@@ -705,10 +705,10 @@
     dc:date "2023-07-20"^^xsd:date;
     dc:identifier "4g0LAPd9UDGIX2zgeHQXnY";
     dc:title "Estrela do Mar"@pt;
-    mo:label "SONORA DIGITAL";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0rULs7B1JjYnnaooUbZwy5>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2738a3e43e4f48b317c85eff3f7"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2738a3e43e4f48b317c85eff3f7"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"^^xsd:anyURI;
+    svm:labelName "SONORA DIGITAL";
     svm:numberOfTracks 1;
     rdfs:label "Estrela do Mar"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5YwzDz4RJfTiMHS4tdR5Lf> .
@@ -718,10 +718,10 @@
     dc:date "2024-01-19"^^xsd:date;
     dc:identifier "4y2B0NZZ9FRdtHSKu4qAwH";
     dc:title "Tropical"@pt;
-    mo:label "WM Brazil";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2qo8wunTxcySvz1oG5Y7az>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273a76c02a0f24f8e2776f4ffba"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273a76c02a0f24f8e2776f4ffba"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4y2B0NZZ9FRdtHSKu4qAwH"^^xsd:anyURI;
+    svm:labelName "WM Brazil";
     svm:numberOfTracks 1;
     rdfs:label "Tropical"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1mXAhKnZEdF6rotyyd4GBi> .
@@ -731,10 +731,10 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "4zYjj0oRteBn9X6QdCmU57";
     dc:title "Abismo"@pt;
-    mo:label "manuoficial";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/56JVZMurnXPoy1HbB4dcNV>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273fa4db21b705cfc2465870fdb"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273fa4db21b705cfc2465870fdb"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57"^^xsd:anyURI;
+    svm:labelName "manuoficial";
     svm:numberOfTracks 1;
     rdfs:label "Abismo"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0CdnnCbbKD4oIzBmxi2o7r> .
@@ -744,10 +744,10 @@
     dc:date "2023-09-07"^^xsd:date;
     dc:identifier "51W9VxFae3lbK4AhwLzB0L";
     dc:title "Lili"@pt;
-    mo:label "Caro Vapor Vidas";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/50xFGBuVecb9LQ6a5evQJg>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273c22f842d7865983b6e7703de"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273c22f842d7865983b6e7703de"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/51W9VxFae3lbK4AhwLzB0L"^^xsd:anyURI;
+    svm:labelName "Caro Vapor Vidas";
     svm:numberOfTracks 1;
     rdfs:label "Lili"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6U98XWjrUPnPtPBjEprDmu> .
@@ -757,10 +757,10 @@
     dc:date "2023-07-20"^^xsd:date;
     dc:identifier "59qldBzRiQutEYO1hqxw7H";
     dc:title "Faz um Vuk Vuk (Teto Espelhado)"@pt;
-    mo:label "MC Kevin o Chris";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/64CovjRwInpOJW4PiGMprY>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273d55a1da4068b80f6c53bbf08"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273d55a1da4068b80f6c53bbf08"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H"^^xsd:anyURI;
+    svm:labelName "MC Kevin o Chris";
     svm:numberOfTracks 1;
     rdfs:label "Faz um Vuk Vuk (Teto Espelhado)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2UMj7NCbuqy1yUZmiSYGjJ> .
@@ -770,10 +770,10 @@
     dc:date "2023-10-13"^^xsd:date;
     dc:identifier "5BO7ZG3qAxr6y7O7ft7SC8";
     dc:title "Encontro das Vozes: Favela Canta"@pt;
-    mo:label "Gold Records";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2gaPah5WD38Llyf7k9jCa4>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273439ab2dd0a0066eb077ccb51"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273439ab2dd0a0066eb077ccb51"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5BO7ZG3qAxr6y7O7ft7SC8"^^xsd:anyURI;
+    svm:labelName "Gold Records";
     svm:numberOfTracks 1;
     rdfs:label "Encontro das Vozes: Favela Canta"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4IQKOXNGjuRRe0WgOm5YfB> .
@@ -783,10 +783,10 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "5G2XQuKhvrG0syKNtYhrav";
     dc:title "Bonde do Pedrinho"@pt;
-    mo:label "EDITORA E GRAVADORA A BASE RECORDS";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1XnEVSM8F1Uuh0nQBX79m3>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273f11115787c2317fe939b9a4b"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273f11115787c2317fe939b9a4b"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5G2XQuKhvrG0syKNtYhrav"^^xsd:anyURI;
+    svm:labelName "EDITORA E GRAVADORA A BASE RECORDS";
     svm:numberOfTracks 1;
     rdfs:label "Bonde do Pedrinho"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1etNnR2SdlelBQAICa2Q5m> .
@@ -796,10 +796,10 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "5LW3YErz7ouSWNxbm6q3BQ";
     dc:title "Fuga (Ao Vivo Em Salvador)"@pt;
-    mo:label "Virgin Music Label And Artist Services (S&D)";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2gThep1T9XV3CNWCVWWbHM>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273aab5fb7f019b77faf4146e48"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273aab5fb7f019b77faf4146e48"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5LW3YErz7ouSWNxbm6q3BQ"^^xsd:anyURI;
+    svm:labelName "Virgin Music Label And Artist Services (S&D)";
     svm:numberOfTracks 1;
     rdfs:label "Fuga (Ao Vivo Em Salvador)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4FUMTycjZlEY6ZxMgqNjC8> .
@@ -809,10 +809,10 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "5OyqoxpsEn7XEilamuZcXU";
     dc:title "AMBIENTE ERRADO (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2nfnhFDhwMet9yZodpGfn3>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273b7d4043d6a2f1e15df59ae2c"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273b7d4043d6a2f1e15df59ae2c"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5OyqoxpsEn7XEilamuZcXU"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "AMBIENTE ERRADO (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3qvcCP2J0fWi0m0uQDUf6r> .
@@ -822,10 +822,10 @@
     dc:date "2024-01-19"^^xsd:date;
     dc:identifier "5P0q5p1O6G4aC6RvtqZL9U";
     dc:title "Enquadro"@pt;
-    mo:label "Mc Davi";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7nwZ3GQDbAyT6oecSiNrKK>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273daca0ad95d9220daa80fed03"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273daca0ad95d9220daa80fed03"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5P0q5p1O6G4aC6RvtqZL9U"^^xsd:anyURI;
+    svm:labelName "Mc Davi";
     svm:numberOfTracks 1;
     rdfs:label "Enquadro"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1cYhx7ZOhYoVmnDPb9KMwo> .
@@ -835,10 +835,10 @@
     dc:date "2023-09-06"^^xsd:date;
     dc:identifier "5SOcG7pOSSipVv3QhRE3jg";
     dc:title "Rabisca"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/64NO1NaDBfju3wZDUXSS0a>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273eb03ffebf2f90e26b0f37d14"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273eb03ffebf2f90e26b0f37d14"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5SOcG7pOSSipVv3QhRE3jg"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 1;
     rdfs:label "Rabisca"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0jTDeBJQr3unrK29LklnAv> .
@@ -848,13 +848,13 @@
     dc:date "2023-10-11"^^xsd:date;
     dc:identifier "5U1XbsQaSTr84Tyy1R36GV";
     dc:title "A Bolha Ao Vivo em São Paulo, Pt. 2"@pt;
-    mo:label "Midas Music";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4lP8bLXyZwr24ZuSLZDaAP>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6K9F9L5FqmdU8xGKVVyx4T>, <http://www.arida.ufc.br/resource/Spotify/Track/6gIpxm6CKCPrqq2jB3RaMg>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7Jd7K1nYzdycz1DuY9RH1m>, <http://www.arida.ufc.br/resource/Spotify/Track/7nO7yEQhimIlvaSdMvxNHN>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7pT5lLyE5tcip6ujhU2EPT>, <http://www.arida.ufc.br/resource/Spotify/Track/7ueQ8TyNS7Oc56aEz4Evc4>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273efb7c33ed95e1e4f93da138d"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273efb7c33ed95e1e4f93da138d"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5U1XbsQaSTr84Tyy1R36GV"^^xsd:anyURI;
+    svm:labelName "Midas Music";
     svm:numberOfTracks 7;
     rdfs:label "A Bolha Ao Vivo em São Paulo, Pt. 2"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U> .
@@ -864,10 +864,10 @@
     dc:date "2023-07-21"^^xsd:date;
     dc:identifier "5dE5HmPgFPuPZFgGcOQr6u";
     dc:title "Deslizes"@pt;
-    mo:label "TS Music Oficial";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/32hEA1vlWtYS6j5VgXk6j9>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273dc02b85cd7c3979097291210"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273dc02b85cd7c3979097291210"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5dE5HmPgFPuPZFgGcOQr6u"^^xsd:anyURI;
+    svm:labelName "TS Music Oficial";
     svm:numberOfTracks 1;
     rdfs:label "Deslizes"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/57VQCKnZ9nhS7bvoviXuZK> .
@@ -877,10 +877,10 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "5md8rYv1JhgQEsBMS5WREE";
     dc:title "Anota Aí (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5a2CIQaMW3Keqtx4BdXbEY>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273df0a74207a7a43b6b858025f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273df0a74207a7a43b6b858025f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Anota Aí (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W> .
@@ -890,10 +890,10 @@
     dc:date "2023-09-08"^^xsd:date;
     dc:identifier "5o0csE58lgjhza8ry0lNXA";
     dc:title "Atmosfera"@pt;
-    mo:label "Hungria Hip Hop";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5Otfi0cla77BKiOp2BvtMx>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273de132306766d34f2acec71be"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273de132306766d34f2acec71be"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5o0csE58lgjhza8ry0lNXA"^^xsd:anyURI;
+    svm:labelName "Hungria Hip Hop";
     svm:numberOfTracks 1;
     rdfs:label "Atmosfera"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0vLuOi2k62sHujIfplInlK> .
@@ -903,10 +903,10 @@
     dc:date "2023-07-21"^^xsd:date;
     dc:identifier "5xESkjCLWsw4bN5HsOXPgo";
     dc:title "Se Solta"@pt;
-    mo:label "A Chave";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/03qlAYKt8pzZfDDS52dNDz>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27373ae62226278ea86f11f5034"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27373ae62226278ea86f11f5034"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/5xESkjCLWsw4bN5HsOXPgo"^^xsd:anyURI;
+    svm:labelName "A Chave";
     svm:numberOfTracks 1;
     rdfs:label "Se Solta"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6qrqAYlS6lUj2BVXax7SZW> .
@@ -916,12 +916,12 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "6E9KXABonOSuK2moEnEsCn";
     dc:title "Rústico - EP 1 (Ao Vivo)"@pt;
-    mo:label "Stamina Musical";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0APNYJODGOJC8mLK9hOzNs>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1dU5USXuWubXV5Gcm1G4VT>, <http://www.arida.ufc.br/resource/Spotify/Track/4oPrWblqwPrP7bSZCe3MfO>,
       <http://www.arida.ufc.br/resource/Spotify/Track/5qXn94jTUxbFGIDdJRmQzv>, <http://www.arida.ufc.br/resource/Spotify/Track/6EK3Rob98p0sBoXJx90cDI>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27352ccfa2dc034abcbac436a9f"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27352ccfa2dc034abcbac436a9f"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6E9KXABonOSuK2moEnEsCn"^^xsd:anyURI;
+    svm:labelName "Stamina Musical";
     svm:numberOfTracks 5;
     rdfs:label "Rústico - EP 1 (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1wT33JDD3YLC0fqFnsWo9F> .
@@ -931,11 +931,11 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "6KnyqyMBNCckwCsO21sDPU";
     dc:title "Essência 3 (Ao Vivo)"@pt;
-    mo:label "Diego & Arnaldo";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3LHdJqTcRejrr4yJUF6GxX>,
       <http://www.arida.ufc.br/resource/Spotify/Track/45lk23QySnqa8GYj3mn4To>, <http://www.arida.ufc.br/resource/Spotify/Track/50kDsSOgSS3YgvETW9qZJk>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273d3a7e2cd667f7165368b53ff"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273d3a7e2cd667f7165368b53ff"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6KnyqyMBNCckwCsO21sDPU"^^xsd:anyURI;
+    svm:labelName "Diego & Arnaldo";
     svm:numberOfTracks 3;
     rdfs:label "Essência 3 (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0CrGLmfVKzk9rAyiNb91ft> .
@@ -945,10 +945,10 @@
     dc:date "2024-01-15"^^xsd:date;
     dc:identifier "6ObK2QGCtSFaDxDYnKyKyZ";
     dc:title "Drop da Santa"@pt;
-    mo:label "Tasha e Tracie";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4m4ZQv1aPfi4jDpl8Kt5hK>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27385301d5437e1674b21de6ab4"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27385301d5437e1674b21de6ab4"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6ObK2QGCtSFaDxDYnKyKyZ"^^xsd:anyURI;
+    svm:labelName "Tasha e Tracie";
     svm:numberOfTracks 1;
     rdfs:label "Drop da Santa"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5Gv1C1LY8pWiYcfcdjSNMT> .
@@ -958,14 +958,14 @@
     dc:date "2023-08-03"^^xsd:date;
     dc:identifier "6bUVIZIeTsNvW9QyWsaqYj";
     dc:title "O Mais Novo Romântico"@pt;
-    mo:label "Mainstreet Records";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/07MA122PzVpwOLuVsyHBfR>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0IugBW2da8cfIZIVjlZ31C>, <http://www.arida.ufc.br/resource/Spotify/Track/0y7tbpW4aLlwV5PFvNbkL3>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1a1CZOOOgsm1bGf0G92Zrn>, <http://www.arida.ufc.br/resource/Spotify/Track/27x579ayIvantoVe6PP97U>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2D3FXW4GvYbiZnhAdHPtLB>, <http://www.arida.ufc.br/resource/Spotify/Track/2UK3EhCjisvoPu0mAoGLP8>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7LNOsASVhU3pO6WlmNjt26>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2733e6bce714609d16a8ef308cd"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2733e6bce714609d16a8ef308cd"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"^^xsd:anyURI;
+    svm:labelName "Mainstreet Records";
     svm:numberOfTracks 8;
     rdfs:label "O Mais Novo Romântico"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/68PYmgkbRP1qZnEWOry7sB> .
@@ -975,12 +975,12 @@
     dc:date "2024-01-19"^^xsd:date;
     dc:identifier "6fOBk2fXnKaOQLSc3BIJcp";
     dc:title "Chuva de Mec"@pt;
-    mo:label "Cordial Entretainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2vocrbYbrwshHuv43eXNx3>,
       <http://www.arida.ufc.br/resource/Spotify/Track/4dbOFpvVb1QcVjv89ZKzOt>, <http://www.arida.ufc.br/resource/Spotify/Track/5Mqh0CWXHGZSofveWJro9P>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6y0Em3NjK4mugeBpw3ljWN>, <http://www.arida.ufc.br/resource/Spotify/Track/77xqRp4zLdRzNGUeaoM7Ci>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2733cdde43d99b27803869d8c08"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2733cdde43d99b27803869d8c08"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6fOBk2fXnKaOQLSc3BIJcp"^^xsd:anyURI;
+    svm:labelName "Cordial Entretainment";
     svm:numberOfTracks 5;
     rdfs:label "Chuva de Mec"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/65tpb4BwAnD3HOUs8MC6TB> .
@@ -990,14 +990,14 @@
     dc:date "2023-10-13"^^xsd:date;
     dc:identifier "6faKhHj1VAsiLCNqU5JoKo";
     dc:title "Singular, Vol. 3 (Ao Vivo Em Goiânia)"@pt;
-    mo:label "Som Livre";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0HMgpa0QsJC02KZZU3HtwY>,
       <http://www.arida.ufc.br/resource/Spotify/Track/0ZOMv2yGWNPq0UhcTplNIr>, <http://www.arida.ufc.br/resource/Spotify/Track/1NpV8pR50KqqfAQNs9ZVHO>,
       <http://www.arida.ufc.br/resource/Spotify/Track/5Gf8GzBNzcZKAmMimZzjSr>, <http://www.arida.ufc.br/resource/Spotify/Track/5HlcsBdjb5TiZeZ3ngWRv0>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6iBG12yzzuJUQ6uw0wi4Gk>, <http://www.arida.ufc.br/resource/Spotify/Track/6tWg5tle44ZAwm0YhOfPyI>,
       <http://www.arida.ufc.br/resource/Spotify/Track/7fHphhec6AJiHAWZnPRKRP>, <http://www.arida.ufc.br/resource/Spotify/Track/7rHdcR6p2miYDLYf9oM0rK>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273f14551b277c3149e9fffe19e"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273f14551b277c3149e9fffe19e"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6faKhHj1VAsiLCNqU5JoKo"^^xsd:anyURI;
+    svm:labelName "Som Livre";
     svm:numberOfTracks 9;
     rdfs:label "Singular, Vol. 3 (Ao Vivo Em Goiânia)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/0NiaKn55OzJswiYevvlKfz> .
@@ -1005,15 +1005,15 @@
   <http://www.arida.ufc.br/resource/Spotify/Record/6hjM8I6Oys64kviiVFpfj9> dc:date "2023-09-07"^^xsd:date;
     dc:identifier "6hjM8I6Oys64kviiVFpfj9";
     dc:title "Campo de Batalha Vol. 03 (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/0l5EvqF7YL1a186MPB31fL>,
       <http://www.arida.ufc.br/resource/Spotify/Track/24vg8rpj4dz9IAnG6S02ez>, <http://www.arida.ufc.br/resource/Spotify/Track/2RVeTR9kTKGg1MT0TiGNgf>,
       <http://www.arida.ufc.br/resource/Spotify/Track/3SmHe9QAcCBgMYKnnzN16L>, <http://www.arida.ufc.br/resource/Spotify/Track/3Xy2P3EtYJioZVRS6VMuKM>,
-      <http://www.arida.ufc.br/resource/Spotify/Track/5EAhceTM5tTQ5laq6nF5Ez>, <http://www.arida.ufc.br/resource/Spotify/Track/6w5FhV262pUNC4nR5frhxn>;
+      <http://www.arida.ufc.br/resource/Spotify/Track/5EAhceTM5tTQ5laq6nF5Ez>, <http://www.arida.ufc.br/resource/Spotify/Track/6w5FhV262pUNC4nR5frhxn>,
+      <http://www.arida.ufc.br/resource/Spotify/Track/7rpYVvjyp4CiwKEXOZ20oO>;
     a mo:Record, svm:Record_Spotify;
-    mo:track <http://www.arida.ufc.br/resource/Spotify/Track/7rpYVvjyp4CiwKEXOZ20oO>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27360f2d864fd96b701fde40251"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27360f2d864fd96b701fde40251"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6hjM8I6Oys64kviiVFpfj9"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 8;
     rdfs:label "Campo de Batalha Vol. 03 (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3CGLLDfrPjF2FJ8HDCKMMv> .
@@ -1023,10 +1023,10 @@
     dc:date "2024-01-18"^^xsd:date;
     dc:identifier "6ijC1S3LFTvQlrQWkQko3E";
     dc:title "Maliciosa (Ao Vivo)"@pt;
-    mo:label "SEM QUERER MUSIC";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3vCH7bgO37Cx4dOIUlX9sv>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2732b655668cf4af83aa5481550"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2732b655668cf4af83aa5481550"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"^^xsd:anyURI;
+    svm:labelName "SEM QUERER MUSIC";
     svm:numberOfTracks 1;
     rdfs:label "Maliciosa (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/3CDoRporvSjdzTrm99a3gi> .
@@ -1036,10 +1036,10 @@
     dc:date "2024-01-16"^^xsd:date;
     dc:identifier "6ruTaJyyvcDhUJCMChPfuW";
     dc:title "Pede Pra Eu Ficar (Listen To Your Heart)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5niYBuEDe07PWTkAWC1HnZ>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273fc3a0b71ba724106246ec9ab"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273fc3a0b71ba724106246ec9ab"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Pede Pra Eu Ficar (Listen To Your Heart)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6tzRZ39aZlNqlUzQlkuhDV> .
@@ -1049,10 +1049,10 @@
     dc:date "2023-10-10"^^xsd:date;
     dc:identifier "71WPmaIdErmdczERbxFDRp";
     dc:title "Cafézin de Vó (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1BCn0dTxjdd4IWDLBFIX6V>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2738ab549680b6ae45968f07461"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2738ab549680b6ae45968f07461"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 1;
     rdfs:label "Cafézin de Vó (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4KDxYlnGZEiS60pAnfZf4W> .
@@ -1062,12 +1062,12 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "7B0EpsE17BgPH8zVUjjpNx";
     dc:title "Deu Rolo de Novo, Vol. 2 (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/16CuYdcg5Y713boIjAOU7O>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1tCZbkrxFfRV4Nf9CLpScs>, <http://www.arida.ufc.br/resource/Spotify/Track/4K2X6I83gKXvnDJRKxUIxZ>,
       <http://www.arida.ufc.br/resource/Spotify/Track/5ZkwwBa9DlwuUFbXwrLeXF>, <http://www.arida.ufc.br/resource/Spotify/Track/6YgLHHVsF7sHSj60pIDlPu>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273444074236257632aa8385ee3"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273444074236257632aa8385ee3"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 5;
     rdfs:label "Deu Rolo de Novo, Vol. 2 (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/6m6e7D2TnV0aYMllFFwMxu> .
@@ -1077,13 +1077,13 @@
     dc:date "2023-10-26"^^xsd:date;
     dc:identifier "7G7KssIGmmCFxf57ry7Hi1";
     dc:title "A Bolha Ao Vivo em São Paulo, Pt. 3"@pt;
-    mo:label "Midas Music";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/1A7RuYYxiE8LooXjxC8s8w>,
       <http://www.arida.ufc.br/resource/Spotify/Track/1bpVWd9jq6Sf5ujTXeAapi>, <http://www.arida.ufc.br/resource/Spotify/Track/1eF5hP8VtqdAeF9fuunAWF>,
       <http://www.arida.ufc.br/resource/Spotify/Track/27UDhlspddipfQ4y5bE2j1>, <http://www.arida.ufc.br/resource/Spotify/Track/61ZzkjpttMndIdYcD4B52R>,
       <http://www.arida.ufc.br/resource/Spotify/Track/6HxA4GNSRwBFIlf0NbM4OG>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273a3457a70d1ef6ef4396337ad"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273a3457a70d1ef6ef4396337ad"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1"^^xsd:anyURI;
+    svm:labelName "Midas Music";
     svm:numberOfTracks 6;
     rdfs:label "A Bolha Ao Vivo em São Paulo, Pt. 3"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/4FGcERJWMg8ENOLixwF71U> .
@@ -1093,10 +1093,10 @@
     dc:date "2023-08-01"^^xsd:date;
     dc:identifier "7JW0HSvdI2LB4nDNmHNzlN";
     dc:title "1% de Fé"@pt;
-    mo:label "Love Funk";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5JZhNLbNpEBJmFZ8V3ptiA>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b27379c0ecaf83fdb73d7c52c3d0"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b27379c0ecaf83fdb73d7c52c3d0"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/7JW0HSvdI2LB4nDNmHNzlN"^^xsd:anyURI;
+    svm:labelName "Love Funk";
     svm:numberOfTracks 1;
     rdfs:label "1% de Fé"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5Dz2FizMLqV0Cr3c8uhEcF> .
@@ -1106,11 +1106,11 @@
     dc:date "2024-01-19"^^xsd:date;
     dc:identifier "7M457yfuVeLaiYrtiKTvqn";
     dc:title "Weak"@pt;
-    mo:label "Vintage Culture";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/3B9WYpcMBXyCWDm7K1KSLt>,
       <http://www.arida.ufc.br/resource/Spotify/Track/62gzfhHi2supfHWfi6iHbA>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273fb6391b7f42e2c83a75e9970"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273fb6391b7f42e2c83a75e9970"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"^^xsd:anyURI;
+    svm:labelName "Vintage Culture";
     svm:numberOfTracks 2;
     rdfs:label "Weak"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/28uJnu5EsrGml2tBd7y8ts> .
@@ -1120,10 +1120,10 @@
     dc:date "2024-01-18"^^xsd:date;
     dc:identifier "7aUiXiYY2C9IVblYLYJZ8T";
     dc:title "Peguei, Pegava e Pegaria"@pt;
-    mo:label "Onda Musical";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/5qW8SMKPM2NsluO2JZzAU2>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b2732f9b0d708d1942f7d16e3afe"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b2732f9b0d708d1942f7d16e3afe"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/7aUiXiYY2C9IVblYLYJZ8T"^^xsd:anyURI;
+    svm:labelName "Onda Musical";
     svm:numberOfTracks 1;
     rdfs:label "Peguei, Pegava e Pegaria"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/5exy2LREZrJ6aRzj1SwXQX> .
@@ -1133,13 +1133,13 @@
     dc:date "2023-09-06"^^xsd:date;
     dc:identifier "7kWXLVohywfzc5HzbKoS9f";
     dc:title "Além - Vol. 2 (Ao Vivo)"@pt;
-    mo:label "Sony Music Entertainment";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/2CNGOv15E0ps7zaoUPQldo>,
       <http://www.arida.ufc.br/resource/Spotify/Track/2jNmJ0TZexLlCI6T3QLU4t>, <http://www.arida.ufc.br/resource/Spotify/Track/4PnxuU11fVtQubVqoPi08p>,
       <http://www.arida.ufc.br/resource/Spotify/Track/4VsBImIxQlOkzChsE1AIGN>, <http://www.arida.ufc.br/resource/Spotify/Track/501GTAtKreTg7MiG7xINTx>,
       <http://www.arida.ufc.br/resource/Spotify/Track/5LVslathYyvcV1EalFex6q>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273f5d2c8e07c361c44324196a8"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273f5d2c8e07c361c44324196a8"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/7kWXLVohywfzc5HzbKoS9f"^^xsd:anyURI;
+    svm:labelName "Sony Music Entertainment";
     svm:numberOfTracks 6;
     rdfs:label "Além - Vol. 2 (Ao Vivo)"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/2uSwBbWqsXgoMYQjynmwQ7> .
@@ -1149,10 +1149,10 @@
     dc:date "2023-10-27"^^xsd:date;
     dc:identifier "7mgy4Q1DHnkEbLHXaN4Epv";
     dc:title "SET DO PEDRINHO"@pt;
-    mo:label "GR6 Music";
     mo:track <http://www.arida.ufc.br/resource/Spotify/Track/4OL89YnOX1tdh6zlDRW8fb>;
-    schema:image "https://i.scdn.co/image/ab67616d0000b273252e873f412fe281e4d5dff1"^^xsd:anyURI;
+    schema:thumbnail "https://i.scdn.co/image/ab67616d0000b273252e873f412fe281e4d5dff1"^^xsd:anyURI;
     schema:url "https://open.spotify.com/album/7mgy4Q1DHnkEbLHXaN4Epv"^^xsd:anyURI;
+    svm:labelName "GR6 Music";
     svm:numberOfTracks 1;
     rdfs:label "SET DO PEDRINHO"@pt;
     foaf:maker <http://www.arida.ufc.br/resource/Spotify/Artist/1etNnR2SdlelBQAICa2Q5m> .
