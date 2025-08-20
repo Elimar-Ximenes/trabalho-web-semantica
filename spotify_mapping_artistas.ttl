@@ -17,7 +17,7 @@
     ] ;
 
     rr:subjectMap [
-        rr:template "http://www.arida.ufc.br/resource/Spotify/Artist/{artist_id}" ;
+        rr:template "http://www.arida.ufc.br/resource/Spotify/MusicArtist/{artist_id}" ;
         rr:class mo:MusicArtist ;
         rr:class svm:MusicArtist_Spotify ;
         rr:graph <https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Artists_Spotify>
