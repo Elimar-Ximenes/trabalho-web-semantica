@@ -1,0 +1,263 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+<https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Record_Spotify_SameAs_Wikidata> {
+
+<http://www.arida.ufc.br/resource/Spotify/Record/07KAoy7racDNRDQEmpQOkN> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q4782873> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/0Bfo3X1yO3FHf8WqiP7EqE> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18242262> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/0EKjpcCUm8XKG99WzACkVX> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18280166> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/0ZAxw4vqKYlM71rR0tNKqD> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10299134> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/0hYUmiOzDT7Sl8wrw42C46> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q5126031> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/0nJlVbn9dl3amtTFETNX8j> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q3554566> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/0pBDJ7zE82iEMmnDBVSUXO> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q25442941> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/0xFpOYJQHRH6fRQHAz1jac> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10288015> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/13TC44Gy2ClqvvwxGOQ6pr> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q117805564> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/1BGWFAkM0Oz88Dq7v369eP> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q107389976> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/1FtovQTRWabfNEBv4V2ccI> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18279394> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/1L95az31hAnOeypfG55v0h> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490578>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490580>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490582>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490586>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615588>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615591>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615606>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615631> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/1MVA2OlO1Fdh86Ze0R3Di7> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q48872313> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/1p5ZVllxuu0PxeHkvK9MBM> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16493125> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/1rzlQ4TLqKl1YYyHfdWPhq> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490578>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490580>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490582>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490586>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615588>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615591>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615606>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615631> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/1sf0nMobe0xkTmbhtr2GmB> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q7967340>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q7967341>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q7967342> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/1tF6qjWpG4gMIfzFBzgI4Y> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10355621> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/20qXT5wKZHTBFHZBepO6x8> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q30930671> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/21XmM8dZGAfwUXTnAPqxdC> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10271918>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q3284605>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q3284886>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q3284903> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/26MpPUKXvsjaCPxwdPvOaV> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q97186280> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/279WYtngA01vV59RJuoSbV> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490578>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490580>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490582>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490586>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615588>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615591>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615606>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615631> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2BhLfjpZAEHo39gGsDcenk> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q19609140> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2CegF9bd4SuyyDFNfq2gFm> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16502099> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2E7uYRVVhuAtgFNVOfpoNs> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q28677707> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2HTrcsRAZAfD28QdqNc2jT> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q30930486> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2K9aMQfhBVV5hrkfZiaxkY> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q6604717> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2LSytKV8d5xhnaeSF3nHWG> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10392194> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2LxncTIR5lf2dzoZb3QNC6> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q3855784> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2MrFW66h1GcY0XOJIizCXL> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490578>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490580>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490582>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490586>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615588>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615591>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615606>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615631> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2RK3018TnRT4Zpq4OG96Xa> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18244661> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2RnmEeBi9G5urnW2kOjNCv> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10271920> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2WYYaNSS0dI0aE1x03GM7I> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q9611041> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2Zm8slndh82kpBTrUGEhL8> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q3284873> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2aD4bVWQ2RrPvpOHSV2nSO> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q20055653> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2dELNEVo5hpHrGaKjTH2ns> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q106545538> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2dRFjONWIvPynA4mlX02Ru> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q3961406> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2n9VTXJMjZeCSym05a6nxb> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q7229894> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2rjzLEMiaLYPBr4ByDJcgH> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q106546915> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/2xtRHrXduvq6S7rrzmS0dK> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q21081457> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/32KAbMHto54zEkFieDEFRI> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10381829> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/37xKx9ymHBSgYX02zZhwb9> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q3989218> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/39ZEYbqEDuMbqxtEvdPk74> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q97181525> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3MrBYtYUNvPIt5wU79X7sb> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18245614> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3RoX6NxSYgqeWf4TQGm3KH> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10382871> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3SE9n6EaVOJ81KA1KPLUWS> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q2517108> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3WJnX6YOFILAmd89szIQdn> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q51881950> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3b6cGm7LSgQLg2tI73tpQ3> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q28677316> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3hgOfaE0yiMg511d0Y1JfJ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q7064939> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3lJ1BI6U6HNDjeG57HIPau> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18280116> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3tW43cUkPyYkzzntfPwm4A> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q3279393> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3uO8pHG4nDuToeFXjQ62ch> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10276550> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/3xWp6y0HGsHZlXljNs7VRy> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q7408953> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/44c0Ejf6sz9GAy5n00Cyb9> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10373207> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/45km4FUN3OHr7bqR5Evpyh> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q25444712> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4AChNbwadWZ9nTyRLs1RMf> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10283167> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4EGy60w4omhOI8AJRxCSzI> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q5565023> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4EjMtW1nhJGtDc4qqgzX4U> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18276947> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4GbJ5uqdBh80Gv0s6dYmWl> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18277881> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4H6lt2pQ0KCeXNx3v2i2ga> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490578>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490580>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490582>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490586>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615588>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615591>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615606>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615631> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4K3E5bhJb92E7eyeIJ16QR> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q15912916>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q15913255>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q5096411> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4Qq4x0tJGWEFZt6jnvOKrQ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q110879062> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4bkwR7DXVoj2VpBxTQjNq7> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18278884> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4ejwSOS740Jj4z3h4RyxJo> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q3667751> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4hjiHP3NIIzyYUgfs145zr> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10395735> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4iwtmAIcVp2HwouBv0hiNB> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490578>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490580>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490582>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490586>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615588>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615591>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615606>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615631> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4jo3eKI0VPvaN3yuDBFcS0> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q48873379> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4qoMU7ZgpqMWBddob6PNTN> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10369830> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4rC3Th0KvltkdVgEfHOFIC> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16484387> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/4sceISkCvRuDbd74AtKeEH> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q1938528> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/56MthXvN6LcBPwd7zbEgt6> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18274778> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/5aubePAvhRKjAdxJVvMmjw> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10348475> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/5d8Q9szWvjX6FEfFgAYuFc> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490578>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490580>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490582>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q16490586>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615588>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615591>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615606>,
+        <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615631> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/5h8Bfs4huqW0h9dpTSahoe> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q97179684> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/5mU7LD8zuu62ZcWRF5Cz9X> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18277187> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/60Iq7fE7TtyGXc4wJiJluJ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18281029> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6DqXBagxY611pulprabgLw> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q106543330> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6E6MWhvL6y7RNKKxKE2AGI> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18484770> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6OZ7YAEOn3TxYfVy1ky0LJ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10296212> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6cBNiLzK4nFTXtS8EVFCPJ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10266288> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6haDxdERWK3rdVCGc2jr8E> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q2332916> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6j6pNABq2oJnnqj3QgLGDz> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18281248> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6jK2GfT9HRxmO9snF3iYMM> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10357820> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6r0GYeEO1BddAuBD4eM4cq> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q56347450> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6uQsl1WlVplqnehH77hNFL> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18275463> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6y1r2Bu4QpsxhNKsCqnrE9> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18462664> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/6zc42xm02xNDHPD9BYrirZ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10287980> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/71yLJCGxYr7TaasOHtx0IC> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10369977> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/76sEMnhg9N3gdTAHpPiM6v> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10314301> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/77whDq0J0bYLftDVMKAlK7> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q7336556> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7BqdQdesXoceTMhwEfTOrj> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q25442919> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7Fm8kIbRb4uBXbNGrQEexV> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q9615194> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7GRhzFj2BulxZBqqOMBdDe> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q58030152> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7JTDPmuweG2i4EM5UqxUPG> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10321175> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7LJOuD7HKheBaHwwv0i3TF> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q10327403> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7LrpfDg51GwVELHlfflG6l> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q56347705> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7acYsJQq8i0vwClQ9lfeoV> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18279850> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7avsLM0HPiAyW1nxjDPHYp> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q2271040> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7cWIjVWu5uFz7Hk6WOPx4t> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18281242> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7i2CNqSxNpmq4FAse136Tz> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q18280359> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7nxY0piVu70sAlGCd9u8pz> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q64230352> .
+
+<http://www.arida.ufc.br/resource/Spotify/Record/7yrRo2o4XzDfv3mNnkPRE5> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/Record/Q1128363> .
+
+}

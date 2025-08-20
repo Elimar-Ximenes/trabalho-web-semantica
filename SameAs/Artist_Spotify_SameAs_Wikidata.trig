@@ -1,0 +1,317 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+<https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Artist_Spotify_SameAs_Wikidata> {
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/096an3uS6ZaK2XySae6SqP> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2194161> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0C8HhyOa7zfzIl3gmPjY52> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q4882073> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0GYeIu5i1MOyHuXKrmiqdQ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3486426> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0L0h1GGHeljVSNWwnqbRfL> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10364596> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0M8rmgpYMtvYbHvXD3cHkN> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3811888> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0MGbmpBm2Gzvy6ENd9D1qv> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q85871061> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0RSWHhBUwW7lhCqXqxKxWN> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2710419> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0Rrl4hJQjRAbGtiEwAqS5N> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3306109> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0Vhz3C3dfsDd7qntznS6qR> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5552611> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0YdeGzSneJdP1NEKY3EFlR> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q16336969> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0hPar6ePAELiu9rYMdvMEo> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q438512> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0hZ09eMdNmc3d8hM1bXoN4> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q855939> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0jOs0wnXCu1bGGP7kh5uIu> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q1262590> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0nFdWpwl7h6fp3ADRyG14L> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q109454019> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0rSTXALHu0EKAawPLBdODH> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q51960> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0sgV4klGs1Y1dgbBi28JlD> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2744497> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0t2xdTxRXnffsmpMamH8Ls> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q241801> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0tWtrXx0eO52k40JMojM0j> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q43834> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0vKtp60PHfEnBSLJU9uHgP> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5186367> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0yFvXd36g5sNKYDi0Kkvl8> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q465877> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/10naVTwNjE50daQVrN0bXh> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q269841> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/174ThXFgQg2VCq9r3m8ceb> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q932925> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/17wDxPR2GcU3r1dpCoCiUi> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q1336103> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1AL2GKpmRrKXkYIcASuRFa> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q18379958> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1F8mRUp3abFvF2GBaFw13b> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q8196646> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1LOFaxDBvn3YuvarTldGAe> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q777949> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1M507Np8dZ2dprrHC5aHsm> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3862818> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1PwOU6fFbmaGkK3wkbb8fU> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q731775> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1UKSfUEDY2N9iYnbhOe4RJ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2883785> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1X6ORK7IekgmyjV6IFPszP> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q59572124> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1b8kpp4DUwt1hWaxTiWQhD> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q236361> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1ehJzJeAbLiS4l0PIWd9MD> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q273347> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1hQT9TlJXMBP6Dy4lExSKn> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q1635556> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1j081CNX8swtqfQCXGUc4v> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q13164627> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1jJo9A3hVYQztRTHaIFJka> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q467994> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1m00QT2CkW6rHi4dly8rVN> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3783829> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1mCHLu4gizrN9PwHxKrJv4> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5290443> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1nKYVcowQA1JBEOr5SKPoK> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10303857> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1nca3OA1kKCpP6aPJcBL92> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q483682> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1sDVuztNhGcetCLChkleDA> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q488387> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1vppDmG3i5sXf3DJzrK4T1> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10382110> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1yR65psqiazQpeM79CcGh8> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q24040310> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1zZjt7cDeeJSLWZYK34r7W> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q6701485> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/204IwDdaHE4ymGk9Kya2pY> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q56347761> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/21LI2q2QDyaNjyfXaWWTOE> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10325120> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2JnNhPT0sQvhKOyLqDKRuP> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q16142152> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2Js5EdWOVgL2B2CbtXr5n1> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10381088> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2K5llYyoLmzpOcbVuOY1ls> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3632462> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2O6q06oNcmOIPg1qidSU3C> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q23905341> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2SFIMUkCdZowbeisskDdhn> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q742334> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2YWOP324cKGfkTo2PydgJR> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10317318> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2ZofT7n9AlTKf7KDCoHGgD> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q982314> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2aKyKSggb31Kw9s9i3iXoo> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q968857> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2bmDvPwz8Fu9LQ8aMTFvMr> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3576443> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2cAooeeHKk2UvzUgIxpS0y> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q522137> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2dmQ0vMD3THLMcz7DsvfaT> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q462102> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2qLU3VUpp3uV2Oyf786FC3> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q18708111> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2r1d0isPFggU8QaBzvAWmG> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2395222> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2w3GMLgGsm8mJyVWdWwrKb> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q7666074> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2wwWukJBsCikjlj7vlbQkM> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5216314> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2zDJszdrISx9K4L5hvWT33> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q945549> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/30QTO2nUbxSxzPQfr2rotQ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10314366> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/32GW4h2xb3glY99mWLjwlG> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q9654390> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3Bnq7jiU506HcPjRgQ43TM> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q542847> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3CDoRporvSjdzTrm99a3gi> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q16337938> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3DF0ClNOUuvS3gh8V8sRJH> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q1356607> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3LokxmaXXZpL7sLZASDzCS> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q567872> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3QLc39WR4dQAN1SgierGgE> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q982366> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3XLeGN8GPEzQarxiDoQURu> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3899371> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3f5VCwd57gZsqMad28jyLV> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q235980> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3koufmP8p8wNLARHjlyAmk> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q6791876> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3mbX6eftyC0S5l17m31ZSW> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10278947> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3mwORnkU8O0wdR9tXgcpmW> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q16337229> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3pO5VjZ4wOHCMBXOvbMISG> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q200131> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3qZ2n5keOAat1SoF6bHwmb> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q169565> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3qvcCP2J0fWi0m0uQDUf6r> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q353853> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3r3fXHLRkaNVAuP7ckBJOV> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10324863> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3sAzFAAE8UYjTv8zi8tMfK> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10325448> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/447Bu20msaCAz255scVJJt> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q7351771> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/49gy3r9VM6fxS16a9R8eE1> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q9628584> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4DOlsUBpxw706SXx05Xoi2> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q275939> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4IQKOXNGjuRRe0WgOm5YfB> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q23905439> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4Mw0vJsDXTZF7kn7EsdNoD> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5312090> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4NUePmzDvCYqilXBFa91Hg> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q17490043> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4OyTlvqTXUeLEiyOq7KLNU> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q16336773> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4YBLaoTWDgIwBB6Y61Y6Nb> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q6519898> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4YLBdrR3DVSMncm785NH6C> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q715987> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4cn4gMq0KXORHeYA45PcBi> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q435176> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4fdCGYM7dtJLa3LvR1ccto> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10287934> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4ijgnqYvE1INXb1NSVT11m> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q4898161> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4kFDUmta3ihdpLBVLh1Vhw> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5340309> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4ph6Bt1mkDlmf32PSvRa8A> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q465351> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4qKIiUdFND09cgGOc5kfoR> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q261027> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4rVAT3ktBeOdexcKic0mC8> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10271217> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4tKyqcDgQpGEIvJlbhl07P> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q145514> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/50sftj2oW2iBviA6RkTzsz> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q17267219> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/559vxOLTzlAv0zB77JMcdG> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q560788> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/56TkPi7rpmU8jTpkcK7FY3> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q458663> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/57pVvBwa3ZCR9LsVlkLXj7> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q432243> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/59FrDXDVJz0EKqYg39dnT2> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q60999530> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5BWqFYIPTnFx3OPWOoJvmD> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2747761> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5I0EPnV9gwrZYTbScjnaOk> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3039180> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5JYtpnUKxAzXfHEYpOeeit> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q119015> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5Rxz1EE4Jj08mu40vlrqHv> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q545519> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5ZfBThYiIIhL7jHMG8gDB2> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q51882931> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5dwu0jLFd2fRnlY8UUJIVk> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5211758> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5g0Xoyr7uIlAYCkpgsFhJH> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2495947> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5hzHutt6DLPzctqvnS6Fdv> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q16336433> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5j3htXVskZF0u8qWY5zcF8> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2232922> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5rX2c1zow6hCph8PnnU3kF> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q230401> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5rrmaoBXZ7Jcs4Qb77j0YA> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q939829> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5w4qi7KMTWcV7sgXgVoPwW> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q1402657> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5zblJYkCzvB51Jh29FB07V> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q18246429> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/64KVQ4YupSZYrGNLduVtj3> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q940848> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/64neTfIIdYKNhJ9zxoz3jF> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q703330> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/65c5si0ePAwkOCn4M35Ho7> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q337359> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/65yVjvbkC6m9DzQFihrSvL> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q4464938> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6AyvSIi2EyLOaMJCc6J5fZ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10317344> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6DYBkobQCkvav5GCnfqlcC> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2117780> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6DqFCzjARUV3xH9meu3Bya> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q328449> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6HIbhMYCH5JS0XpeisqYvS> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10289262> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6HNIWHUiKtaQwzY424iplT> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10371098> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6MQhMvMTFK4nAQzoOKrwY3> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5049351> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6P6IXsZWyS49AUbhGCvvLK> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q707607> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6UKz2oYWzE0ZBnciztCown> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q447984> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6ZrEc5xxZQvThMNTPsyuOn> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10342821> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6cHQUDAPGKRE2NbVjBlOcz> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2085377> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6fV3ZNUY8BCP45yuCWWDez> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5297751> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6iAY2AyUZLSX3PWLIAfFZY> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10281208> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6quVEYAfHqHwpp8JujXBHt> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q1790945> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6rM2yY0GnVcOHMU5GD3y9E> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q385498> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6tOsSffQQIXmK8TqsDck8t> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q333632> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6tzRZ39aZlNqlUzQlkuhDV> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q23893181> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6u5P4S3NSj4EDNegDlOevO> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q978375> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6uuLpdfIBoNBq3ESoMzNwn> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q3817541> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6z6iovCkrGvBsRsLOrFbdx> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q5230379> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/72f733zGuCPEzCSLs9wOVi> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q217087> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/77ZUbcdoU5KCPHNUl8bgQy> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q192359> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7APCyvMzp0tcZljed0lpJG> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10321916> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7FJXPSSrHgr0YDfeiQ63uk> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q10338474> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7FKlLr5X7LGFMIR7UfDfDq> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q9614654> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7FNnA9vBm6EKceENgCGRMb> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q13476301> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7HGNYPmbDrMkylWqeFCOIQ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q309983> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7JoWcJHDOG58JYTe6d400S> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q2756134> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7K4gHixgiMhvBDewgHoxVk> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q1089193> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7MiDcPa6UiV3In7lIM71IN> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q380821> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7dnT2FUXhjirperXaH22IJ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q265179> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7dzq55YG3wjViqexDwiycQ> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q235940> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7fAKtXSdNInWAIf0jVUz65> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q465191> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7hLjkyL9Pz9xtQNahzJZki> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q16336873> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7jrRQZg4FZq6dwpi3baKcu> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q1392583> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7n1XMwvxPf10t4OX6h6Ufy> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q6963370> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7oEkUINVIj1Nr3Wnj8tzqr> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q221479> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7rPqFVgJYARiFsLDlN6W6y> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q983074> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7rXMvXRnWHaSwnVvPeUUfw> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q30933614> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7zsxdMsODmHKTbTB00t9wS> owl:sameAs <http://www.arida.ufc.br/resource/Wikidata/MusicArtist/Q727090> .
+
+}
