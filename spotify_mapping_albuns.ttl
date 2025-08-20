@@ -62,7 +62,7 @@
     rr:predicateObjectMap [
         rr:predicate foaf:maker ;
         rr:objectMap [
-            rr:template "http://www.arida.ufc.br/resource/Spotify/Artist/{artist_id}"
+            rr:template "http://www.arida.ufc.br/resource/Spotify/MusicArtist/{artist_id}"
         ]
     ] ;
 
