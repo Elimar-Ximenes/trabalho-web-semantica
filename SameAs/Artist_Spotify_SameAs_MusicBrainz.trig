@@ -1,0 +1,269 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+<https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Artist_Spotify_SameAs_MusicBrainz> {
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0BLa22ZCJcTxW78hoNlFA9> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/6441c1a7-9e00-4e95-9587-f33baf16a44d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0C8HhyOa7zfzIl3gmPjY52> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/d51c2d7f-921e-4f24-9fe7-92efc5189708> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0GYeIu5i1MOyHuXKrmiqdQ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/0f004db6-79d6-43b5-a536-0d4305000eb2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0RSWHhBUwW7lhCqXqxKxWN> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/7c743881-aed4-47d4-93d5-9fdd6e2904bb> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0Rrl4hJQjRAbGtiEwAqS5N> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/7f3a2f7e-6277-4d72-b673-f3a8128a6aa0> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0VSgciOd32tP2Yna1w4vDr> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/ba617653-44e4-404f-91cd-f74adce5687d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0cWAA0nMjRXh8o61j3hUgm> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/59b2057f-5a0c-4ce1-a404-5de1ffdbc012> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0gO5Vbklho8yrBrUdHhuLH> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/b397349e-1b0f-4e61-89ac-caeca5dea676> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0hPar6ePAELiu9rYMdvMEo> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/51bde19b-feed-4e6c-99e7-84327defabe2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0jOs0wnXCu1bGGP7kh5uIu> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/446ac261-09ae-43f4-a7e1-2c753c0813ce> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0lTr2hteHyTLbCmgUpLf8J> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/70d13364-265a-4961-856e-fd3d8bcfaf25> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0ozdcqmICsOZDe7eJQVzrp> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/a0d45340-4169-4be1-baa3-b2f82d093a7d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0padwH2BcP3olMtXhfW24N> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/4481c22e-c232-4d0b-8fc8-132238796760> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0qHOVLCmMmMgk9l3GsgmUB> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/c1139317-02cf-4310-8722-93a095f5b1fa> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0rSTXALHu0EKAawPLBdODH> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/f81f19b9-c76e-43ac-8656-bb56071785fb> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0t2xdTxRXnffsmpMamH8Ls> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/087fc778-c1ed-4f32-bff7-19f8eeba9e57> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0vKtp60PHfEnBSLJU9uHgP> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/479b3d39-a56d-40ac-9a4c-1164364baa52> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/0yFvXd36g5sNKYDi0Kkvl8> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/e9e85a54-074c-4d29-a886-bcaaa9d44f9f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/10naVTwNjE50daQVrN0bXh> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/b3b9eb0c-d0b4-4570-b816-4e05e308b444> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/11L2rdluUfcxyWcX2feoCm> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/130ba5d4-4d6f-4224-86bc-0f4a0cfb6b22> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/174ThXFgQg2VCq9r3m8ceb> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/f926459e-1bd2-42a6-a174-8994ad950591> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/177N2fB1WvNBCQ4epjMQ3O> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/592a91ea-aa85-452a-8d10-e538c315765a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/17FmMM7nHu9J8Yu7c19dTq> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/d1932cd4-28d5-4564-a851-62f3125dbf7f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/17wDxPR2GcU3r1dpCoCiUi> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/9006dc24-d048-496b-8a82-e52c291db66c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1HQIztYT50mMS3PZR0qgFk> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/06ae0d83-fb18-4384-926f-60fe63d8260a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1Kaf4B6XHMA4agtMO1wzrf> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/6588a931-2b0d-4134-9fdc-29d08991aef2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1LOFaxDBvn3YuvarTldGAe> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/7169b325-505c-4daf-aa90-d3a84c112bc7> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1M507Np8dZ2dprrHC5aHsm> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/5b5d63ac-e78e-459e-abab-5e90e3dddbb5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1PwOU6fFbmaGkK3wkbb8fU> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/e554daf4-4ad0-438f-a7f9-832519451fd2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1RnHJ07H3jcpay9PrUPjnt> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/1bc73091-5d48-45ba-a929-56b852dbd1ae> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1axNKwnXW10Ncg1dv4dwah> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/3213d371-83f3-4469-8f24-72564f1640e1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1b8kpp4DUwt1hWaxTiWQhD> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/fc63a914-272d-4b95-9221-61adcce6f793> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1ehJzJeAbLiS4l0PIWd9MD> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/ada1a988-1510-45e8-9cb2-268a36d19d5a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1fUSLFr4WUBx7joEcGwpvG> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/15f48f68-b87c-4824-8f16-db300b996b72> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1giin6byO7ehdqZBBmbI1N> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/3c069548-19af-4b76-b8e7-4fb438c9e8fd> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1hQT9TlJXMBP6Dy4lExSKn> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/c5597943-f7bc-48de-b00e-4b34c9f8558c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1mCHLu4gizrN9PwHxKrJv4> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/d5956a2f-bab9-4aa3-a9be-ad393518e5b0> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1nv813b9IAJBc2354wQodV> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/bbd0c071-d9c4-465f-bb6c-0be9d7844d5d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1on7ZQ2pvgeQF4vmIA09x5> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/29b550f2-04a3-4733-b6f5-4e347fac7e11> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1zZjt7cDeeJSLWZYK34r7W> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/40bee6cd-8f0c-407e-8e90-d5bdb9231a2d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/1ztbuuZdlymbE7XnHlj0nP> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/a9d531af-d51d-4c18-98b4-2a2d67fc3233> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/22u7Wgb2zIKO46gOYWCs7v> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/f51477ed-d409-42e9-9b94-f6117f095328> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/29CQLw9uLWsl8Qkz9holfr> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/96351496-268f-4ef2-8f7d-768cffdef190> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2JnNhPT0sQvhKOyLqDKRuP> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/f7e8a06b-efad-4d2b-a26a-eb9d96466864> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2SFIMUkCdZowbeisskDdhn> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/67e97898-3bb5-412a-a51e-95a7b59a1bef> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2YWOP324cKGfkTo2PydgJR> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/14ddb467-b2e6-4fb0-88db-75ea45f23d5b> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2ZofT7n9AlTKf7KDCoHGgD> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/712fcc0f-25f5-45bf-bbb8-2601872d08e1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2cAooeeHKk2UvzUgIxpS0y> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/23751694-aad0-45f7-b3bf-bdade42466f6> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2euX7vCVnJy3TVEGfc0RCl> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/c1a669b9-30f4-4171-a2a9-a15d9461ca04> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2r1d0isPFggU8QaBzvAWmG> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/94dd9440-a937-4106-9ffa-f6d128ce94c8> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/2zDJszdrISx9K4L5hvWT33> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/afc99b75-f453-4123-8bd7-3aeea65cb521> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/33NrinbbEctw1wsdKNgZeZ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/c3f416bf-7712-4f00-8dd4-2c9014613ed1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/36yjG0IcS2DjJdMwsAZgWK> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/b813183b-6372-41d1-bba3-23235a89a975> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3Bnq7jiU506HcPjRgQ43TM> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/1bfa27e3-0376-4206-a772-4586e25a64f5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3DF0ClNOUuvS3gh8V8sRJH> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/150ffd99-a98e-486e-8c84-77d77f03747e> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3LokxmaXXZpL7sLZASDzCS> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/2674d9a0-7647-4220-8c10-6d8d0c9677d9> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3NHFpmBuWOdkNalXJgdOqc> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/fcfd3f89-c757-4fc6-8209-9ee19e4112a7> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3f5VCwd57gZsqMad28jyLV> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/b3998c06-04e6-4b1d-bd2a-d5b83572ae7b> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3mbX6eftyC0S5l17m31ZSW> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/06f5284d-028d-43a8-b10e-063b5791f3cf> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3pO5VjZ4wOHCMBXOvbMISG> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/7a8dbe84-f4c0-4457-bfa3-edced1f8cde0> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3qZ2n5keOAat1SoF6bHwmb> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/7d3d9d52-a44f-4ba1-a080-cf64698912c0> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/3xnqS3i4fWn0P30qIlnWYV> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/b0288f97-71d3-4fa2-8379-e482c4d97e95> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/47UDFBXxSM6d5zbKvflXhv> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/2b99cd8e-55de-4a42-9cb8-6489f3195a4b> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4AeWCU2yUgVFbqKmOezL75> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/a9f26073-ffec-4d18-b679-e3f5f4816571> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4DOlsUBpxw706SXx05Xoi2> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/cf07508b-4762-4650-990a-23376e023f55> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4EKJxXaAZapG14Q5FTZoxm> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/6840dcbe-3aca-4057-8d16-4799c3730e3a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4NSbUIfUAkaedUIm8eJ631> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/e6abe447-5f3c-4133-81b6-1cd4f0ba09dc> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4YBLaoTWDgIwBB6Y61Y6Nb> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/fa83723d-62eb-4a87-89e7-2907afc991bc> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4YLBdrR3DVSMncm785NH6C> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/da61fb5d-9543-4e36-9fa7-dad3111f7e8e> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4avp60HMZY8XgYe7VGi4SU> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/593b16bb-f2f8-48a1-a519-0ccc7fbc4bd0> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4bOZtegYNmYOe3gMgPtt0H> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/e3e90633-b6f1-4376-b15b-2492c94b4cf7> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4cn4gMq0KXORHeYA45PcBi> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/a619471e-ee2f-430f-b57b-262f94457559> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4dyYjqmYDjegbB3F2mbvcT> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/17022e90-a743-4c5f-89b4-c9243be7b7ad> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4ijgnqYvE1INXb1NSVT11m> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/14aea021-97ec-48f0-b69b-8a177c7c72ad> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4ph6Bt1mkDlmf32PSvRa8A> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/fd655963-c774-4ef2-b683-5fb73235ef40> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4qKIiUdFND09cgGOc5kfoR> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/9974cbc1-6a00-4a97-8a36-e4a25bfe0293> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/4zDDX3udfNQUTtsYHSAs9t> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/4785c6a7-9d82-415b-8922-f6ddc8c9d918> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/559vxOLTzlAv0zB77JMcdG> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/55ya732YIbmYcA2E9foMJe> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/37415d82-7f25-46c5-a94e-aa76abf12840> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/56TkPi7rpmU8jTpkcK7FY3> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/02809fda-8319-4628-b165-a51213bf30ac> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5C0gCCG8N5Dh5dZytIgzLX> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/a3212186-5da5-4e84-a935-6952b3e14921> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5I0EPnV9gwrZYTbScjnaOk> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/1ba347eb-58e8-45d6-b7e3-09873dc2506a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5JXhkyafynxCvxtov7C1PV> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/f7c823d0-c49f-40d3-84c0-edc32d045ea2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5JYtpnUKxAzXfHEYpOeeit> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/19499124-36d4-4ccc-b28d-04dde3d2076f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5ReVxzuREWusYE4ovnMbBn> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/f5f168e5-f1f2-4c63-9be5-236dd34e0661> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5Rxz1EE4Jj08mu40vlrqHv> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/04547553-efb6-4be3-8190-37a76a1a4e35> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5g0Xoyr7uIlAYCkpgsFhJH> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/d3325b80-7fa4-41fb-81a3-0fc6552feeb0> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5j3htXVskZF0u8qWY5zcF8> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/d3d08827-5446-48c3-b795-a897ae6fe77f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5rX2c1zow6hCph8PnnU3kF> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/8d08cabf-03a3-4f38-a815-8197a0984f19> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5re6NsyXzHg6uvNimzQ3F6> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/2759ea9d-07c9-4901-b764-5215a7c813d1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5rrmaoBXZ7Jcs4Qb77j0YA> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/751e517d-9663-4692-8c20-942e16d484c5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/5w4qi7KMTWcV7sgXgVoPwW> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/41deaf18-1aec-46fb-baad-4b0381c3160f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/64KVQ4YupSZYrGNLduVtj3> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/3a13549a-9578-4547-9308-4167816c51df> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/64neTfIIdYKNhJ9zxoz3jF> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/2f31098d-1258-4f8f-af5f-95815b02f2d2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/65c5si0ePAwkOCn4M35Ho7> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/6bf591c4-b050-478e-9d9f-167394d66c90> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/65yVjvbkC6m9DzQFihrSvL> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/d9f6e182-8551-417b-95fe-a53c75a0c183> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6DTCQ6CgzF698jZZtA5xPG> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/73756fb8-c195-4d3c-89b9-f9c5b5af9639> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6DqFCzjARUV3xH9meu3Bya> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/2ec73913-df20-484f-b638-cd63a5122b9f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6Kps94g1Npexh3LrinIOvC> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/0e3f5f4e-4ae1-422b-b451-298f87a8c922> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6L31zhaK3DUZEze55P3lYJ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/2c9bfd68-38d2-4e9f-9baa-7f99ce7f2f79> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6MQhMvMTFK4nAQzoOKrwY3> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/c702eacf-758a-4f51-9c5a-cf98d69fc329> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6NqIUh0cpaygBWUUAjBaog> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/126d22ae-77a0-431c-976e-199501eb5e42> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6P6IXsZWyS49AUbhGCvvLK> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/e64fe830-fb77-462d-85d2-1d3265ae6ade> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6Q1U3z1hge970f3QhrPKcW> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/b7e71551-4c49-4e3a-a71f-7b03f5070f25> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6UKz2oYWzE0ZBnciztCown> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/1fe4421e-850f-46e2-a8be-b760c57cb9c7> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6VPRGmbZ0dupZrbwwEDRRw> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/0b9d0a89-bb03-44ef-b6f8-ccd47f4f5962> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6YMWV5AeYoZymMMDonMfsA> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/9c9d31ec-01ac-4d4e-a4b5-fce93b6b2618> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6cHQUDAPGKRE2NbVjBlOcz> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/c7c9fa4d-262b-45c1-9477-237849654948> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6fV3ZNUY8BCP45yuCWWDez> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/aaaaab61-aa05-47e9-a607-5da742148efb> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6m9OlwfRBWVyiazPouhBGx> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/388db986-7095-4822-a08b-7c311e7805fe> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6quVEYAfHqHwpp8JujXBHt> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/1f97a764-961c-41fa-99f5-d30bc0319952> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6tOsSffQQIXmK8TqsDck8t> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/3a5d1cc7-627e-48ea-aba3-fdd20d782c33> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6tw6EpC9RgmSRZiZg0n22t> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/47685be0-926f-4be9-b1ae-e32da47a3b99> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/6u5P4S3NSj4EDNegDlOevO> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/e02d67b8-b581-478e-be33-c988627e4050> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/72f733zGuCPEzCSLs9wOVi> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/bd4d397a-849a-48bf-be24-52eec87feeee> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/77ZUbcdoU5KCPHNUl8bgQy> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/286ec4c2-b5ca-4f85-b331-280a6d73dd14> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7EM9m7HOXxVgP9oEpDDv70> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/f197a8df-ac2b-4e78-9913-4abf13741f12> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7HGNYPmbDrMkylWqeFCOIQ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/f07dbc2f-317b-470f-bad4-5f1b0eb6faf1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7JoWcJHDOG58JYTe6d400S> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/5e2c3b33-b734-41ba-ac71-2148338840f6> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7K4gHixgiMhvBDewgHoxVk> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/170f8e52-73ce-44a4-b032-11c706cadb85> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7L5YQQJPL1wrmrdigJavV7> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/1ccd14d3-c66e-4949-9308-655b8df1a523> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7Lvg39k5XgXevGR767ikYI> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/5cc03b39-9b7d-43d6-a1d9-321c2e3aec50> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7dnT2FUXhjirperXaH22IJ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/3f962bf0-42a0-45a0-830f-07b66301d35f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7dzq55YG3wjViqexDwiycQ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/d553e89c-3c2a-4f10-9ce1-9eaa74de0129> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7fAKtXSdNInWAIf0jVUz65> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/e43f8c07-2d2e-47fd-8279-dc0e9880882c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7gfkYbxpguEc9bm6m8TpAr> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/59378495-b82b-4def-bb34-0d7c83a58e6e> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7jrRQZg4FZq6dwpi3baKcu> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/c4efd92a-5692-41d5-91bb-b23d4b75e735> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7n1XMwvxPf10t4OX6h6Ufy> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/cda86e8a-a26a-4b3a-959c-bc9f8a88a1c1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7oEkUINVIj1Nr3Wnj8tzqr> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/cf6b70f6-2616-481c-912c-0263cabfc974> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7rPqFVgJYARiFsLDlN6W6y> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/390ff98c-0614-4927-8b94-db7b40a92bbe> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7yQrcdkLdBAkV7yY9fF2Hw> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/6c3c8993-a887-4826-a04b-ff4353a08a53> .
+
+<http://www.arida.ufc.br/resource/Spotify/Artist/7zsxdMsODmHKTbTB00t9wS> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/MusicArtist/bec2162c-6a15-4bfd-a69c-3e35c4fb1f19> .
+
+}

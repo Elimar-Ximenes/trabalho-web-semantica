@@ -12,7 +12,7 @@
 
 <#TrackMapping>
     rml:logicalSource [
-        rml:source "musicas_novas_brasileiras_filtradas.csv" ;
+        rml:source "spotify_resultados_detalhados.csv" ;
         rml:referenceFormulation ql:CSV
     ] ;
 

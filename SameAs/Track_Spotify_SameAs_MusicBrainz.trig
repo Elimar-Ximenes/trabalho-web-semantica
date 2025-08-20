@@ -1,0 +1,332 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+<https://graphdb.arida.site/repositories/EKG_MUSICA_BR/rdf-graphs/KG_Track_Spotify_SameAs_MusicBrainz> {
+
+<http://www.arida.ufc.br/resource/Spotify/Track/03uzQMPYLmH848VDbgvSkg> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/a656cab9-1b58-447a-927d-693ae5117fd9> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/04h9o3gtRD7fvGafF7ukJj> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/168249b5-913d-48a1-b8a8-96acde052802> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/052ZfT5N5LZgDmBK4r4Qeb> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/20453840-2ad8-4c00-b057-c4b5def86816> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/068xbhFAT2ATAxLeKSeO4t> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/d6d09c9f-bd3b-47bd-b22c-fb072dcab2c6> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/06zJTtfh0Glg7WFVwcgEtB> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/60309618-939e-4011-8455-f123e0ba272a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/08dcweSRXqWoMdYJU0uqmQ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/d0a7cf88-bdc0-494d-85f8-652b842b50b4>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/f71d4d06-b732-467a-a6ed-4ad57b6c2143> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0CocxNTZr8M2aWtRyAIx8l> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/58dcec8e-72dc-48aa-a70f-e0991f8bed62> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0EFgQPupq1L5Xk8pipKhI1> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/58b9b2f5-057c-4fda-b89f-34c454533295> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0Evq4YFxisQyJIx5VWt91h> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/a94b7ffe-5d89-4990-bdf0-1eea8253e1dd> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0HuRTyI3kEP5K1ecfVKRyP> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/63b9a1f5-3ea9-4d57-b081-e1f8f634cd9c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0QTHMwbhMnORlYDsxW1ume> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/868832a8-36ed-4034-9f95-b6d860da7ac9> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0QlVWwtdBEKronbxtk0oF5> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/42665db3-d609-476e-ab4b-864863337fe2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0Shw6oLeT7LVhNUv8giEMY> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/c2502ee3-b139-4184-862e-0869d689d121> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0Sw8BilPHOh8wZ8IyMstqs> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/d2eb96e2-7ab5-450b-91c5-339126352863> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0XI3xzi3W1sBDfri2FKtj9> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/6bef9a4c-48cf-4fd6-b6bb-6600b1a853d8> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0alCB51vFVZcDQGsSnx7hN> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/e1be9b31-6c48-41d1-a198-498561961d01> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0hQyPCVhweGgbeNBlIehR5> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/ae9a27ea-716b-4c7f-995e-517f84a1c591> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0m6bwM3rVSrcHWPyI8vGDy> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/0766505c-1d8c-4452-83d7-d50cb06b4ee0> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0nPGAtUXax6rzPGjQtw5Bu> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/468a9678-d9dd-4a6a-b091-4d0d5ff0869c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0pZsmm7vcgt30GC44FoKie> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/48db69d2-36b6-46fe-af2c-900092f9a953> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0sULJe0h8eq14So1IKxcPe> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/20fb886f-32ef-40a0-89ee-e0238d17e2fa> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0tZPhLApga7MI4oMPVOWP1> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/83fb7ca9-f573-41b3-ad2f-b8243673a68e> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0vZwdJBXOGppAMLjwDUNWg> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/66fc9a34-36ee-422e-aff2-f4dd7886f429> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/0yO7Rg00ZJiMMb8pHiBojc> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/23554b8c-7ae7-4205-9c7c-17a43e19e00c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/12JRyflYPEL2R4zCVTKEXn> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/8ca3f51c-9ab2-4617-a779-3783ea707da1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/19Atr8oQOTaSzL7JmjkmxN> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/ad574f09-548d-4086-bf34-141817e468aa> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1JhfF3AdA3l7Tx0CrA2IHC> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/fb12e115-ac2a-4cf4-bdeb-38625c85f8cf> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1LUJZ7uxVVmZyUY66xargH> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/380243dd-42af-4712-b921-7afe168b0981> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1OjXtxD30TelXPpM659RDi> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/4bb3298a-84fc-4029-9737-5cf990e59004>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/a7ffd7b2-37ad-4dbe-ae53-62f883e91c1f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1PJav3utD7mvErlUwKC40c> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/3f32ba4f-b7d5-4e01-9fe9-475750ceecc9> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1Pvi3x0toCGQGVs8hHe32C> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/f6479365-1813-4984-9628-bc6dcf179184> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1Qxe0y79abwbbb1gdnrDYQ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/d1e495bb-6171-476b-845c-fba22f46d6ca> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1RUCwWRA7p6re4xXW8jYDr> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/d7598f91-7c7d-4e49-ac61-11ad4c1f19b7> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1TX4h6MrIZ0K3r4OOG11WO> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/445be784-9287-4049-b630-6d0e74e25c93> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1YXQRoh3BkEivAX26vQnwP> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/25b33539-7f60-475c-a504-e815a582042e> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1cmUJxMYtUfoKhVVfTAwb4> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b3b2073a-ee4c-47ea-b3a0-a143d232f93c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1gSVKHQjiqvuvvEta71hy5> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/4a23f0d8-9b4d-454f-8d69-d187042755eb> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1rASuRGnqDs8aCtZgtFqu2> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/bb2f2d10-0ed6-4c14-89c6-92112a5a0f6c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1xL7rj4IjewufadhoNyeRm> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/01a70d2a-da09-4b27-a61d-54af676ab3ac> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/1yJGUKdCB8AZujd566ZMXA> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/243a91ef-6c1a-41fc-aff7-e0ab73832293> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/215cvJYwiOkLK9mBcrOCKU> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/40531b8d-fd8b-4756-bda1-da23986b4570> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/21JhDjqpdAMqFPKsnXQ7yM> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b71e11b7-b759-4771-a2b1-0e5297c53b48> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/22CnUfVvLAc8qZztQHJyxR> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/f327b574-9632-4fe4-a261-c1377d391aef> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/28G6Db7A6P8YP5MxVwqP7z> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b2bbfdf3-adbc-482e-b06f-3a36665d85c6> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2DlIW6OquVsw9HcPg1HUFk> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/783906ec-ab52-48e9-85a1-43a1a4941b76> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2GCcg2IJhEZkOuU6uVxrRu> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/57f7954f-88ff-4194-9b38-7c1e05e5d686> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2Gkf6q9Mqai9wNhcsKCM4e> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/602bd4c0-0555-4266-b877-d563c0d195f7>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/d83031ce-8ca4-441a-b2c8-ae4c43d52fc2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2IDYZUxH8D7D5EO5D3hUKz> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/2f059506-5c4c-4e2d-9288-de2c7e403797> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2KIs0b240WWaiupuAEhbaZ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/3070236e-928f-4be0-b45c-81f079a4bc9f>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/9f84e49b-33d6-4bb9-a168-da731fbfdd96> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2LiKXvBnVgvSyybGNMfIBB> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/7ef7817b-9f04-4ece-be35-d93408c79c24> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2LxaYZHG4Y5H8zRVvyqlph> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/2c997fda-5724-422e-a466-2698c998b291> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2M78eGrE2zsjzXDg7SilUn> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/93cda563-f34e-4817-807f-f7f67e923acd> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2P05V7gZi2qpNe3zFE2Es8> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/8aaa42a8-afa5-4d3f-b309-7adec65a02d6> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2XCF9zbOTpv4VfuQxahluA> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/78ba8558-1b27-4fbe-a268-1426e47319ee> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2aCZIDu3I5GFnVAhkFho9s> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/38a13155-97c5-4e30-bfaf-755722a2f5c1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2cB2det3RwpONOaNHrtydr> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/f17e0844-0c94-4c61-a431-a868d86bbfc5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2eTK0ELixTsrcQORmbs5VQ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/002333e1-8ac2-4dec-b7d9-4846282896dc> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2gFqiqZttgkuCVufLeJXJn> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/2e3cff15-e61d-4dd3-a138-ae91f2cf8ca8> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2hFoOVFb3GhIUpBJVsEjlr> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/62afea73-0edc-41fa-9cd0-c11e1a2883c7> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2nvxeqyG7Isun3HZg8ow2E> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/40531b8d-fd8b-4756-bda1-da23986b4570> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2rJl0ohtsAtnfmYfe7EJkp> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/2d6985ad-bb31-4254-849c-f90ab322749f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/2uMGASx1wGeQTCcEKgDOBl> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/7ad8a039-3ebc-402b-8dff-05d6a4c78623>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/82450194-5702-4357-8412-a7c423d301f5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/31Pej3a7XifajP3pI1Oj5Q> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/894a136a-1583-4583-9670-f5144d6682a1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/36TNhQPlRrQkMRZSwNw7Kk> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/7d9faa47-d43e-4e4b-b5bb-51c994df55b5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3AVsUDY0ZUjro4GGsjKeEF> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/89ea55e0-3695-4d45-ba12-dc4e0a131538> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3BlrTRlmoO3e2gFZZn8Kji> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/651080d0-9f7e-4d13-9341-5d31964d084b> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3C8ULtjiUmTtcpE7QJBZ7G> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/5bcd1108-5a74-42b9-99a4-99536c2e567e> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3MEzPnG6iHlYiSYgMJN1Km> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/ea5d0241-08ea-41f8-953e-5aaff34649f0> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3OAkLAzOU84ZEdeT8xfrr3> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/191f100c-c0fa-4552-bb7b-09a5620942b9> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3OWx5PaG5NsTHhspypyZyt> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/9aff09a8-e68c-41c0-b042-851755918f35> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3PavsmA9S6QA5lNmmsuOif> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/15ec576c-6383-4c2a-a808-aed6c2819f29> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3PsGlZaMR6W3luCmp3RgRc> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/534ec6d6-d30d-4653-9731-1556ad15756c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3YpLvMwwXEyuPNGeuxfQXm> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/ba5ac925-b4ee-47c0-80b7-d87c8291a33b> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3bqzeiktzDnOu7RtbB8kb6> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b8ebceef-7e79-48b5-a0c3-511e393cd3f3> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3cJ1iiLwmvLSNjqeQrkC1n> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/65001c16-9519-402c-b779-529c3309ec90> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3jooIrgcHL5EDud3bpJVwr> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/4a96daeb-aa84-4e0b-8b26-6e5524fed7a5>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/f4e2677f-6ff7-469f-b0d9-5164cb153241> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3tmLBY6mnMwJEBuveUQi1K> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/11cc13a5-f9de-4ff9-831c-a153662f6d01> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3uqXF6c16zIKZUPQvFo92L> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/89c98fac-9c1c-45b5-b9fd-3b80e5c7b6d8> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3wRe1E7Lc4Ah05D45YRNrT> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/984d3602-ad67-4a24-a1e5-980385958319> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3wXvpx6cple60frQTJRtET> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/f6a43a1e-fe20-488d-8331-d98728968322> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3whBktP2FropNwzMpmXJJx> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/1ad1d0b5-37ce-4108-bf0b-fa19611be680> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3yfRDsK74hvMIBLR1VX3nO> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/724941df-078f-4bf5-aba9-0a4ccc88f77a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/3ytXzEJFeVydFfmUhHvti8> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/e9535c43-80cd-4d96-88d7-68b7008ff2b4> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/416fh2yY4DWO7IRBGliJi2> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/992fd3cd-8a43-48d8-9454-4babeba2f5c7> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/45fbbFkcoQ02ffNbqzC35H> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/92f8310b-6437-46e7-a7de-14f374a95e17> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4C0jbc9jPcDmPDGphIdDoN> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/a9147343-b465-4885-abea-05c794018796> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4CZBue0LeQicyqxqGJHN2f> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b7e35359-4bca-4f08-bdb6-497110c49a4b> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4EgIdWQN7Vevz8H4KPiNl5> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/35cfb1c2-da02-4bd8-8191-e6212048258d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4Eu11AEW4PK9Rtc3TkTwl7> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/5c268952-714f-4de3-b6cd-313810bcaa72> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4F1ZzEv2MRwAA8sSv0L4fp> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/e8c1f553-10ef-41b3-b9e8-f62d8da2c09c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4GJC42rbU2szjECsdOJb4N> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/e4b6c4f4-bc38-413e-b140-59571d606607> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4R3KThu3ex03ri8KJYsvdz> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b8354e8f-6bed-46b1-9ee8-e11f7dfe35ea> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4RstgXnX6kOollYbcRukUp> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/5e83d7fa-46de-4666-83b9-91cc216f77f8> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4Yx0I0Rmoci1E58sO2d9hE> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/0c3cd740-424b-4dd6-b3ed-4466ad73946a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4Z1ck3vkGneb3QSbFRm46z> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/6d75b855-0ddf-43fa-aac2-bfa3f0337376> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4aSRpparXch4XO9aBYWKpW> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/f801798f-e97f-49e2-8c98-b90d84614e3d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4buQk8QyuBeuPaz72MbNX2> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/92df9a65-9ae2-49d8-90d6-4dff3bc3b9e3> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4c7m5TLZ61e4otG1fZ68XP> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/bfcf47e6-92d0-4642-9d6b-27c3aa73152d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4cRCOpA6M0Ijobvp1or4V7> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/e3304ad4-e317-4769-bcc1-6c4b34e737bd> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4nRAfYk2Aiws52d6acqXQT> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/17324f4e-9d81-426c-bfc7-b1f18a4f4c32> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4tmLSgGM97sKZXgAjroqz8> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/192d431a-46a6-4434-a7f2-c82d618f5e03> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/4w1llcpdUvC3SUaGIM3kMQ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/7ed79804-42d3-4bbb-a17a-9d820366b594> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5C1X0xn5tCwREuO2rqM8ce> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/86e58740-6a76-4c4a-865e-28504c1d3a90> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5EhEspC9ON9HwrFglTHDLb> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/bcff1561-ae43-480a-bfe9-015bb40061c8> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5IzS7JCruSdiHTWrlFP9PX> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/25f8dcd2-be57-44b0-ae79-87482f56d5e4> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5OHVX45Qlx05k58gUiy9Su> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/824959ee-4d3e-43d8-950b-b061cce191bb> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5Q6EMcGsEE00d0Zpv1zGEk> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/9e4e9b8f-807a-4b6f-b8ad-c0064fcd646a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5SK175I291bHHcroTHUwQn> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/3bc084d4-15a1-4385-8abc-e36a247cef3f> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5SvGJbg7rCEbvVYbr5iamK> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/6018caff-b024-4cbd-b317-8b92d8cc682a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5XIWCQ16kSY81GPZFppYYt> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/7c60eb54-9b38-4bc1-a50c-c99e7f46d15a> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5XZsVyVtQ0teTbEw93RMI4> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/32e6419f-9b5d-4b60-9bb7-9155a5a98ea2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5Xib04IyBq40lJt77VR4jl> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/813277e1-27e7-49b2-bc62-76fe79fdbbeb> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5dIZa3pwSn1vDenZpSBEFO> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/12d54863-3d13-4b5c-aca9-80354079ad38>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/a473a108-b1c2-48ef-9b64-a87e2dfb68b1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5gslGXagLD4RFw78TV7ADK> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/c6b0330e-86b6-4178-9ec6-6535d764ebdd> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5hvbaFvNWaq045DDF5LvDu> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/5c217200-67b9-46a5-a3d8-21e3e446c52b> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5pJigZY1K2cfOo6dosYcMp> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/df31bf52-9d24-4777-b060-5402dcfc56f3> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5piqIEIHauxXv04D4CieiB> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/733e7694-1051-4e40-8216-71c4b0c3fdc5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/5rNz8TzxxheVpSKVNM3jQU> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/ea6148b7-d958-4cb5-b3d1-1f5d6ffa4e7c> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/65qm2otM1bTJVLo3OPBa51> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/62cb8b68-1cc5-436c-9dc9-71668b5a6405> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/688vUymvWjM6ztrBGGZAuV> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/34048505-4258-48e2-b3c1-ed7ed86364cb> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/69PkZh4ErAkSMCo9Qx7cuB> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/c0aac5f1-33e1-441c-8820-cdd860c7ba8e> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6C6315RjrDrqj1oqaJVGY8> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/7bfd4606-344d-46fd-ac11-85d72d5e1b1c>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/f5c9503f-443a-4c97-8d52-b76f6b596cde> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6DaSPfQqsImJ2D17RnGm5p> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/59756dbf-3782-4b00-ac49-162b6db420e4> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6F90ML9nbYove15popV4lF> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/a822ac66-d988-40ed-9de2-d17e033b917e> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6IQHHZolH3C2X6Y4zrlZbV> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/26f0b71b-99fe-4e06-879b-4f49c00016e2> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6J4gdn9L1im9uqzqBLhht6> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/c5f5d8e3-622a-4e1f-9f21-ff613f8886ff> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6MntizgrlwdMH8LBfJ1Z0u> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/cf2acb21-a8c6-4314-a45c-a87784f2d1d9> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6OxRX1BuBlQVH3Vi9qAJ74> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/6cb349a1-767a-49f1-a344-bd72f375acb5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6PkaFe1OrijLrChCBGrdAY> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/a39cc699-9fa7-4706-912e-c426ccbd3ecb>,
+        <http://www.arida.ufc.br/resource/MusicBrainz/Track/b06d44e1-d53c-4c85-9581-e877da404c5d> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6QnhPvRJLLSzc84ve07T0k> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/2a010fb2-a242-44ff-9506-94fe3be91218> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6U7GUjtamt2P0LcFod1dBT> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/4e881968-356b-47a5-bba3-fddac6894ffd> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6YBoyv9B6MMyoc5JXf7AV0> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b9a064f3-3cb4-497f-9aa0-2d5d88b56d92> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6YXOsfhu4fDWcHV14tcF3x> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/ee647e73-9f45-48b4-9296-a2f22bdd90dd> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6cA7vprjpDLPlS2nsWjuLe> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/c9fdf1a4-f9d3-4501-80a3-45fa9b5b1ca5> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6dfl69q2db6OlXhWxSHMxd> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b4d649f7-962b-489b-af04-74b93d141ca4> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6jL7F1dZCyEUM3NxalgfBV> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/daf6d790-f097-46c9-a067-5194a603e171> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6kQyNuzjPC51fejM1YYX0L> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/53bb190d-09f7-48ce-a7c2-ad3b71f27efc> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6l4EDrdR3bAeBrIGbmCWg9> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/88f6d250-7a58-4184-83cb-cfd4c53d5602> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6tghVVbANieSAMpFpzYl8M> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/122c21fb-3d49-48bf-873f-048b251d73e3> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6vzEUwK4CbcDMDvmJ09WsY> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/36e203ec-5e12-4086-b49e-35b7fcbe9327> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/6zv4A6XZgbcr8gjdz1ZMV6> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/3f8a748d-5858-48a2-85c1-440ba3beb453> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/71MwJIgTuiZeNWFSjdjmBh> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/9282fce7-023a-48c8-a238-98a6829bb281> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/78I8jaChZbPu72bIGGPMKk> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/c7ac3355-3019-4d87-8b5c-257185be5c63> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7DkYQ54JPihbCFV31Vj3lV> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/dfba9884-9607-4fa6-a130-3c1dcea08b71> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7ESs28TZl95wGtMY3z3gRD> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/e8527589-aa4e-4924-85a3-4d9b1ae0a8a1> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7FWl5W1xeRLM8y1WgiLi9s> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/7bf61541-2d7e-416c-a653-147cf8fc1862> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7FrctGQKbn8w6eaL5Mybwq> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/06e5ac2a-52b0-42cd-aad9-223d27eeb8f8> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7IsUsMa9T63GIg9Uv0dUX2> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/42b16001-f344-4c1e-9265-ab6c664d6fe8> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7JZmQRYYYbI7WceOLI6aUY> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/08664f67-74d4-49b9-9dd3-1604ed27fbf4> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7JyXP5b9VEeoyi1JA5eJzk> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/3a0e2f4a-1d95-4f3b-a7fe-7c38e4558d99> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7MUwJLUF7n7upt1jYTsCeG> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/45c008d0-3858-4581-9d80-f41cc486a069> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7cbsRk9E7RabXZ2iGSJLcd> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/d10ed324-9c86-4183-a58f-6b3ef0cdb3be> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7fh1znCEFTyT4jKnxjX8iJ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/b346ee54-4c9c-4a22-ac4e-b6e4c445cdcd> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7gGjc6hcuWM8mdlILfmjm2> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/4f2db4f4-5741-4bee-b510-684d9c92b996> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7m4luyV2RN9QfbnUkqnFxY> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/c2d51cfe-2191-4c59-9f75-f84767a2c5ae> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7oEGoBAzmD8fvAnJKOW8Cq> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/97ebf3d4-0734-423d-9bc5-b857211dee76> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7uBIFfwyGFhMhGRcFvBHdi> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/a7eecb09-30fa-4fed-9083-b2372641a9dc> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7y3aKNKNEFATO4BkiYGPvu> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/f3e4f656-0686-46da-9d4e-cd9dc7003f52> .
+
+<http://www.arida.ufc.br/resource/Spotify/Track/7zLrAZnM6d2QpZSOqrdrYJ> owl:sameAs <http://www.arida.ufc.br/resource/MusicBrainz/Track/bee01287-6db4-4b4c-a6ed-d4152bd7d192> .
+
+}
